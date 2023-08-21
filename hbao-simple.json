@@ -3,11 +3,8 @@
     "id" : "https://purl.brain-bican.org/ontology/hbao/hbao-simple.json",
     "meta" : {
       "basicPropertyValues" : [ {
-        "pred" : "http://purl.org/dc/terms/description",
-        "val" : "None"
-      }, {
         "pred" : "http://purl.org/dc/terms/license",
-        "val" : "https://creativecommons.org/licenses/unspecified"
+        "val" : "https://creativecommons.org/licenses/by/4.0/"
       }, {
         "pred" : "http://purl.org/dc/terms/title",
         "val" : "Human Brain Atlas Ontology"
@@ -18,21 +15,529 @@
       "version" : "https://purl.brain-bican.org/ontology/hbao/releases/2023-08-21/hbao-simple.json"
     },
     "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/BFO_0000050",
+      "lbl" : "part_of",
+      "type" : "PROPERTY",
+      "meta" : {
+        "definition" : {
+          "val" : "a core relation that holds between a part and its whole"
+        },
+        "subsets" : [ "http://purl.obolibrary.org/obo/valid_for_go_annotation_extension", "http://purl.obolibrary.org/obo/valid_for_go_gp2term", "http://purl.obolibrary.org/obo/valid_for_go_ontology", "http://purl.obolibrary.org/obo/valid_for_gocam" ],
+        "xrefs" : [ {
+          "val" : "BFO:0000050"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000111",
+          "val" : "is part of"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000112",
+          "val" : "my brain is part of my body (continuant parthood, two material entities)"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000112",
+          "val" : "my stomach cavity is part of my stomach (continuant parthood, immaterial entity is part of material entity)"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000112",
+          "val" : "this day is part of this year (occurrent parthood)"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000116",
+          "val" : "Everything is part of itself. Any part of any part of a thing is itself part of that thing. Two distinct things cannot be part of each other."
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000116",
+          "val" : "Occurrents are not subject to change and so parthood between occurrents holds for all the times that the part exists. Many continuants are subject to change, so parthood between continuants will only hold at certain times, but this is difficult to specify in OWL. See http://purl.obolibrary.org/obo/ro/docs/temporal-semantics/"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000116",
+          "val" : "Parthood requires the part and the whole to have compatible classes: only an occurrent can be part of an occurrent; only a process can be part of a process; only a continuant can be part of a continuant; only an independent continuant can be part of an independent continuant; only an immaterial entity can be part of an immaterial entity; only a specifically dependent continuant can be part of a specifically dependent continuant; only a generically dependent continuant can be part of a generically dependent continuant. (This list is not exhaustive.)\n\nA continuant cannot be part of an occurrent: use 'participates in'. An occurrent cannot be part of a continuant: use 'has participant'. A material entity cannot be part of an immaterial entity: use 'has location'. A specifically dependent continuant cannot be part of an independent continuant: use 'inheres in'. An independent continuant cannot be part of a specifically dependent continuant: use 'bearer of'."
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000118",
+          "val" : "part_of"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/RO_0001900",
+          "val" : "http://purl.obolibrary.org/obo/RO_0001901"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/RO_0040042",
+          "val" : "http://purl.obolibrary.org/obo/BFO_0000002"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/RO_0040042",
+          "val" : "http://purl.obolibrary.org/obo/BFO_0000003"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/RO_0040042",
+          "val" : "http://purl.obolibrary.org/obo/BFO_0000004"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/RO_0040042",
+          "val" : "http://purl.obolibrary.org/obo/BFO_0000017"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/RO_0040042",
+          "val" : "http://purl.obolibrary.org/obo/BFO_0000019"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/RO_0040042",
+          "val" : "http://purl.obolibrary.org/obo/BFO_0000020"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/RO_0040042",
+          "val" : "http://purl.obolibrary.org/obo/BFO_0000031"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "external"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "quality"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "spatial"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "part_of"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ontologydesignpatterns.org/wiki/Community:Parts_and_Collections"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://ontologydesignpatterns.org/wiki/Submissions:PartOf"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "http://www.obofoundry.org/ro/#OBO_REL:part_of"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "https://wiki.geneontology.org/Part_of"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/BFO_0000066",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "BFO:0000066"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "occurs_in"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000122",
+      "lbl" : "example of usage",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "IAO:0000122"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "example_of_usage"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/RO_0002160",
+      "lbl" : "only in taxon",
+      "type" : "PROPERTY",
+      "meta" : {
+        "definition" : {
+          "val" : "x only in taxon y if and only if x is in taxon y, and there is no other organism z such that y!=z a and x is in taxon z."
+        },
+        "xrefs" : [ {
+          "val" : "RO:0002160"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000112",
+          "val" : "lactation SubClassOf 'only in taxon' some 'Mammalia'"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000114",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000125"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000116",
+          "val" : "The original intent was to treat this as a macro that expands to 'in taxon' only ?Y - however, this is not necessary if we instead have supplemental axioms that state that each pair of sibling tax have a disjointness axiom using the 'in taxon' property - e.g.\n\n 'in taxon' some Eukaryota DisjointWith 'in taxon' some Eubacteria"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000117",
+          "val" : "https://orcid.org/0000-0002-6601-2165"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000119",
+          "val" : "http://www.ncbi.nlm.nih.gov/pubmed/17921072"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000119",
+          "val" : "http://www.ncbi.nlm.nih.gov/pubmed/20973947"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "only_in_taxon"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "https://github.com/obophenotype/uberon/wiki/Taxon-constraints"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/RO_0002225",
+      "lbl" : "develops from part of",
+      "type" : "PROPERTY",
+      "meta" : {
+        "definition" : {
+          "val" : "x develops from part of y if and only if there exists some z such that x develops from z and z is part of y"
+        },
+        "xrefs" : [ {
+          "val" : "RO:0002225"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000114",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000125"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000117",
+          "val" : "https://orcid.org/0000-0002-6601-2165"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "develops_from"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "develops_from_part_of"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.org/dc/elements/1.1/contributor",
+      "lbl" : "contributor",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://purl.org/dc/elements/1.1/contributor"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "dc-contributor"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.org/dc/elements/1.1/creator",
+      "lbl" : "creator",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://purl.org/dc/elements/1.1/creator"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "dc-creator"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.org/dc/elements/1.1/description",
+      "lbl" : "description",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://purl.org/dc/elements/1.1/description"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "dc-description"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.org/dc/elements/1.1/publisher",
+      "lbl" : "publisher",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://purl.org/dc/elements/1.1/publisher"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "dc-publisher"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.org/dc/elements/1.1/source",
+      "lbl" : "derived from resource",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://purl.org/dc/elements/1.1/source"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "dc-source"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.org/dc/elements/1.1/title",
+      "lbl" : "title",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://purl.org/dc/elements/1.1/title"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "dc-title"
+        } ]
+      }
+    }, {
       "id" : "http://purl.org/dc/terms/description",
       "lbl" : "description",
       "type" : "PROPERTY"
     }, {
+      "id" : "http://purl.org/dc/terms/isReferencedBy",
+      "lbl" : "is referenced by",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://purl.org/dc/terms/isReferencedBy"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "dcterms-isReferencedBy"
+        } ]
+      }
+    }, {
       "id" : "http://purl.org/dc/terms/license",
       "lbl" : "license",
-      "type" : "PROPERTY"
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://purl.org/dc/terms/license"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "dcterms-license"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.org/dc/terms/references",
+      "lbl" : "references",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://purl.org/dc/terms/references"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "dcterms-references"
+        } ]
+      }
     }, {
       "id" : "http://purl.org/dc/terms/title",
       "lbl" : "title",
       "type" : "PROPERTY"
     }, {
-      "id" : "https://purl.brain-bican.org/ontology/HBAO_0000000",
-      "lbl" : "root node",
-      "type" : "CLASS"
+      "id" : "http://usefulinc.com/ns/doap#GitRepository",
+      "lbl" : "Git repository",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://usefulinc.com/ns/doap#GitRepository"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "doap-GitRepository"
+        } ]
+      }
+    }, {
+      "id" : "http://usefulinc.com/ns/doap#SVNRepository",
+      "lbl" : "SVN repository",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://usefulinc.com/ns/doap#SVNRepository"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "doap-SVNRepository"
+        } ]
+      }
+    }, {
+      "id" : "http://usefulinc.com/ns/doap#bug-database",
+      "lbl" : "bug database",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://usefulinc.com/ns/doap#bug-database"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "doap-bug-database"
+        } ]
+      }
+    }, {
+      "id" : "http://usefulinc.com/ns/doap#wiki",
+      "lbl" : "wiki",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://usefulinc.com/ns/doap#wiki"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "doap-wiki"
+        } ]
+      }
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "lbl" : "database_cross_reference",
+      "type" : "PROPERTY"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+      "lbl" : "has_exact_synonym",
+      "type" : "PROPERTY",
+      "meta" : {
+        "definition" : {
+          "val" : "An alternative label for a class or property which has the exact same meaning than the preferred name/primary label."
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000117",
+          "val" : "http://orcid.org/0000-0001-5208-3432"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000233",
+          "val" : "https://github.com/information-artifact-ontology/ontology-metadata/issues/20"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+          "val" : "https://github.com/information-artifact-ontology/ontology-metadata/issues/20"
+        } ]
+      }
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+      "lbl" : "shorthand",
+      "type" : "PROPERTY"
+    }, {
+      "id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+      "lbl" : "see also",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "spatial"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "seeAlso"
+        } ]
+      }
+    }, {
+      "id" : "http://xmlns.com/foaf/0.1/depicted_by",
+      "lbl" : "depicted_by",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://xmlns.com/foaf/0.1/depicted_by"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "depicted_by"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "foaf-depicted_by"
+        } ]
+      }
+    }, {
+      "id" : "http://xmlns.com/foaf/0.1/homepage",
+      "lbl" : "homepage",
+      "type" : "PROPERTY",
+      "meta" : {
+        "xrefs" : [ {
+          "val" : "http://xmlns.com/foaf/0.1/homepage"
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "uberon"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#is_metadata_tag",
+          "val" : "true"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#shorthand",
+          "val" : "foaf-homepage"
+        } ]
+      }
     } ]
   } ]
 }
