@@ -1,0 +1,28 @@
+# PURL configuration for http://purl.obolibrary.org/obo/hbao
+
+idspace: HBAO
+base_url: /obo/hbao
+
+products:
+- hbao.owl: https://raw.githubusercontent.com/hkir-dev/human_brain_atlas_ontology/main/hbao.owl
+- hbao.obo: https://raw.githubusercontent.com/hkir-dev/human_brain_atlas_ontology/main/hbao.obo
+
+term_browser: ontobee
+example_terms:
+- HBAO_0000000
+
+entries:
+
+- prefix: /releases/
+  replacement: https://raw.githubusercontent.com/hkir-dev/human_brain_atlas_ontology/v
+
+- prefix: /tracker/
+  replacement: https://github.com/hkir-dev/human_brain_atlas_ontology/issues
+
+- prefix: /about/
+  replacement: http://www.ontobee.org/ontology/HBAO?iri=http://purl.obolibrary.org/obo/
+
+## generic fall-through, serve direct from github by default
+- prefix: /
+  replacement: https://raw.githubusercontent.com/hkir-dev/human_brain_atlas_ontology/main/
+
