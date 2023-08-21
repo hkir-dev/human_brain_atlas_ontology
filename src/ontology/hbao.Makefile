@@ -123,9 +123,13 @@ $(COMPONENTSDIR)/linkouts.owl: $(TMPDIR)/tmp.owl $(TEMPLATEDIR)/linkouts.tsv
 .PHONY: mirror-uberon
 .PRECIOUS: $(MIRRORDIR)/uberon.owl
 mirror-uberon: | $(TMPDIR)
-	if [ $(MIR) = true ] && [ $(IMP) = true ]; then $(ROBOT) convert -I http://purl.obolibrary.org/obo/uberon/subsets/human-view.owl -o $@.tmp.owl &&\
+	if [ $(MIR) = true ] && [ $(IMP) = true ]; then curl -L $(OBOBASE)/uberon/uberon-base.owl --create-dirs -o $(MIRRORDIR)/uberon.owl --retry 4 --max-time 200 &&\
+		$(ROBOT) convert -i $(MIRRORDIR)/uberon.owl -o $@.tmp.owl && \
 		$(ROBOT) remove -i $@.tmp.owl --axioms disjoint -o $@.tmp.owl && \
 		mv $@.tmp.owl $(TMPDIR)/$@.owl; fi
+#	if [ $(MIR) = true ] && [ $(IMP) = true ]; then $(ROBOT) convert -I http://purl.obolibrary.org/obo/uberon/subsets/human-view.owl -o $@.tmp.owl &&\
+#		$(ROBOT) remove -i $@.tmp.owl --axioms disjoint -o $@.tmp.owl && \
+#		mv $@.tmp.owl $(TMPDIR)/$@.owl; fi
 
 
 ## Disable '--equivalent-classes-allowed asserted-only' due to HBA inconsistencies

@@ -89,6 +89,330 @@ relationship: part_of NCBITaxon:10090
 property_value: IAO:0000589 "substantia nigra pars lateralis (ABA)" xsd:string
 
 [Term]
+id: CL:0000000
+property_value: prefLabel "cell" xsd:string
+
+[Term]
+id: CL:0000008
+property_value: prefLabel "migratory cranial neural crest cell" xsd:string
+
+[Term]
+id: CL:0000031
+property_value: prefLabel "neuroblast (sensu Vertebrata)" xsd:string
+
+[Term]
+id: CL:0000057
+property_value: prefLabel "fibroblast" xsd:string
+
+[Term]
+id: CL:0000065
+property_value: prefLabel "ependymal cell" xsd:string
+
+[Term]
+id: CL:0000066
+property_value: prefLabel "epithelial cell" xsd:string
+
+[Term]
+id: CL:0000067
+property_value: prefLabel "ciliated epithelial cell" xsd:string
+
+[Term]
+id: CL:0000071
+property_value: prefLabel "blood vessel endothelial cell" xsd:string
+
+[Term]
+id: CL:0000075
+property_value: prefLabel "columnar/cuboidal epithelial cell" xsd:string
+
+[Term]
+id: CL:0000076
+property_value: prefLabel "squamous epithelial cell" xsd:string
+
+[Term]
+id: CL:0000098
+property_value: prefLabel "sensory epithelial cell" xsd:string
+
+[Term]
+id: CL:0000099
+property_value: prefLabel "interneuron" xsd:string
+
+[Term]
+id: CL:0000100
+property_value: prefLabel "motor neuron" xsd:string
+
+[Term]
+id: CL:0000101
+property_value: prefLabel "sensory neuron" xsd:string
+
+[Term]
+id: CL:0000108
+property_value: prefLabel "cholinergic neuron" xsd:string
+
+[Term]
+id: CL:0000115
+property_value: prefLabel "endothelial cell" xsd:string
+
+[Term]
+id: CL:0000125
+property_value: prefLabel "glial cell" xsd:string
+
+[Term]
+id: CL:0000133
+property_value: prefLabel "neurectodermal cell" xsd:string
+
+[Term]
+id: CL:0000136
+property_value: prefLabel "fat cell" xsd:string
+
+[Term]
+id: CL:0000138
+property_value: prefLabel "chondrocyte" xsd:string
+
+[Term]
+id: CL:0000149
+property_value: prefLabel "visual pigment cell" xsd:string
+
+[Term]
+id: CL:0000150
+property_value: prefLabel "glandular epithelial cell" xsd:string
+
+[Term]
+id: CL:0000151
+property_value: prefLabel "secretory cell" xsd:string
+
+[Term]
+id: CL:0000165
+property_value: prefLabel "neuroendocrine cell" xsd:string
+
+[Term]
+id: CL:0000166
+property_value: prefLabel "chromaffin cell" xsd:string
+
+[Term]
+id: CL:0000187
+property_value: prefLabel "muscle cell" xsd:string
+
+[Term]
+id: CL:0000188
+property_value: prefLabel "cell of skeletal muscle" xsd:string
+
+[Term]
+id: CL:0000192
+property_value: prefLabel "smooth muscle cell" xsd:string
+
+[Term]
+id: CL:0000197
+property_value: prefLabel "sensory receptor cell" xsd:string
+
+[Term]
+id: CL:0000206
+property_value: prefLabel "chemoreceptor cell" xsd:string
+
+[Term]
+id: CL:0000207
+property_value: prefLabel "olfactory receptor cell" xsd:string
+
+[Term]
+id: CL:0000209
+property_value: prefLabel "taste receptor cell" xsd:string
+
+[Term]
+id: CL:0000210
+property_value: prefLabel "photoreceptor cell" xsd:string
+
+[Term]
+id: CL:0000221
+property_value: prefLabel "ectodermal cell" xsd:string
+
+[Term]
+id: CL:0000222
+property_value: prefLabel "mesodermal cell" xsd:string
+
+[Term]
+id: CL:0000223
+property_value: prefLabel "endodermal cell" xsd:string
+
+[Term]
+id: CL:0000228
+property_value: prefLabel "multinucleate cell" xsd:string
+
+[Term]
+id: CL:0000232
+property_value: prefLabel "erythrocyte" xsd:string
+
+[Term]
+id: CL:0000287
+property_value: prefLabel "eye photoreceptor cell" xsd:string
+
+[Term]
+id: CL:0000295
+property_value: prefLabel "somatotropin secreting cell" xsd:string
+
+[Term]
+id: CL:0000327
+property_value: prefLabel "extracellular matrix secreting cell" xsd:string
+
+[Term]
+id: CL:0000333
+property_value: prefLabel "migratory neural crest cell" xsd:string
+
+[Term]
+id: CL:0000335
+property_value: prefLabel "mesenchyme condensation cell" xsd:string
+
+[Term]
+id: CL:0000347
+property_value: prefLabel "scleral cell" xsd:string
+
+[Term]
+id: CL:0000352
+property_value: prefLabel "epiblast cell" xsd:string
+
+[Term]
+id: CL:0000365
+property_value: prefLabel "animal zygote" xsd:string
+
+[Term]
+id: CL:0000438
+property_value: prefLabel "luteinizing hormone secreting cell" xsd:string
+
+[Term]
+id: CL:0000439
+property_value: prefLabel "prolactin secreting cell" xsd:string
+
+[Term]
+id: CL:0000440
+property_value: prefLabel "melanocyte stimulating hormone secreting cell" xsd:string
+
+[Term]
+id: CL:0000457
+property_value: prefLabel "biogenic amine secreting cell" xsd:string
+
+[Term]
+id: CL:0000459
+property_value: prefLabel "noradrenergic cell" xsd:string
+
+[Term]
+id: CL:0000467
+property_value: prefLabel "adrenocorticotropic hormone secreting cell" xsd:string
+
+[Term]
+id: CL:0000526
+property_value: prefLabel "afferent neuron" xsd:string
+
+[Term]
+id: CL:0000527
+property_value: prefLabel "efferent neuron" xsd:string
+
+[Term]
+id: CL:0000540
+property_value: prefLabel "neuron" xsd:string
+
+[Term]
+id: CL:0000566
+property_value: prefLabel "angioblastic mesenchymal cell" xsd:string
+
+[Term]
+id: CL:0000573
+property_value: prefLabel "retinal cone cell" xsd:string
+
+[Term]
+id: CL:0000598
+property_value: prefLabel "pyramidal neuron" xsd:string
+
+[Term]
+id: CL:0000604
+property_value: prefLabel "retinal rod cell" xsd:string
+
+[Term]
+id: CL:0000626
+property_value: prefLabel "olfactory granule cell" xsd:string
+
+[Term]
+id: CL:0000642
+property_value: prefLabel "folliculostellate cell" xsd:string
+
+[Term]
+id: CL:0000652
+property_value: prefLabel "pinealocyte" xsd:string
+
+[Term]
+id: CL:0000680
+property_value: prefLabel "muscle precursor cell" xsd:string
+
+[Term]
+id: CL:0000700
+property_value: prefLabel "dopaminergic neuron" xsd:string
+
+[Term]
+id: CL:0000737
+property_value: prefLabel "striated muscle cell" xsd:string
+
+[Term]
+id: CL:0000740
+property_value: prefLabel "retinal ganglion cell" xsd:string
+
+[Term]
+id: CL:0000853
+property_value: prefLabel "olfactory epithelial supporting cell" xsd:string
+
+[Term]
+id: CL:0000988
+property_value: prefLabel "hematopoietic cell" xsd:string
+
+[Term]
+id: CL:0002077
+property_value: prefLabel "ecto-epithelial cell" xsd:string
+
+[Term]
+id: CL:0002169
+property_value: prefLabel "basal cell of olfactory epithelium" xsd:string
+
+[Term]
+id: CL:0002220
+property_value: prefLabel "interstitial cell of pineal gland" xsd:string
+
+[Term]
+id: CL:0002312
+property_value: prefLabel "somatotroph" xsd:string
+
+[Term]
+id: CL:0002319
+property_value: prefLabel "neural cell" xsd:string
+
+[Term]
+id: CL:0002320
+property_value: prefLabel "connective tissue cell" xsd:string
+
+[Term]
+id: CL:0002494
+property_value: prefLabel "cardiocyte" xsd:string
+
+[Term]
+id: CL:0002672
+property_value: prefLabel "retinal progenitor cell" xsd:string
+
+[Term]
+id: CL:0005000
+property_value: prefLabel "spinal cord interneuron" xsd:string
+
+[Term]
+id: CL:0007001
+property_value: prefLabel "skeletogenic cell" xsd:string
+
+[Term]
+id: CL:0008002
+property_value: prefLabel "skeletal muscle fiber" xsd:string
+
+[Term]
+id: CL:0008007
+property_value: prefLabel "visceral muscle cell" xsd:string
+
+[Term]
+id: CL:0008019
+property_value: prefLabel "mesenchymal cell" xsd:string
+
+[Term]
 id: HBA:10142
 name: piriform cortex
 synonym: "Pir" EXACT []
@@ -15828,6 +16152,5870 @@ intersection_of: part_of NCBITaxon:9606
 relationship: only_in_taxon NCBITaxon:9606
 relationship: part_of NCBITaxon:9606
 property_value: prefLabel "HBA entity" xsd:string
+
+[Term]
+id: NCBITaxon:1
+property_value: prefLabel "root" xsd:string
+
+[Term]
+id: NCBITaxon:10066
+property_value: prefLabel "Muridae" xsd:string
+
+[Term]
+id: NCBITaxon:10088
+property_value: prefLabel "Mus <genus>" xsd:string
+
+[Term]
+id: NCBITaxon:10090
+property_value: prefLabel "Mus musculus" xsd:string
+
+[Term]
+id: NCBITaxon:117570
+property_value: prefLabel "Teleostomi" xsd:string
+
+[Term]
+id: NCBITaxon:117571
+property_value: prefLabel "Euteleostomi" xsd:string
+
+[Term]
+id: NCBITaxon:131567
+property_value: prefLabel "cellular organisms" xsd:string
+
+[Term]
+id: NCBITaxon:1338369
+property_value: prefLabel "Dipnotetrapodomorpha" xsd:string
+
+[Term]
+id: NCBITaxon:1437010
+property_value: prefLabel "Boreoeutheria" xsd:string
+
+[Term]
+id: NCBITaxon:1963758
+property_value: prefLabel "Myomorpha" xsd:string
+
+[Term]
+id: NCBITaxon:207598
+property_value: prefLabel "Homininae" xsd:string
+
+[Term]
+id: NCBITaxon:2759
+property_value: prefLabel "Eukaryota" xsd:string
+
+[Term]
+id: NCBITaxon:314146
+property_value: prefLabel "Euarchontoglires" xsd:string
+
+[Term]
+id: NCBITaxon:314147
+property_value: prefLabel "Glires" xsd:string
+
+[Term]
+id: NCBITaxon:314293
+property_value: prefLabel "Simiiformes" xsd:string
+
+[Term]
+id: NCBITaxon:314295
+property_value: prefLabel "Hominoidea" xsd:string
+
+[Term]
+id: NCBITaxon:32523
+property_value: prefLabel "Tetrapoda" xsd:string
+
+[Term]
+id: NCBITaxon:32524
+property_value: prefLabel "Amniota" xsd:string
+
+[Term]
+id: NCBITaxon:32525
+property_value: prefLabel "Theria <mammals>" xsd:string
+
+[Term]
+id: NCBITaxon:33154
+property_value: prefLabel "Opisthokonta" xsd:string
+
+[Term]
+id: NCBITaxon:33208
+property_value: prefLabel "Metazoa" xsd:string
+
+[Term]
+id: NCBITaxon:33213
+property_value: prefLabel "Bilateria" xsd:string
+
+[Term]
+id: NCBITaxon:33511
+property_value: prefLabel "Deuterostomia" xsd:string
+
+[Term]
+id: NCBITaxon:337687
+property_value: prefLabel "Muroidea" xsd:string
+
+[Term]
+id: NCBITaxon:376913
+property_value: prefLabel "Haplorrhini" xsd:string
+
+[Term]
+id: NCBITaxon:39107
+property_value: prefLabel "Murinae" xsd:string
+
+[Term]
+id: NCBITaxon:40674
+property_value: prefLabel "Mammalia" xsd:string
+
+[Term]
+id: NCBITaxon:6072
+property_value: prefLabel "Eumetazoa" xsd:string
+
+[Term]
+id: NCBITaxon:7711
+property_value: prefLabel "Chordata" xsd:string
+
+[Term]
+id: NCBITaxon:7742
+property_value: prefLabel "Vertebrata <vertebrates>" xsd:string
+
+[Term]
+id: NCBITaxon:7776
+property_value: prefLabel "Gnathostomata <vertebrates>" xsd:string
+
+[Term]
+id: NCBITaxon:8287
+property_value: prefLabel "Sarcopterygii" xsd:string
+
+[Term]
+id: NCBITaxon:862507
+property_value: prefLabel "Mus <subgenus>" xsd:string
+
+[Term]
+id: NCBITaxon:89593
+property_value: prefLabel "Craniata <chordates>" xsd:string
+
+[Term]
+id: NCBITaxon:9347
+property_value: prefLabel "Eutheria" xsd:string
+
+[Term]
+id: NCBITaxon:9443
+property_value: prefLabel "Primates" xsd:string
+
+[Term]
+id: NCBITaxon:9526
+property_value: prefLabel "Catarrhini" xsd:string
+
+[Term]
+id: NCBITaxon:9604
+property_value: prefLabel "Hominidae" xsd:string
+
+[Term]
+id: NCBITaxon:9605
+property_value: prefLabel "Homo" xsd:string
+
+[Term]
+id: NCBITaxon:9606
+property_value: prefLabel "Homo sapiens" xsd:string
+
+[Term]
+id: NCBITaxon:9989
+property_value: prefLabel "Rodentia" xsd:string
+
+[Term]
+id: UBERON:0000000
+property_value: prefLabel "processual entity" xsd:string
+
+[Term]
+id: UBERON:0000004
+property_value: prefLabel "nose" xsd:string
+
+[Term]
+id: UBERON:0000005
+property_value: prefLabel "chemosensory organ" xsd:string
+
+[Term]
+id: UBERON:0000007
+property_value: prefLabel "pituitary gland" xsd:string
+
+[Term]
+id: UBERON:0000010
+property_value: prefLabel "peripheral nervous system" xsd:string
+
+[Term]
+id: UBERON:0000012
+property_value: prefLabel "somatic nervous system" xsd:string
+
+[Term]
+id: UBERON:0000014
+property_value: prefLabel "zone of skin" xsd:string
+
+[Term]
+id: UBERON:0000019
+property_value: prefLabel "camera-type eye" xsd:string
+
+[Term]
+id: UBERON:0000020
+property_value: prefLabel "sense organ" xsd:string
+
+[Term]
+id: UBERON:0000025
+property_value: prefLabel "tube" xsd:string
+
+[Term]
+id: UBERON:0000033
+property_value: prefLabel "head" xsd:string
+
+[Term]
+id: UBERON:0000043
+property_value: prefLabel "tendon" xsd:string
+
+[Term]
+id: UBERON:0000045
+property_value: prefLabel "ganglion" xsd:string
+
+[Term]
+id: UBERON:0000047
+property_value: prefLabel "simple eye" xsd:string
+
+[Term]
+id: UBERON:0000052
+property_value: prefLabel "fornix of brain" xsd:string
+
+[Term]
+id: UBERON:0000055
+property_value: prefLabel "vessel" xsd:string
+
+[Term]
+id: UBERON:0000060
+property_value: prefLabel "anatomical wall" xsd:string
+
+[Term]
+id: UBERON:0000061
+property_value: prefLabel "anatomical structure" xsd:string
+
+[Term]
+id: UBERON:0000062
+property_value: prefLabel "organ" xsd:string
+
+[Term]
+id: UBERON:0000063
+property_value: prefLabel "organ subunit" xsd:string
+
+[Term]
+id: UBERON:0000064
+property_value: prefLabel "organ part" xsd:string
+
+[Term]
+id: UBERON:0000065
+property_value: prefLabel "respiratory tract" xsd:string
+
+[Term]
+id: UBERON:0000066
+property_value: prefLabel "fully formed stage" xsd:string
+
+[Term]
+id: UBERON:0000068
+property_value: prefLabel "embryo stage" xsd:string
+
+[Term]
+id: UBERON:0000071
+property_value: prefLabel "death stage" xsd:string
+
+[Term]
+id: UBERON:0000072
+property_value: prefLabel "proximo-distal subdivision of respiratory tract" xsd:string
+
+[Term]
+id: UBERON:0000073
+property_value: prefLabel "regional part of nervous system" xsd:string
+
+[Term]
+id: UBERON:0000075
+property_value: prefLabel "subdivision of skeletal system" xsd:string
+
+[Term]
+id: UBERON:0000076
+property_value: prefLabel "external ectoderm" xsd:string
+
+[Term]
+id: UBERON:0000092
+property_value: prefLabel "post-embryonic stage" xsd:string
+
+[Term]
+id: UBERON:0000093
+property_value: prefLabel "sulcus" xsd:string
+
+[Term]
+id: UBERON:0000094
+property_value: prefLabel "membrane organ" xsd:string
+
+[Term]
+id: UBERON:0000104
+property_value: prefLabel "life cycle" xsd:string
+
+[Term]
+id: UBERON:0000105
+property_value: prefLabel "life cycle stage" xsd:string
+
+[Term]
+id: UBERON:0000106
+property_value: prefLabel "zygote stage" xsd:string
+
+[Term]
+id: UBERON:0000107
+property_value: prefLabel "cleavage stage" xsd:string
+
+[Term]
+id: UBERON:0000108
+property_value: prefLabel "blastula stage" xsd:string
+
+[Term]
+id: UBERON:0000109
+property_value: prefLabel "gastrula stage" xsd:string
+
+[Term]
+id: UBERON:0000110
+property_value: prefLabel "neurula stage" xsd:string
+
+[Term]
+id: UBERON:0000111
+property_value: prefLabel "organogenesis stage" xsd:string
+
+[Term]
+id: UBERON:0000119
+property_value: prefLabel "cell layer" xsd:string
+
+[Term]
+id: UBERON:0000122
+property_value: prefLabel "neuron projection bundle" xsd:string
+
+[Term]
+id: UBERON:0000125
+property_value: prefLabel "neural nucleus" xsd:string
+
+[Term]
+id: UBERON:0000126
+property_value: prefLabel "cranial nerve nucleus" xsd:string
+
+[Term]
+id: UBERON:0000127
+property_value: prefLabel "facial nucleus" xsd:string
+
+[Term]
+id: UBERON:0000128
+property_value: prefLabel "olivary body" xsd:string
+
+[Term]
+id: UBERON:0000153
+property_value: prefLabel "anterior region of body" xsd:string
+
+[Term]
+id: UBERON:0000154
+property_value: prefLabel "posterior region of body" xsd:string
+
+[Term]
+id: UBERON:0000161
+property_value: prefLabel "orifice" xsd:string
+
+[Term]
+id: UBERON:0000165
+property_value: prefLabel "mouth" xsd:string
+
+[Term]
+id: UBERON:0000166
+property_value: prefLabel "oral opening" xsd:string
+
+[Term]
+id: UBERON:0000178
+property_value: prefLabel "blood" xsd:string
+
+[Term]
+id: UBERON:0000179
+property_value: prefLabel "haemolymphatic fluid" xsd:string
+
+[Term]
+id: UBERON:0000200
+property_value: prefLabel "gyrus" xsd:string
+
+[Term]
+id: UBERON:0000203
+property_value: prefLabel "pallium" xsd:string
+
+[Term]
+id: UBERON:0000204
+property_value: prefLabel "ventral part of telencephalon" xsd:string
+
+[Term]
+id: UBERON:0000307
+property_value: prefLabel "blastula" xsd:string
+
+[Term]
+id: UBERON:0000315
+property_value: prefLabel "subarachnoid space" xsd:string
+
+[Term]
+id: UBERON:0000344
+property_value: prefLabel "mucosa" xsd:string
+
+[Term]
+id: UBERON:0000349
+property_value: prefLabel "limbic system" xsd:string
+
+[Term]
+id: UBERON:0000369
+property_value: prefLabel "corpus striatum" xsd:string
+
+[Term]
+id: UBERON:0000373
+property_value: prefLabel "tapetum of corpus callosum" xsd:string
+
+[Term]
+id: UBERON:0000375
+property_value: prefLabel "mandibular nerve" xsd:string
+
+[Term]
+id: UBERON:0000378
+property_value: prefLabel "tongue muscle" xsd:string
+
+[Term]
+id: UBERON:0000379
+property_value: prefLabel "tracheal mucosa" xsd:string
+
+[Term]
+id: UBERON:0000383
+property_value: prefLabel "musculature of body" xsd:string
+
+[Term]
+id: UBERON:0000391
+property_value: prefLabel "leptomeninx" xsd:string
+
+[Term]
+id: UBERON:0000433
+property_value: prefLabel "posterior paraventricular nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0000434
+property_value: prefLabel "anterior paraventricular nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0000435
+property_value: prefLabel "lateral tuberal nucleus" xsd:string
+
+[Term]
+id: UBERON:0000446
+property_value: prefLabel "septum of telencephalon" xsd:string
+
+[Term]
+id: UBERON:0000454
+property_value: prefLabel "cerebral subcortex" xsd:string
+
+[Term]
+id: UBERON:0000463
+property_value: prefLabel "organism substance" xsd:string
+
+[Term]
+id: UBERON:0000464
+property_value: prefLabel "anatomical space" xsd:string
+
+[Term]
+id: UBERON:0000465
+property_value: prefLabel "material anatomical entity" xsd:string
+
+[Term]
+id: UBERON:0000466
+property_value: prefLabel "immaterial anatomical entity" xsd:string
+
+[Term]
+id: UBERON:0000467
+property_value: prefLabel "anatomical system" xsd:string
+
+[Term]
+id: UBERON:0000468
+property_value: prefLabel "multicellular organism" xsd:string
+
+[Term]
+id: UBERON:0000475
+property_value: prefLabel "organism subdivision" xsd:string
+
+[Term]
+id: UBERON:0000476
+property_value: prefLabel "acellular anatomical structure" xsd:string
+
+[Term]
+id: UBERON:0000477
+property_value: prefLabel "anatomical cluster" xsd:string
+
+[Term]
+id: UBERON:0000479
+property_value: prefLabel "tissue" xsd:string
+
+[Term]
+id: UBERON:0000481
+property_value: prefLabel "multi-tissue structure" xsd:string
+
+[Term]
+id: UBERON:0000483
+property_value: prefLabel "epithelium" xsd:string
+
+[Term]
+id: UBERON:0000485
+property_value: prefLabel "simple columnar epithelium" xsd:string
+
+[Term]
+id: UBERON:0000486
+property_value: prefLabel "multilaminar epithelium" xsd:string
+
+[Term]
+id: UBERON:0000487
+property_value: prefLabel "simple squamous epithelium" xsd:string
+
+[Term]
+id: UBERON:0000488
+property_value: prefLabel "atypical epithelium" xsd:string
+
+[Term]
+id: UBERON:0000489
+property_value: prefLabel "cavitated compound organ" xsd:string
+
+[Term]
+id: UBERON:0000490
+property_value: prefLabel "unilaminar epithelium" xsd:string
+
+[Term]
+id: UBERON:0000908
+property_value: prefLabel "hippocampal commissure" xsd:string
+
+[Term]
+id: UBERON:0000915
+property_value: prefLabel "thoracic segment of trunk" xsd:string
+
+[Term]
+id: UBERON:0000922
+property_value: prefLabel "embryo" xsd:string
+
+[Term]
+id: UBERON:0000923
+property_value: prefLabel "germ layer" xsd:string
+
+[Term]
+id: UBERON:0000924
+property_value: prefLabel "ectoderm" xsd:string
+
+[Term]
+id: UBERON:0000925
+property_value: prefLabel "endoderm" xsd:string
+
+[Term]
+id: UBERON:0000926
+property_value: prefLabel "mesoderm" xsd:string
+
+[Term]
+id: UBERON:0000930
+property_value: prefLabel "stomodeum" xsd:string
+
+[Term]
+id: UBERON:0000935
+property_value: prefLabel "anterior commissure" xsd:string
+
+[Term]
+id: UBERON:0000936
+property_value: prefLabel "posterior commissure" xsd:string
+
+[Term]
+id: UBERON:0000941
+property_value: prefLabel "cranial nerve II" xsd:string
+
+[Term]
+id: UBERON:0000948
+property_value: prefLabel "heart" xsd:string
+
+[Term]
+id: UBERON:0000949
+property_value: prefLabel "endocrine system" xsd:string
+
+[Term]
+id: UBERON:0000955
+property_value: prefLabel "brain" xsd:string
+
+[Term]
+id: UBERON:0000956
+property_value: prefLabel "cerebral cortex" xsd:string
+
+[Term]
+id: UBERON:0000957
+property_value: prefLabel "lamina" xsd:string
+
+[Term]
+id: UBERON:0000959
+property_value: prefLabel "optic chiasma" xsd:string
+
+[Term]
+id: UBERON:0000964
+property_value: prefLabel "cornea" xsd:string
+
+[Term]
+id: UBERON:0000965
+property_value: prefLabel "lens of camera-type eye" xsd:string
+
+[Term]
+id: UBERON:0000966
+property_value: prefLabel "retina" xsd:string
+
+[Term]
+id: UBERON:0000970
+property_value: prefLabel "eye" xsd:string
+
+[Term]
+id: UBERON:0000974
+property_value: prefLabel "neck" xsd:string
+
+[Term]
+id: UBERON:0000982
+property_value: prefLabel "skeletal joint" xsd:string
+
+[Term]
+id: UBERON:0000988
+property_value: prefLabel "pons" xsd:string
+
+[Term]
+id: UBERON:0001003
+property_value: prefLabel "skin epidermis" xsd:string
+
+[Term]
+id: UBERON:0001004
+property_value: prefLabel "respiratory system" xsd:string
+
+[Term]
+id: UBERON:0001005
+property_value: prefLabel "respiratory airway" xsd:string
+
+[Term]
+id: UBERON:0001007
+property_value: prefLabel "digestive system" xsd:string
+
+[Term]
+id: UBERON:0001009
+property_value: prefLabel "circulatory system" xsd:string
+
+[Term]
+id: UBERON:0001013
+property_value: prefLabel "adipose tissue" xsd:string
+
+[Term]
+id: UBERON:0001015
+property_value: prefLabel "musculature" xsd:string
+
+[Term]
+id: UBERON:0001016
+property_value: prefLabel "nervous system" xsd:string
+
+[Term]
+id: UBERON:0001017
+property_value: prefLabel "central nervous system" xsd:string
+
+[Term]
+id: UBERON:0001018
+property_value: prefLabel "axon tract" xsd:string
+
+[Term]
+id: UBERON:0001019
+property_value: prefLabel "nerve fasciculus" xsd:string
+
+[Term]
+id: UBERON:0001020
+property_value: prefLabel "nervous system commissure" xsd:string
+
+[Term]
+id: UBERON:0001021
+property_value: prefLabel "nerve" xsd:string
+
+[Term]
+id: UBERON:0001032
+property_value: prefLabel "sensory system" xsd:string
+
+[Term]
+id: UBERON:0001033
+property_value: prefLabel "gustatory system" xsd:string
+
+[Term]
+id: UBERON:0001041
+property_value: prefLabel "foregut" xsd:string
+
+[Term]
+id: UBERON:0001048
+property_value: prefLabel "primordium" xsd:string
+
+[Term]
+id: UBERON:0001049
+property_value: prefLabel "neural tube" xsd:string
+
+[Term]
+id: UBERON:0001062
+property_value: prefLabel "anatomical entity" xsd:string
+
+[Term]
+id: UBERON:0001063
+property_value: prefLabel "flocculus" xsd:string
+
+[Term]
+id: UBERON:0001084
+property_value: prefLabel "skin of head" xsd:string
+
+[Term]
+id: UBERON:0001134
+property_value: prefLabel "skeletal muscle tissue" xsd:string
+
+[Term]
+id: UBERON:0001135
+property_value: prefLabel "smooth muscle tissue" xsd:string
+
+[Term]
+id: UBERON:0001137
+property_value: prefLabel "dorsum" xsd:string
+
+[Term]
+id: UBERON:0001359
+property_value: prefLabel "cerebrospinal fluid" xsd:string
+
+[Term]
+id: UBERON:0001393
+property_value: prefLabel "auditory cortex" xsd:string
+
+[Term]
+id: UBERON:0001434
+property_value: prefLabel "skeletal system" xsd:string
+
+[Term]
+id: UBERON:0001444
+property_value: prefLabel "subdivision of head" xsd:string
+
+[Term]
+id: UBERON:0001456
+property_value: prefLabel "face" xsd:string
+
+[Term]
+id: UBERON:0001474
+property_value: prefLabel "bone element" xsd:string
+
+[Term]
+id: UBERON:0001555
+property_value: prefLabel "digestive tract" xsd:string
+
+[Term]
+id: UBERON:0001557
+property_value: prefLabel "upper respiratory tract" xsd:string
+
+[Term]
+id: UBERON:0001571
+property_value: prefLabel "genioglossus muscle" xsd:string
+
+[Term]
+id: UBERON:0001572
+property_value: prefLabel "hyoglossus muscle" xsd:string
+
+[Term]
+id: UBERON:0001575
+property_value: prefLabel "extrinsic muscle of tongue" xsd:string
+
+[Term]
+id: UBERON:0001577
+property_value: prefLabel "facial muscle" xsd:string
+
+[Term]
+id: UBERON:0001579
+property_value: prefLabel "olfactory nerve" xsd:string
+
+[Term]
+id: UBERON:0001601
+property_value: prefLabel "extra-ocular muscle" xsd:string
+
+[Term]
+id: UBERON:0001605
+property_value: prefLabel "ciliary muscle" xsd:string
+
+[Term]
+id: UBERON:0001630
+property_value: prefLabel "muscle organ" xsd:string
+
+[Term]
+id: UBERON:0001637
+property_value: prefLabel "artery" xsd:string
+
+[Term]
+id: UBERON:0001638
+property_value: prefLabel "vein" xsd:string
+
+[Term]
+id: UBERON:0001643
+property_value: prefLabel "oculomotor nerve" xsd:string
+
+[Term]
+id: UBERON:0001644
+property_value: prefLabel "trochlear nerve" xsd:string
+
+[Term]
+id: UBERON:0001645
+property_value: prefLabel "trigeminal nerve" xsd:string
+
+[Term]
+id: UBERON:0001646
+property_value: prefLabel "abducens nerve" xsd:string
+
+[Term]
+id: UBERON:0001647
+property_value: prefLabel "facial nerve" xsd:string
+
+[Term]
+id: UBERON:0001648
+property_value: prefLabel "vestibulocochlear nerve" xsd:string
+
+[Term]
+id: UBERON:0001649
+property_value: prefLabel "glossopharyngeal nerve" xsd:string
+
+[Term]
+id: UBERON:0001650
+property_value: prefLabel "hypoglossal nerve" xsd:string
+
+[Term]
+id: UBERON:0001678
+property_value: prefLabel "temporal bone" xsd:string
+
+[Term]
+id: UBERON:0001685
+property_value: prefLabel "hyoid bone" xsd:string
+
+[Term]
+id: UBERON:0001690
+property_value: prefLabel "ear" xsd:string
+
+[Term]
+id: UBERON:0001694
+property_value: prefLabel "petrous part of temporal bone" xsd:string
+
+[Term]
+id: UBERON:0001703
+property_value: prefLabel "neurocranium" xsd:string
+
+[Term]
+id: UBERON:0001708
+property_value: prefLabel "jaw skeleton" xsd:string
+
+[Term]
+id: UBERON:0001710
+property_value: prefLabel "lower jaw region" xsd:string
+
+[Term]
+id: UBERON:0001714
+property_value: prefLabel "cranial ganglion" xsd:string
+
+[Term]
+id: UBERON:0001715
+property_value: prefLabel "oculomotor nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0001717
+property_value: prefLabel "spinal nucleus of trigeminal nerve" xsd:string
+
+[Term]
+id: UBERON:0001718
+property_value: prefLabel "mesencephalic nucleus of trigeminal nerve" xsd:string
+
+[Term]
+id: UBERON:0001719
+property_value: prefLabel "nucleus ambiguus" xsd:string
+
+[Term]
+id: UBERON:0001720
+property_value: prefLabel "cochlear nucleus" xsd:string
+
+[Term]
+id: UBERON:0001721
+property_value: prefLabel "inferior vestibular nucleus" xsd:string
+
+[Term]
+id: UBERON:0001722
+property_value: prefLabel "medial vestibular nucleus" xsd:string
+
+[Term]
+id: UBERON:0001723
+property_value: prefLabel "tongue" xsd:string
+
+[Term]
+id: UBERON:0001727
+property_value: prefLabel "taste bud" xsd:string
+
+[Term]
+id: UBERON:0001737
+property_value: prefLabel "larynx" xsd:string
+
+[Term]
+id: UBERON:0001759
+property_value: prefLabel "vagus nerve" xsd:string
+
+[Term]
+id: UBERON:0001768
+property_value: prefLabel "uvea" xsd:string
+
+[Term]
+id: UBERON:0001769
+property_value: prefLabel "iris" xsd:string
+
+[Term]
+id: UBERON:0001772
+property_value: prefLabel "corneal epithelium" xsd:string
+
+[Term]
+id: UBERON:0001773
+property_value: prefLabel "sclera" xsd:string
+
+[Term]
+id: UBERON:0001775
+property_value: prefLabel "ciliary body" xsd:string
+
+[Term]
+id: UBERON:0001776
+property_value: prefLabel "optic choroid" xsd:string
+
+[Term]
+id: UBERON:0001780
+property_value: prefLabel "spinal nerve" xsd:string
+
+[Term]
+id: UBERON:0001781
+property_value: prefLabel "layer of retina" xsd:string
+
+[Term]
+id: UBERON:0001785
+property_value: prefLabel "cranial nerve" xsd:string
+
+[Term]
+id: UBERON:0001801
+property_value: prefLabel "anterior segment of eyeball" xsd:string
+
+[Term]
+id: UBERON:0001802
+property_value: prefLabel "posterior segment of eyeball" xsd:string
+
+[Term]
+id: UBERON:0001826
+property_value: prefLabel "nasal cavity mucosa" xsd:string
+
+[Term]
+id: UBERON:0001839
+property_value: prefLabel "bony labyrinth" xsd:string
+
+[Term]
+id: UBERON:0001840
+property_value: prefLabel "semicircular canal" xsd:string
+
+[Term]
+id: UBERON:0001844
+property_value: prefLabel "cochlea" xsd:string
+
+[Term]
+id: UBERON:0001846
+property_value: prefLabel "internal ear" xsd:string
+
+[Term]
+id: UBERON:0001849
+property_value: prefLabel "membranous labyrinth" xsd:string
+
+[Term]
+id: UBERON:0001869
+property_value: prefLabel "cerebral hemisphere" xsd:string
+
+[Term]
+id: UBERON:0001870
+property_value: prefLabel "frontal cortex" xsd:string
+
+[Term]
+id: UBERON:0001871
+property_value: prefLabel "temporal lobe" xsd:string
+
+[Term]
+id: UBERON:0001872
+property_value: prefLabel "parietal lobe" xsd:string
+
+[Term]
+id: UBERON:0001873
+property_value: prefLabel "caudate nucleus" xsd:string
+
+[Term]
+id: UBERON:0001874
+property_value: prefLabel "putamen" xsd:string
+
+[Term]
+id: UBERON:0001875
+property_value: prefLabel "globus pallidus" xsd:string
+
+[Term]
+id: UBERON:0001876
+property_value: prefLabel "amygdala" xsd:string
+
+[Term]
+id: UBERON:0001877
+property_value: prefLabel "medial septal nucleus" xsd:string
+
+[Term]
+id: UBERON:0001879
+property_value: prefLabel "nucleus of diagonal band" xsd:string
+
+[Term]
+id: UBERON:0001880
+property_value: prefLabel "bed nucleus of stria terminalis" xsd:string
+
+[Term]
+id: UBERON:0001881
+property_value: prefLabel "island of Calleja" xsd:string
+
+[Term]
+id: UBERON:0001882
+property_value: prefLabel "nucleus accumbens" xsd:string
+
+[Term]
+id: UBERON:0001883
+property_value: prefLabel "olfactory tubercle" xsd:string
+
+[Term]
+id: UBERON:0001885
+property_value: prefLabel "dentate gyrus of hippocampal formation" xsd:string
+
+[Term]
+id: UBERON:0001886
+property_value: prefLabel "choroid plexus" xsd:string
+
+[Term]
+id: UBERON:0001887
+property_value: prefLabel "internal capsule of telencephalon" xsd:string
+
+[Term]
+id: UBERON:0001888
+property_value: prefLabel "lateral olfactory stria" xsd:string
+
+[Term]
+id: UBERON:0001890
+property_value: prefLabel "forebrain" xsd:string
+
+[Term]
+id: UBERON:0001891
+property_value: prefLabel "midbrain" xsd:string
+
+[Term]
+id: UBERON:0001892
+property_value: prefLabel "rhombomere" xsd:string
+
+[Term]
+id: UBERON:0001893
+property_value: prefLabel "telencephalon" xsd:string
+
+[Term]
+id: UBERON:0001894
+property_value: prefLabel "diencephalon" xsd:string
+
+[Term]
+id: UBERON:0001895
+property_value: prefLabel "metencephalon" xsd:string
+
+[Term]
+id: UBERON:0001896
+property_value: prefLabel "medulla oblongata" xsd:string
+
+[Term]
+id: UBERON:0001897
+property_value: prefLabel "dorsal plus ventral thalamus" xsd:string
+
+[Term]
+id: UBERON:0001898
+property_value: prefLabel "hypothalamus" xsd:string
+
+[Term]
+id: UBERON:0001899
+property_value: prefLabel "epithalamus" xsd:string
+
+[Term]
+id: UBERON:0001900
+property_value: prefLabel "ventral thalamus" xsd:string
+
+[Term]
+id: UBERON:0001903
+property_value: prefLabel "thalamic reticular nucleus" xsd:string
+
+[Term]
+id: UBERON:0001904
+property_value: prefLabel "habenula" xsd:string
+
+[Term]
+id: UBERON:0001905
+property_value: prefLabel "pineal body" xsd:string
+
+[Term]
+id: UBERON:0001906
+property_value: prefLabel "subthalamic nucleus" xsd:string
+
+[Term]
+id: UBERON:0001907
+property_value: prefLabel "zona incerta" xsd:string
+
+[Term]
+id: UBERON:0001908
+property_value: prefLabel "optic tract" xsd:string
+
+[Term]
+id: UBERON:0001909
+property_value: prefLabel "habenular commissure" xsd:string
+
+[Term]
+id: UBERON:0001910
+property_value: prefLabel "medial forebrain bundle" xsd:string
+
+[Term]
+id: UBERON:0001920
+property_value: prefLabel "paraventricular nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0001922
+property_value: prefLabel "parafascicular nucleus" xsd:string
+
+[Term]
+id: UBERON:0001923
+property_value: prefLabel "central medial nucleus" xsd:string
+
+[Term]
+id: UBERON:0001924
+property_value: prefLabel "paracentral nucleus" xsd:string
+
+[Term]
+id: UBERON:0001925
+property_value: prefLabel "ventral lateral nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0001926
+property_value: prefLabel "lateral geniculate body" xsd:string
+
+[Term]
+id: UBERON:0001927
+property_value: prefLabel "medial geniculate body" xsd:string
+
+[Term]
+id: UBERON:0001928
+property_value: prefLabel "preoptic area" xsd:string
+
+[Term]
+id: UBERON:0001929
+property_value: prefLabel "supraoptic nucleus" xsd:string
+
+[Term]
+id: UBERON:0001930
+property_value: prefLabel "paraventricular nucleus of hypothalamus" xsd:string
+
+[Term]
+id: UBERON:0001931
+property_value: prefLabel "lateral preoptic nucleus" xsd:string
+
+[Term]
+id: UBERON:0001932
+property_value: prefLabel "arcuate nucleus of hypothalamus" xsd:string
+
+[Term]
+id: UBERON:0001934
+property_value: prefLabel "dorsomedial nucleus of hypothalamus" xsd:string
+
+[Term]
+id: UBERON:0001935
+property_value: prefLabel "ventromedial nucleus of hypothalamus" xsd:string
+
+[Term]
+id: UBERON:0001936
+property_value: prefLabel "tuberomammillary nucleus" xsd:string
+
+[Term]
+id: UBERON:0001938
+property_value: prefLabel "lateral mammillary nucleus" xsd:string
+
+[Term]
+id: UBERON:0001939
+property_value: prefLabel "medial mammillary nucleus" xsd:string
+
+[Term]
+id: UBERON:0001940
+property_value: prefLabel "supramammillary nucleus" xsd:string
+
+[Term]
+id: UBERON:0001941
+property_value: prefLabel "lateral habenular nucleus" xsd:string
+
+[Term]
+id: UBERON:0001942
+property_value: prefLabel "medial habenular nucleus" xsd:string
+
+[Term]
+id: UBERON:0001943
+property_value: prefLabel "midbrain tegmentum" xsd:string
+
+[Term]
+id: UBERON:0001944
+property_value: prefLabel "pretectal region" xsd:string
+
+[Term]
+id: UBERON:0001945
+property_value: prefLabel "superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0001946
+property_value: prefLabel "inferior colliculus" xsd:string
+
+[Term]
+id: UBERON:0001947
+property_value: prefLabel "red nucleus" xsd:string
+
+[Term]
+id: UBERON:0001948
+property_value: prefLabel "regional part of spinal cord" xsd:string
+
+[Term]
+id: UBERON:0001950
+property_value: prefLabel "neocortex" xsd:string
+
+[Term]
+id: UBERON:0001953
+property_value: prefLabel "presubiculum" xsd:string
+
+[Term]
+id: UBERON:0001954
+property_value: prefLabel "Ammon's horn" xsd:string
+
+[Term]
+id: UBERON:0001965
+property_value: prefLabel "substantia nigra pars compacta" xsd:string
+
+[Term]
+id: UBERON:0001966
+property_value: prefLabel "substantia nigra pars reticulata" xsd:string
+
+[Term]
+id: UBERON:0001969
+property_value: prefLabel "blood plasma" xsd:string
+
+[Term]
+id: UBERON:0001979
+property_value: prefLabel "venule" xsd:string
+
+[Term]
+id: UBERON:0001980
+property_value: prefLabel "arteriole" xsd:string
+
+[Term]
+id: UBERON:0001981
+property_value: prefLabel "blood vessel" xsd:string
+
+[Term]
+id: UBERON:0001982
+property_value: prefLabel "capillary" xsd:string
+
+[Term]
+id: UBERON:0001986
+property_value: prefLabel "endothelium" xsd:string
+
+[Term]
+id: UBERON:0001997
+property_value: prefLabel "olfactory epithelium" xsd:string
+
+[Term]
+id: UBERON:0002019
+property_value: prefLabel "accessory XI nerve" xsd:string
+
+[Term]
+id: UBERON:0002020
+property_value: prefLabel "gray matter" xsd:string
+
+[Term]
+id: UBERON:0002021
+property_value: prefLabel "occipital lobe" xsd:string
+
+[Term]
+id: UBERON:0002022
+property_value: prefLabel "insula" xsd:string
+
+[Term]
+id: UBERON:0002023
+property_value: prefLabel "claustrum of brain" xsd:string
+
+[Term]
+id: UBERON:0002028
+property_value: prefLabel "hindbrain" xsd:string
+
+[Term]
+id: UBERON:0002034
+property_value: prefLabel "suprachiasmatic nucleus" xsd:string
+
+[Term]
+id: UBERON:0002035
+property_value: prefLabel "medial preoptic nucleus" xsd:string
+
+[Term]
+id: UBERON:0002036
+property_value: prefLabel "striated muscle tissue" xsd:string
+
+[Term]
+id: UBERON:0002037
+property_value: prefLabel "cerebellum" xsd:string
+
+[Term]
+id: UBERON:0002038
+property_value: prefLabel "substantia nigra" xsd:string
+
+[Term]
+id: UBERON:0002043
+property_value: prefLabel "dorsal raphe nucleus" xsd:string
+
+[Term]
+id: UBERON:0002044
+property_value: prefLabel "ventral nucleus of posterior commissure" xsd:string
+
+[Term]
+id: UBERON:0002045
+property_value: prefLabel "cuneate nucleus" xsd:string
+
+[Term]
+id: UBERON:0002047
+property_value: prefLabel "pontine raphe nucleus" xsd:string
+
+[Term]
+id: UBERON:0002049
+property_value: prefLabel "vasculature" xsd:string
+
+[Term]
+id: UBERON:0002050
+property_value: prefLabel "embryonic structure" xsd:string
+
+[Term]
+id: UBERON:0002067
+property_value: prefLabel "dermis" xsd:string
+
+[Term]
+id: UBERON:0002072
+property_value: prefLabel "hypodermis" xsd:string
+
+[Term]
+id: UBERON:0002075
+property_value: prefLabel "viscus" xsd:string
+
+[Term]
+id: UBERON:0002090
+property_value: prefLabel "postcranial axial skeleton" xsd:string
+
+[Term]
+id: UBERON:0002097
+property_value: prefLabel "skin of body" xsd:string
+
+[Term]
+id: UBERON:0002100
+property_value: prefLabel "trunk" xsd:string
+
+[Term]
+id: UBERON:0002104
+property_value: prefLabel "visual system" xsd:string
+
+[Term]
+id: UBERON:0002105
+property_value: prefLabel "vestibulo-auditory system" xsd:string
+
+[Term]
+id: UBERON:0002126
+property_value: prefLabel "solitary tract nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0002127
+property_value: prefLabel "inferior olivary complex" xsd:string
+
+[Term]
+id: UBERON:0002128
+property_value: prefLabel "superior olivary complex" xsd:string
+
+[Term]
+id: UBERON:0002129
+property_value: prefLabel "cerebellar cortex" xsd:string
+
+[Term]
+id: UBERON:0002130
+property_value: prefLabel "cerebellar nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0002131
+property_value: prefLabel "anterior lobe of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0002132
+property_value: prefLabel "dentate nucleus" xsd:string
+
+[Term]
+id: UBERON:0002138
+property_value: prefLabel "habenulo-interpeduncular tract" xsd:string
+
+[Term]
+id: UBERON:0002139
+property_value: prefLabel "subcommissural organ" xsd:string
+
+[Term]
+id: UBERON:0002140
+property_value: prefLabel "parabigeminal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002141
+property_value: prefLabel "parvocellular oculomotor nucleus" xsd:string
+
+[Term]
+id: UBERON:0002142
+property_value: prefLabel "pedunculopontine tegmental nucleus" xsd:string
+
+[Term]
+id: UBERON:0002143
+property_value: prefLabel "dorsal tegmental nucleus" xsd:string
+
+[Term]
+id: UBERON:0002144
+property_value: prefLabel "peripeduncular nucleus" xsd:string
+
+[Term]
+id: UBERON:0002145
+property_value: prefLabel "interpeduncular nucleus" xsd:string
+
+[Term]
+id: UBERON:0002147
+property_value: prefLabel "reticulotegmental nucleus" xsd:string
+
+[Term]
+id: UBERON:0002148
+property_value: prefLabel "locus ceruleus" xsd:string
+
+[Term]
+id: UBERON:0002149
+property_value: prefLabel "superior salivatory nucleus" xsd:string
+
+[Term]
+id: UBERON:0002150
+property_value: prefLabel "superior cerebellar peduncle" xsd:string
+
+[Term]
+id: UBERON:0002151
+property_value: prefLabel "pontine nuclear group" xsd:string
+
+[Term]
+id: UBERON:0002152
+property_value: prefLabel "middle cerebellar peduncle" xsd:string
+
+[Term]
+id: UBERON:0002153
+property_value: prefLabel "fastigial nucleus" xsd:string
+
+[Term]
+id: UBERON:0002154
+property_value: prefLabel "lateral reticular nucleus" xsd:string
+
+[Term]
+id: UBERON:0002155
+property_value: prefLabel "gigantocellular nucleus" xsd:string
+
+[Term]
+id: UBERON:0002156
+property_value: prefLabel "nucleus raphe magnus" xsd:string
+
+[Term]
+id: UBERON:0002157
+property_value: prefLabel "nucleus raphe pallidus" xsd:string
+
+[Term]
+id: UBERON:0002158
+property_value: prefLabel "principal inferior olivary nucleus" xsd:string
+
+[Term]
+id: UBERON:0002159
+property_value: prefLabel "medial accessory inferior olivary nucleus" xsd:string
+
+[Term]
+id: UBERON:0002160
+property_value: prefLabel "nucleus prepositus" xsd:string
+
+[Term]
+id: UBERON:0002161
+property_value: prefLabel "gracile nucleus" xsd:string
+
+[Term]
+id: UBERON:0002162
+property_value: prefLabel "area postrema" xsd:string
+
+[Term]
+id: UBERON:0002163
+property_value: prefLabel "inferior cerebellar peduncle" xsd:string
+
+[Term]
+id: UBERON:0002191
+property_value: prefLabel "subiculum" xsd:string
+
+[Term]
+id: UBERON:0002193
+property_value: prefLabel "hemolymphoid system" xsd:string
+
+[Term]
+id: UBERON:0002196
+property_value: prefLabel "adenohypophysis" xsd:string
+
+[Term]
+id: UBERON:0002197
+property_value: prefLabel "median eminence of neurohypophysis" xsd:string
+
+[Term]
+id: UBERON:0002198
+property_value: prefLabel "neurohypophysis" xsd:string
+
+[Term]
+id: UBERON:0002199
+property_value: prefLabel "integument" xsd:string
+
+[Term]
+id: UBERON:0002200
+property_value: prefLabel "vasculature of head" xsd:string
+
+[Term]
+id: UBERON:0002203
+property_value: prefLabel "vasculature of eye" xsd:string
+
+[Term]
+id: UBERON:0002204
+property_value: prefLabel "musculoskeletal system" xsd:string
+
+[Term]
+id: UBERON:0002206
+property_value: prefLabel "mammillary body" xsd:string
+
+[Term]
+id: UBERON:0002209
+property_value: prefLabel "fibrous joint" xsd:string
+
+[Term]
+id: UBERON:0002213
+property_value: prefLabel "cartilaginous joint" xsd:string
+
+[Term]
+id: UBERON:0002216
+property_value: prefLabel "symphysis" xsd:string
+
+[Term]
+id: UBERON:0002224
+property_value: prefLabel "thoracic cavity" xsd:string
+
+[Term]
+id: UBERON:0002240
+property_value: prefLabel "spinal cord" xsd:string
+
+[Term]
+id: UBERON:0002241
+property_value: prefLabel "chondrocranium" xsd:string
+
+[Term]
+id: UBERON:0002245
+property_value: prefLabel "cerebellar hemisphere" xsd:string
+
+[Term]
+id: UBERON:0002259
+property_value: prefLabel "corpora quadrigemina" xsd:string
+
+[Term]
+id: UBERON:0002263
+property_value: prefLabel "lentiform nucleus" xsd:string
+
+[Term]
+id: UBERON:0002264
+property_value: prefLabel "olfactory bulb" xsd:string
+
+[Term]
+id: UBERON:0002265
+property_value: prefLabel "olfactory tract" xsd:string
+
+[Term]
+id: UBERON:0002266
+property_value: prefLabel "anterior olfactory nucleus" xsd:string
+
+[Term]
+id: UBERON:0002268
+property_value: prefLabel "olfactory organ" xsd:string
+
+[Term]
+id: UBERON:0002271
+property_value: prefLabel "periventricular zone of hypothalamus" xsd:string
+
+[Term]
+id: UBERON:0002272
+property_value: prefLabel "medial zone of hypothalamus" xsd:string
+
+[Term]
+id: UBERON:0002273
+property_value: prefLabel "lateral zone of hypothalamus" xsd:string
+
+[Term]
+id: UBERON:0002274
+property_value: prefLabel "perifornical nucleus" xsd:string
+
+[Term]
+id: UBERON:0002275
+property_value: prefLabel "reticular formation" xsd:string
+
+[Term]
+id: UBERON:0002285
+property_value: prefLabel "telencephalic ventricle" xsd:string
+
+[Term]
+id: UBERON:0002286
+property_value: prefLabel "third ventricle" xsd:string
+
+[Term]
+id: UBERON:0002288
+property_value: prefLabel "choroid plexus of third ventricle" xsd:string
+
+[Term]
+id: UBERON:0002289
+property_value: prefLabel "midbrain cerebral aqueduct" xsd:string
+
+[Term]
+id: UBERON:0002290
+property_value: prefLabel "choroid plexus of fourth ventricle" xsd:string
+
+[Term]
+id: UBERON:0002291
+property_value: prefLabel "central canal of spinal cord" xsd:string
+
+[Term]
+id: UBERON:0002298
+property_value: prefLabel "brainstem" xsd:string
+
+[Term]
+id: UBERON:0002301
+property_value: prefLabel "layer of neocortex" xsd:string
+
+[Term]
+id: UBERON:0002304
+property_value: prefLabel "layer of dentate gyrus" xsd:string
+
+[Term]
+id: UBERON:0002307
+property_value: prefLabel "choroid plexus of lateral ventricle" xsd:string
+
+[Term]
+id: UBERON:0002308
+property_value: prefLabel "nucleus of brain" xsd:string
+
+[Term]
+id: UBERON:0002309
+property_value: prefLabel "medial longitudinal fasciculus" xsd:string
+
+[Term]
+id: UBERON:0002310
+property_value: prefLabel "hippocampus fimbria" xsd:string
+
+[Term]
+id: UBERON:0002314
+property_value: prefLabel "midbrain tectum" xsd:string
+
+[Term]
+id: UBERON:0002315
+property_value: prefLabel "gray matter of spinal cord" xsd:string
+
+[Term]
+id: UBERON:0002316
+property_value: prefLabel "white matter" xsd:string
+
+[Term]
+id: UBERON:0002317
+property_value: prefLabel "white matter of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0002323
+property_value: prefLabel "coelemic cavity lumen" xsd:string
+
+[Term]
+id: UBERON:0002328
+property_value: prefLabel "notochord" xsd:string
+
+[Term]
+id: UBERON:0002329
+property_value: prefLabel "somite" xsd:string
+
+[Term]
+id: UBERON:0002336
+property_value: prefLabel "corpus callosum" xsd:string
+
+[Term]
+id: UBERON:0002342
+property_value: prefLabel "neural crest" xsd:string
+
+[Term]
+id: UBERON:0002346
+property_value: prefLabel "neurectoderm" xsd:string
+
+[Term]
+id: UBERON:0002360
+property_value: prefLabel "meninx" xsd:string
+
+[Term]
+id: UBERON:0002361
+property_value: prefLabel "pia mater" xsd:string
+
+[Term]
+id: UBERON:0002362
+property_value: prefLabel "arachnoid mater" xsd:string
+
+[Term]
+id: UBERON:0002368
+property_value: prefLabel "endocrine gland" xsd:string
+
+[Term]
+id: UBERON:0002376
+property_value: prefLabel "cranial muscle" xsd:string
+
+[Term]
+id: UBERON:0002384
+property_value: prefLabel "connective tissue" xsd:string
+
+[Term]
+id: UBERON:0002385
+property_value: prefLabel "muscle tissue" xsd:string
+
+[Term]
+id: UBERON:0002390
+property_value: prefLabel "hematopoietic system" xsd:string
+
+[Term]
+id: UBERON:0002410
+property_value: prefLabel "autonomic nervous system" xsd:string
+
+[Term]
+id: UBERON:0002416
+property_value: prefLabel "integumental system" xsd:string
+
+[Term]
+id: UBERON:0002418
+property_value: prefLabel "cartilage tissue" xsd:string
+
+[Term]
+id: UBERON:0002420
+property_value: prefLabel "basal ganglion" xsd:string
+
+[Term]
+id: UBERON:0002421
+property_value: prefLabel "hippocampal formation" xsd:string
+
+[Term]
+id: UBERON:0002422
+property_value: prefLabel "fourth ventricle" xsd:string
+
+[Term]
+id: UBERON:0002430
+property_value: prefLabel "lateral hypothalamic area" xsd:string
+
+[Term]
+id: UBERON:0002434
+property_value: prefLabel "pituitary stalk" xsd:string
+
+[Term]
+id: UBERON:0002435
+property_value: prefLabel "striatum" xsd:string
+
+[Term]
+id: UBERON:0002437
+property_value: prefLabel "cerebral hemisphere white matter" xsd:string
+
+[Term]
+id: UBERON:0002438
+property_value: prefLabel "ventral tegmental nucleus" xsd:string
+
+[Term]
+id: UBERON:0002473
+property_value: prefLabel "intercerebral commissure" xsd:string
+
+[Term]
+id: UBERON:0002474
+property_value: prefLabel "cerebellar peduncular complex" xsd:string
+
+[Term]
+id: UBERON:0002476
+property_value: prefLabel "lateral globus pallidus" xsd:string
+
+[Term]
+id: UBERON:0002477
+property_value: prefLabel "medial globus pallidus" xsd:string
+
+[Term]
+id: UBERON:0002479
+property_value: prefLabel "dorsal lateral geniculate nucleus" xsd:string
+
+[Term]
+id: UBERON:0002481
+property_value: prefLabel "bone tissue" xsd:string
+
+[Term]
+id: UBERON:0002517
+property_value: prefLabel "basicranium" xsd:string
+
+[Term]
+id: UBERON:0002530
+property_value: prefLabel "gland" xsd:string
+
+[Term]
+id: UBERON:0002532
+property_value: prefLabel "epiblast (generic)" xsd:string
+
+[Term]
+id: UBERON:0002539
+property_value: prefLabel "pharyngeal arch" xsd:string
+
+[Term]
+id: UBERON:0002540
+property_value: prefLabel "lateral line system" xsd:string
+
+[Term]
+id: UBERON:0002546
+property_value: prefLabel "cranial placode" xsd:string
+
+[Term]
+id: UBERON:0002550
+property_value: prefLabel "anterior hypothalamic region" xsd:string
+
+[Term]
+id: UBERON:0002551
+property_value: prefLabel "interstitial nucleus of Cajal" xsd:string
+
+[Term]
+id: UBERON:0002553
+property_value: prefLabel "anatomical cavity" xsd:string
+
+[Term]
+id: UBERON:0002555
+property_value: prefLabel "intermediate hypothalamic region" xsd:string
+
+[Term]
+id: UBERON:0002558
+property_value: prefLabel "organ cavity" xsd:string
+
+[Term]
+id: UBERON:0002559
+property_value: prefLabel "medullary reticular formation" xsd:string
+
+[Term]
+id: UBERON:0002562
+property_value: prefLabel "superior frontal sulcus" xsd:string
+
+[Term]
+id: UBERON:0002563
+property_value: prefLabel "central nucleus of inferior colliculus" xsd:string
+
+[Term]
+id: UBERON:0002564
+property_value: prefLabel "lateral orbital gyrus" xsd:string
+
+[Term]
+id: UBERON:0002565
+property_value: prefLabel "olivary pretectal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002566
+property_value: prefLabel "superior precentral sulcus" xsd:string
+
+[Term]
+id: UBERON:0002567
+property_value: prefLabel "basal part of pons" xsd:string
+
+[Term]
+id: UBERON:0002570
+property_value: prefLabel "medial orbital gyrus" xsd:string
+
+[Term]
+id: UBERON:0002571
+property_value: prefLabel "external nucleus of inferior colliculus" xsd:string
+
+[Term]
+id: UBERON:0002572
+property_value: prefLabel "principal pretectal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002573
+property_value: prefLabel "pontine reticular formation" xsd:string
+
+[Term]
+id: UBERON:0002575
+property_value: prefLabel "posterior orbital gyrus" xsd:string
+
+[Term]
+id: UBERON:0002576
+property_value: prefLabel "temporal pole" xsd:string
+
+[Term]
+id: UBERON:0002577
+property_value: prefLabel "pericentral nucleus of inferior colliculus" xsd:string
+
+[Term]
+id: UBERON:0002578
+property_value: prefLabel "sublentiform nucleus" xsd:string
+
+[Term]
+id: UBERON:0002580
+property_value: prefLabel "brachium of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0002581
+property_value: prefLabel "postcentral gyrus" xsd:string
+
+[Term]
+id: UBERON:0002586
+property_value: prefLabel "calcarine sulcus" xsd:string
+
+[Term]
+id: UBERON:0002587
+property_value: prefLabel "nucleus subceruleus" xsd:string
+
+[Term]
+id: UBERON:0002588
+property_value: prefLabel "decussation of superior cerebellar peduncle" xsd:string
+
+[Term]
+id: UBERON:0002591
+property_value: prefLabel "oral part of spinal trigeminal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002595
+property_value: prefLabel "orbital sulcus" xsd:string
+
+[Term]
+id: UBERON:0002596
+property_value: prefLabel "ventral posterior nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002597
+property_value: prefLabel "principal sensory nucleus of trigeminal nerve" xsd:string
+
+[Term]
+id: UBERON:0002598
+property_value: prefLabel "paracentral sulcus" xsd:string
+
+[Term]
+id: UBERON:0002600
+property_value: prefLabel "limbic lobe" xsd:string
+
+[Term]
+id: UBERON:0002602
+property_value: prefLabel "emboliform nucleus" xsd:string
+
+[Term]
+id: UBERON:0002603
+property_value: prefLabel "paraterminal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002604
+property_value: prefLabel "ventral nucleus of lateral lemniscus" xsd:string
+
+[Term]
+id: UBERON:0002607
+property_value: prefLabel "superior rostral sulcus" xsd:string
+
+[Term]
+id: UBERON:0002610
+property_value: prefLabel "cochlear nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0002613
+property_value: prefLabel "cerebellum globose nucleus" xsd:string
+
+[Term]
+id: UBERON:0002614
+property_value: prefLabel "medial part of ventral lateral nucleus" xsd:string
+
+[Term]
+id: UBERON:0002616
+property_value: prefLabel "regional part of brain" xsd:string
+
+[Term]
+id: UBERON:0002617
+property_value: prefLabel "pars postrema of ventral lateral nucleus" xsd:string
+
+[Term]
+id: UBERON:0002620
+property_value: prefLabel "tuber cinereum" xsd:string
+
+[Term]
+id: UBERON:0002622
+property_value: prefLabel "preoptic periventricular nucleus" xsd:string
+
+[Term]
+id: UBERON:0002624
+property_value: prefLabel "orbital part of inferior frontal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002625
+property_value: prefLabel "median preoptic nucleus" xsd:string
+
+[Term]
+id: UBERON:0002626
+property_value: prefLabel "head of caudate nucleus" xsd:string
+
+[Term]
+id: UBERON:0002628
+property_value: prefLabel "tail of caudate nucleus" xsd:string
+
+[Term]
+id: UBERON:0002629
+property_value: prefLabel "triangular part of inferior frontal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002630
+property_value: prefLabel "body of caudate nucleus" xsd:string
+
+[Term]
+id: UBERON:0002633
+property_value: prefLabel "motor nucleus of trigeminal nerve" xsd:string
+
+[Term]
+id: UBERON:0002634
+property_value: prefLabel "anterior nucleus of hypothalamus" xsd:string
+
+[Term]
+id: UBERON:0002637
+property_value: prefLabel "ventral anterior nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002638
+property_value: prefLabel "medial pulvinar nucleus" xsd:string
+
+[Term]
+id: UBERON:0002639
+property_value: prefLabel "midbrain reticular formation" xsd:string
+
+[Term]
+id: UBERON:0002641
+property_value: prefLabel "oral pulvinar nucleus" xsd:string
+
+[Term]
+id: UBERON:0002643
+property_value: prefLabel "decussation of medial lemniscus" xsd:string
+
+[Term]
+id: UBERON:0002645
+property_value: prefLabel "densocellular part of medial dorsal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002647
+property_value: prefLabel "magnocellular part of medial dorsal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002654
+property_value: prefLabel "parvocellular part of medial dorsal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002660
+property_value: prefLabel "medial longitudinal fasciculus of midbrain" xsd:string
+
+[Term]
+id: UBERON:0002661
+property_value: prefLabel "superior frontal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002663
+property_value: prefLabel "septal nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0002664
+property_value: prefLabel "lateral part of medial mammillary nucleus" xsd:string
+
+[Term]
+id: UBERON:0002665
+property_value: prefLabel "supracallosal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002666
+property_value: prefLabel "mesencephalic tract of trigeminal nerve" xsd:string
+
+[Term]
+id: UBERON:0002667
+property_value: prefLabel "lateral septal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002673
+property_value: prefLabel "vestibular nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0002679
+property_value: prefLabel "anterodorsal nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002681
+property_value: prefLabel "anteromedial nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002682
+property_value: prefLabel "abducens nucleus" xsd:string
+
+[Term]
+id: UBERON:0002683
+property_value: prefLabel "rhinal sulcus" xsd:string
+
+[Term]
+id: UBERON:0002684
+property_value: prefLabel "nucleus raphe obscurus" xsd:string
+
+[Term]
+id: UBERON:0002685
+property_value: prefLabel "anteroventral nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002686
+property_value: prefLabel "angular gyrus" xsd:string
+
+[Term]
+id: UBERON:0002688
+property_value: prefLabel "supramarginal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002690
+property_value: prefLabel "anteroventral periventricular nucleus" xsd:string
+
+[Term]
+id: UBERON:0002691
+property_value: prefLabel "ventral tegmental area" xsd:string
+
+[Term]
+id: UBERON:0002692
+property_value: prefLabel "medullary raphe nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0002694
+property_value: prefLabel "anterior hypothalamic commissure" xsd:string
+
+[Term]
+id: UBERON:0002695
+property_value: prefLabel "parieto-occipital sulcus" xsd:string
+
+[Term]
+id: UBERON:0002696
+property_value: prefLabel "cuneiform nucleus" xsd:string
+
+[Term]
+id: UBERON:0002698
+property_value: prefLabel "preoccipital notch" xsd:string
+
+[Term]
+id: UBERON:0002700
+property_value: prefLabel "subcuneiform nucleus" xsd:string
+
+[Term]
+id: UBERON:0002701
+property_value: prefLabel "anterior median oculomotor nucleus" xsd:string
+
+[Term]
+id: UBERON:0002702
+property_value: prefLabel "middle frontal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002703
+property_value: prefLabel "precentral gyrus" xsd:string
+
+[Term]
+id: UBERON:0002704
+property_value: prefLabel "metathalamus" xsd:string
+
+[Term]
+id: UBERON:0002705
+property_value: prefLabel "midline nuclear group" xsd:string
+
+[Term]
+id: UBERON:0002706
+property_value: prefLabel "posterior nucleus of hypothalamus" xsd:string
+
+[Term]
+id: UBERON:0002707
+property_value: prefLabel "corticospinal tract" xsd:string
+
+[Term]
+id: UBERON:0002709
+property_value: prefLabel "posterior nuclear complex of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002710
+property_value: prefLabel "cingulate sulcus" xsd:string
+
+[Term]
+id: UBERON:0002711
+property_value: prefLabel "nucleus of posterior commissure" xsd:string
+
+[Term]
+id: UBERON:0002712
+property_value: prefLabel "premammillary nucleus" xsd:string
+
+[Term]
+id: UBERON:0002713
+property_value: prefLabel "circular sulcus of insula" xsd:string
+
+[Term]
+id: UBERON:0002716
+property_value: prefLabel "collateral sulcus" xsd:string
+
+[Term]
+id: UBERON:0002717
+property_value: prefLabel "rostral interstitial nucleus of medial longitudinal fasciculus" xsd:string
+
+[Term]
+id: UBERON:0002718
+property_value: prefLabel "solitary tract" xsd:string
+
+[Term]
+id: UBERON:0002720
+property_value: prefLabel "mammillary peduncle" xsd:string
+
+[Term]
+id: UBERON:0002721
+property_value: prefLabel "lateral sulcus" xsd:string
+
+[Term]
+id: UBERON:0002722
+property_value: prefLabel "trochlear nucleus" xsd:string
+
+[Term]
+id: UBERON:0002726
+property_value: prefLabel "cervical spinal cord" xsd:string
+
+[Term]
+id: UBERON:0002727
+property_value: prefLabel "medial medullary lamina of globus pallidus" xsd:string
+
+[Term]
+id: UBERON:0002728
+property_value: prefLabel "entorhinal cortex" xsd:string
+
+[Term]
+id: UBERON:0002732
+property_value: prefLabel "longitudinal pontine fibers" xsd:string
+
+[Term]
+id: UBERON:0002733
+property_value: prefLabel "intralaminar nuclear group" xsd:string
+
+[Term]
+id: UBERON:0002734
+property_value: prefLabel "superior temporal sulcus" xsd:string
+
+[Term]
+id: UBERON:0002736
+property_value: prefLabel "lateral nuclear group of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002739
+property_value: prefLabel "medial dorsal nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002743
+property_value: prefLabel "basal forebrain" xsd:string
+
+[Term]
+id: UBERON:0002749
+property_value: prefLabel "regional part of cerebellar cortex" xsd:string
+
+[Term]
+id: UBERON:0002751
+property_value: prefLabel "inferior temporal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002755
+property_value: prefLabel "pyramidal decussation" xsd:string
+
+[Term]
+id: UBERON:0002758
+property_value: prefLabel "dorsal nucleus of medial geniculate body" xsd:string
+
+[Term]
+id: UBERON:0002759
+property_value: prefLabel "magnocellular nucleus of medial geniculate body" xsd:string
+
+[Term]
+id: UBERON:0002761
+property_value: prefLabel "inferior frontal sulcus" xsd:string
+
+[Term]
+id: UBERON:0002762
+property_value: prefLabel "internal medullary lamina of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002765
+property_value: prefLabel "lateral medullary lamina of globus pallidus" xsd:string
+
+[Term]
+id: UBERON:0002766
+property_value: prefLabel "fusiform gyrus" xsd:string
+
+[Term]
+id: UBERON:0002767
+property_value: prefLabel "inferior rostral sulcus" xsd:string
+
+[Term]
+id: UBERON:0002769
+property_value: prefLabel "superior temporal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002770
+property_value: prefLabel "posterior hypothalamic region" xsd:string
+
+[Term]
+id: UBERON:0002771
+property_value: prefLabel "middle temporal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002772
+property_value: prefLabel "olfactory sulcus" xsd:string
+
+[Term]
+id: UBERON:0002773
+property_value: prefLabel "anterior transverse temporal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002776
+property_value: prefLabel "ventral nuclear group" xsd:string
+
+[Term]
+id: UBERON:0002778
+property_value: prefLabel "ventral pallidum" xsd:string
+
+[Term]
+id: UBERON:0002779
+property_value: prefLabel "lateral superior olivary nucleus" xsd:string
+
+[Term]
+id: UBERON:0002782
+property_value: prefLabel "medial superior olivary nucleus" xsd:string
+
+[Term]
+id: UBERON:0002788
+property_value: prefLabel "anterior nuclear group" xsd:string
+
+[Term]
+id: UBERON:0002795
+property_value: prefLabel "frontal pole" xsd:string
+
+[Term]
+id: UBERON:0002799
+property_value: prefLabel "fronto-orbital sulcus" xsd:string
+
+[Term]
+id: UBERON:0002801
+property_value: prefLabel "stratum zonale of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002812
+property_value: prefLabel "left cerebral hemisphere" xsd:string
+
+[Term]
+id: UBERON:0002813
+property_value: prefLabel "right cerebral hemisphere" xsd:string
+
+[Term]
+id: UBERON:0002814
+property_value: prefLabel "posterior superior fissure of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0002815
+property_value: prefLabel "horizontal fissure of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0002817
+property_value: prefLabel "secondary fissure of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0002818
+property_value: prefLabel "posterolateral fissure of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0002828
+property_value: prefLabel "ventral cochlear nucleus" xsd:string
+
+[Term]
+id: UBERON:0002829
+property_value: prefLabel "dorsal cochlear nucleus" xsd:string
+
+[Term]
+id: UBERON:0002830
+property_value: prefLabel "anteroventral cochlear nucleus" xsd:string
+
+[Term]
+id: UBERON:0002831
+property_value: prefLabel "posteroventral cochlear nucleus" xsd:string
+
+[Term]
+id: UBERON:0002864
+property_value: prefLabel "accessory cuneate nucleus" xsd:string
+
+[Term]
+id: UBERON:0002865
+property_value: prefLabel "arcuate nucleus of medulla" xsd:string
+
+[Term]
+id: UBERON:0002867
+property_value: prefLabel "central gray substance of medulla" xsd:string
+
+[Term]
+id: UBERON:0002870
+property_value: prefLabel "dorsal motor nucleus of vagus nerve" xsd:string
+
+[Term]
+id: UBERON:0002871
+property_value: prefLabel "hypoglossal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002872
+property_value: prefLabel "inferior salivatory nucleus" xsd:string
+
+[Term]
+id: UBERON:0002873
+property_value: prefLabel "interpolar part of spinal trigeminal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002874
+property_value: prefLabel "lateral pericuneate nucleus" xsd:string
+
+[Term]
+id: UBERON:0002875
+property_value: prefLabel "medial pericuneate nucleus" xsd:string
+
+[Term]
+id: UBERON:0002876
+property_value: prefLabel "nucleus intercalatus" xsd:string
+
+[Term]
+id: UBERON:0002879
+property_value: prefLabel "peritrigeminal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002880
+property_value: prefLabel "pontobulbar nucleus" xsd:string
+
+[Term]
+id: UBERON:0002881
+property_value: prefLabel "sublingual nucleus" xsd:string
+
+[Term]
+id: UBERON:0002882
+property_value: prefLabel "supraspinal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002883
+property_value: prefLabel "central amygdaloid nucleus" xsd:string
+
+[Term]
+id: UBERON:0002884
+property_value: prefLabel "intercalated amygdaloid nuclei" xsd:string
+
+[Term]
+id: UBERON:0002885
+property_value: prefLabel "accessory basal amygdaloid nucleus" xsd:string
+
+[Term]
+id: UBERON:0002886
+property_value: prefLabel "lateral amygdaloid nucleus" xsd:string
+
+[Term]
+id: UBERON:0002887
+property_value: prefLabel "basal amygdaloid nucleus" xsd:string
+
+[Term]
+id: UBERON:0002890
+property_value: prefLabel "anterior amygdaloid area" xsd:string
+
+[Term]
+id: UBERON:0002893
+property_value: prefLabel "nucleus of lateral olfactory tract" xsd:string
+
+[Term]
+id: UBERON:0002894
+property_value: prefLabel "olfactory cortex" xsd:string
+
+[Term]
+id: UBERON:0002895
+property_value: prefLabel "secondary olfactory cortex" xsd:string
+
+[Term]
+id: UBERON:0002899
+property_value: prefLabel "hippocampal sulcus" xsd:string
+
+[Term]
+id: UBERON:0002900
+property_value: prefLabel "transverse occipital sulcus" xsd:string
+
+[Term]
+id: UBERON:0002902
+property_value: prefLabel "occipital pole" xsd:string
+
+[Term]
+id: UBERON:0002903
+property_value: prefLabel "lunate sulcus" xsd:string
+
+[Term]
+id: UBERON:0002904
+property_value: prefLabel "lateral occipital sulcus" xsd:string
+
+[Term]
+id: UBERON:0002905
+property_value: prefLabel "intralingual sulcus" xsd:string
+
+[Term]
+id: UBERON:0002906
+property_value: prefLabel "anterior occipital sulcus" xsd:string
+
+[Term]
+id: UBERON:0002908
+property_value: prefLabel "subparietal sulcus" xsd:string
+
+[Term]
+id: UBERON:0002912
+property_value: prefLabel "marginal sulcus" xsd:string
+
+[Term]
+id: UBERON:0002913
+property_value: prefLabel "intraparietal sulcus" xsd:string
+
+[Term]
+id: UBERON:0002915
+property_value: prefLabel "postcentral sulcus of parietal lobe" xsd:string
+
+[Term]
+id: UBERON:0002916
+property_value: prefLabel "central sulcus" xsd:string
+
+[Term]
+id: UBERON:0002918
+property_value: prefLabel "medial parabrachial nucleus" xsd:string
+
+[Term]
+id: UBERON:0002920
+property_value: prefLabel "callosal sulcus" xsd:string
+
+[Term]
+id: UBERON:0002921
+property_value: prefLabel "longitudinal fissure" xsd:string
+
+[Term]
+id: UBERON:0002923
+property_value: prefLabel "posterior parolfactory sulcus" xsd:string
+
+[Term]
+id: UBERON:0002925
+property_value: prefLabel "trigeminal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002926
+property_value: prefLabel "gustatory epithelium" xsd:string
+
+[Term]
+id: UBERON:0002932
+property_value: prefLabel "trapezoid body" xsd:string
+
+[Term]
+id: UBERON:0002933
+property_value: prefLabel "nucleus of anterior commissure" xsd:string
+
+[Term]
+id: UBERON:0002934
+property_value: prefLabel "ventral oculomotor nucleus" xsd:string
+
+[Term]
+id: UBERON:0002935
+property_value: prefLabel "magnocellular part of ventral anterior nucleus" xsd:string
+
+[Term]
+id: UBERON:0002936
+property_value: prefLabel "magnocellular part of red nucleus" xsd:string
+
+[Term]
+id: UBERON:0002938
+property_value: prefLabel "parvocellular part of red nucleus" xsd:string
+
+[Term]
+id: UBERON:0002939
+property_value: prefLabel "ventral posteroinferior nucleus" xsd:string
+
+[Term]
+id: UBERON:0002940
+property_value: prefLabel "anterior column of fornix" xsd:string
+
+[Term]
+id: UBERON:0002942
+property_value: prefLabel "ventral posterolateral nucleus" xsd:string
+
+[Term]
+id: UBERON:0002943
+property_value: prefLabel "lingual gyrus" xsd:string
+
+[Term]
+id: UBERON:0002945
+property_value: prefLabel "ventral posteromedial nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002947
+property_value: prefLabel "frontal operculum" xsd:string
+
+[Term]
+id: UBERON:0002948
+property_value: prefLabel "superior occipital gyrus" xsd:string
+
+[Term]
+id: UBERON:0002949
+property_value: prefLabel "tectospinal tract" xsd:string
+
+[Term]
+id: UBERON:0002953
+property_value: prefLabel "lateral lemniscus" xsd:string
+
+[Term]
+id: UBERON:0002955
+property_value: prefLabel "rhomboidal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002957
+property_value: prefLabel "caudal central oculomotor nucleus" xsd:string
+
+[Term]
+id: UBERON:0002960
+property_value: prefLabel "central oculomotor nucleus" xsd:string
+
+[Term]
+id: UBERON:0002963
+property_value: prefLabel "caudal pontine reticular nucleus" xsd:string
+
+[Term]
+id: UBERON:0002964
+property_value: prefLabel "dorsal oculomotor nucleus" xsd:string
+
+[Term]
+id: UBERON:0002965
+property_value: prefLabel "rostral intralaminar nuclear group" xsd:string
+
+[Term]
+id: UBERON:0002967
+property_value: prefLabel "cingulate gyrus" xsd:string
+
+[Term]
+id: UBERON:0002968
+property_value: prefLabel "central gray substance of pons" xsd:string
+
+[Term]
+id: UBERON:0002969
+property_value: prefLabel "inferior temporal sulcus" xsd:string
+
+[Term]
+id: UBERON:0002970
+property_value: prefLabel "intermediate oculomotor nucleus" xsd:string
+
+[Term]
+id: UBERON:0002971
+property_value: prefLabel "periolivary nucleus" xsd:string
+
+[Term]
+id: UBERON:0002973
+property_value: prefLabel "parahippocampal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002975
+property_value: prefLabel "medial oculomotor nucleus" xsd:string
+
+[Term]
+id: UBERON:0002976
+property_value: prefLabel "preolivary nucleus" xsd:string
+
+[Term]
+id: UBERON:0002980
+property_value: prefLabel "opercular part of inferior frontal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002981
+property_value: prefLabel "pulvinar nucleus" xsd:string
+
+[Term]
+id: UBERON:0002982
+property_value: prefLabel "inferior pulvinar nucleus" xsd:string
+
+[Term]
+id: UBERON:0002983
+property_value: prefLabel "lateral posterior nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0002984
+property_value: prefLabel "lateral dorsal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002985
+property_value: prefLabel "ventral nucleus of medial geniculate body" xsd:string
+
+[Term]
+id: UBERON:0002992
+property_value: prefLabel "paratenial nucleus" xsd:string
+
+[Term]
+id: UBERON:0002995
+property_value: prefLabel "substantia nigra pars lateralis" xsd:string
+
+[Term]
+id: UBERON:0002996
+property_value: prefLabel "nucleus of optic tract" xsd:string
+
+[Term]
+id: UBERON:0002998
+property_value: prefLabel "inferior frontal gyrus" xsd:string
+
+[Term]
+id: UBERON:0002999
+property_value: prefLabel "oral pontine reticular nucleus" xsd:string
+
+[Term]
+id: UBERON:0003001
+property_value: prefLabel "nervous system lemniscus" xsd:string
+
+[Term]
+id: UBERON:0003002
+property_value: prefLabel "medial lemniscus" xsd:string
+
+[Term]
+id: UBERON:0003006
+property_value: prefLabel "dorsal nucleus of lateral lemniscus" xsd:string
+
+[Term]
+id: UBERON:0003007
+property_value: prefLabel "lateral parabrachial nucleus" xsd:string
+
+[Term]
+id: UBERON:0003011
+property_value: prefLabel "facial motor nucleus" xsd:string
+
+[Term]
+id: UBERON:0003012
+property_value: prefLabel "flocculonodular lobe" xsd:string
+
+[Term]
+id: UBERON:0003017
+property_value: prefLabel "substantia innominata" xsd:string
+
+[Term]
+id: UBERON:0003021
+property_value: prefLabel "central lobule" xsd:string
+
+[Term]
+id: UBERON:0003023
+property_value: prefLabel "pontine tegmentum" xsd:string
+
+[Term]
+id: UBERON:0003025
+property_value: prefLabel "brachium of inferior colliculus" xsd:string
+
+[Term]
+id: UBERON:0003026
+property_value: prefLabel "limitans nucleus" xsd:string
+
+[Term]
+id: UBERON:0003028
+property_value: prefLabel "commissure of inferior colliculus" xsd:string
+
+[Term]
+id: UBERON:0003029
+property_value: prefLabel "stria terminalis" xsd:string
+
+[Term]
+id: UBERON:0003030
+property_value: prefLabel "posterior nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0003031
+property_value: prefLabel "submedial nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0003033
+property_value: prefLabel "suprageniculate nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0003036
+property_value: prefLabel "central lateral nucleus" xsd:string
+
+[Term]
+id: UBERON:0003040
+property_value: prefLabel "central gray substance of midbrain" xsd:string
+
+[Term]
+id: UBERON:0003044
+property_value: prefLabel "uncinate fasciculus" xsd:string
+
+[Term]
+id: UBERON:0003045
+property_value: prefLabel "dorsal longitudinal fasciculus" xsd:string
+
+[Term]
+id: UBERON:0003050
+property_value: prefLabel "olfactory placode" xsd:string
+
+[Term]
+id: UBERON:0003051
+property_value: prefLabel "ear vesicle" xsd:string
+
+[Term]
+id: UBERON:0003052
+property_value: prefLabel "midbrain-hindbrain boundary" xsd:string
+
+[Term]
+id: UBERON:0003054
+property_value: prefLabel "roof plate" xsd:string
+
+[Term]
+id: UBERON:0003055
+property_value: prefLabel "periderm" xsd:string
+
+[Term]
+id: UBERON:0003056
+property_value: prefLabel "pre-chordal neural plate" xsd:string
+
+[Term]
+id: UBERON:0003057
+property_value: prefLabel "chordal neural plate" xsd:string
+
+[Term]
+id: UBERON:0003059
+property_value: prefLabel "presomitic mesoderm" xsd:string
+
+[Term]
+id: UBERON:0003061
+property_value: prefLabel "blood island" xsd:string
+
+[Term]
+id: UBERON:0003063
+property_value: prefLabel "prechordal plate" xsd:string
+
+[Term]
+id: UBERON:0003066
+property_value: prefLabel "pharyngeal arch 2" xsd:string
+
+[Term]
+id: UBERON:0003067
+property_value: prefLabel "dorsolateral placode" xsd:string
+
+[Term]
+id: UBERON:0003068
+property_value: prefLabel "axial mesoderm" xsd:string
+
+[Term]
+id: UBERON:0003069
+property_value: prefLabel "otic placode" xsd:string
+
+[Term]
+id: UBERON:0003071
+property_value: prefLabel "eye primordium" xsd:string
+
+[Term]
+id: UBERON:0003072
+property_value: prefLabel "optic cup" xsd:string
+
+[Term]
+id: UBERON:0003073
+property_value: prefLabel "lens placode" xsd:string
+
+[Term]
+id: UBERON:0003075
+property_value: prefLabel "neural plate" xsd:string
+
+[Term]
+id: UBERON:0003076
+property_value: prefLabel "posterior neural tube" xsd:string
+
+[Term]
+id: UBERON:0003077
+property_value: prefLabel "paraxial mesoderm" xsd:string
+
+[Term]
+id: UBERON:0003078
+property_value: prefLabel "epibranchial placode" xsd:string
+
+[Term]
+id: UBERON:0003080
+property_value: prefLabel "anterior neural tube" xsd:string
+
+[Term]
+id: UBERON:0003081
+property_value: prefLabel "lateral plate mesoderm" xsd:string
+
+[Term]
+id: UBERON:0003082
+property_value: prefLabel "myotome" xsd:string
+
+[Term]
+id: UBERON:0003084
+property_value: prefLabel "heart primordium" xsd:string
+
+[Term]
+id: UBERON:0003089
+property_value: prefLabel "sclerotome" xsd:string
+
+[Term]
+id: UBERON:0003098
+property_value: prefLabel "optic stalk" xsd:string
+
+[Term]
+id: UBERON:0003099
+property_value: prefLabel "cranial neural crest" xsd:string
+
+[Term]
+id: UBERON:0003102
+property_value: prefLabel "surface structure" xsd:string
+
+[Term]
+id: UBERON:0003103
+property_value: prefLabel "compound organ" xsd:string
+
+[Term]
+id: UBERON:0003104
+property_value: prefLabel "mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0003110
+property_value: prefLabel "otic region" xsd:string
+
+[Term]
+id: UBERON:0003113
+property_value: prefLabel "dermatocranium" xsd:string
+
+[Term]
+id: UBERON:0003114
+property_value: prefLabel "pharyngeal arch 3" xsd:string
+
+[Term]
+id: UBERON:0003117
+property_value: prefLabel "pharyngeal arch 6" xsd:string
+
+[Term]
+id: UBERON:0003128
+property_value: prefLabel "cranium" xsd:string
+
+[Term]
+id: UBERON:0003129
+property_value: prefLabel "skull" xsd:string
+
+[Term]
+id: UBERON:0003212
+property_value: prefLabel "gustatory organ" xsd:string
+
+[Term]
+id: UBERON:0003258
+property_value: prefLabel "endoderm of foregut" xsd:string
+
+[Term]
+id: UBERON:0003269
+property_value: prefLabel "skeletal muscle tissue of eye" xsd:string
+
+[Term]
+id: UBERON:0003278
+property_value: prefLabel "skeleton of lower jaw" xsd:string
+
+[Term]
+id: UBERON:0003296
+property_value: prefLabel "gland of diencephalon" xsd:string
+
+[Term]
+id: UBERON:0003314
+property_value: prefLabel "eye mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0003324
+property_value: prefLabel "mesenchyme of lower jaw" xsd:string
+
+[Term]
+id: UBERON:0003350
+property_value: prefLabel "epithelium of mucosa" xsd:string
+
+[Term]
+id: UBERON:0003357
+property_value: prefLabel "epithelium of tongue" xsd:string
+
+[Term]
+id: UBERON:0003386
+property_value: prefLabel "smooth muscle of eye" xsd:string
+
+[Term]
+id: UBERON:0003457
+property_value: prefLabel "head bone" xsd:string
+
+[Term]
+id: UBERON:0003462
+property_value: prefLabel "facial bone" xsd:string
+
+[Term]
+id: UBERON:0003509
+property_value: prefLabel "arterial blood vessel" xsd:string
+
+[Term]
+id: UBERON:0003528
+property_value: prefLabel "brain gray matter" xsd:string
+
+[Term]
+id: UBERON:0003544
+property_value: prefLabel "brain white matter" xsd:string
+
+[Term]
+id: UBERON:0003714
+property_value: prefLabel "neural tissue" xsd:string
+
+[Term]
+id: UBERON:0003716
+property_value: prefLabel "recurrent laryngeal nerve" xsd:string
+
+[Term]
+id: UBERON:0003721
+property_value: prefLabel "lingual nerve" xsd:string
+
+[Term]
+id: UBERON:0003723
+property_value: prefLabel "vestibular nerve" xsd:string
+
+[Term]
+id: UBERON:0003842
+property_value: prefLabel "neural tube lumen" xsd:string
+
+[Term]
+id: UBERON:0003849
+property_value: prefLabel "mesencephalic neural crest" xsd:string
+
+[Term]
+id: UBERON:0003850
+property_value: prefLabel "telencephalon neural crest" xsd:string
+
+[Term]
+id: UBERON:0003851
+property_value: prefLabel "diencephalon neural crest" xsd:string
+
+[Term]
+id: UBERON:0003852
+property_value: prefLabel "rhombencephalon neural crest" xsd:string
+
+[Term]
+id: UBERON:0003853
+property_value: prefLabel "spinal cord neural crest" xsd:string
+
+[Term]
+id: UBERON:0003869
+property_value: prefLabel "presumptive ganglion" xsd:string
+
+[Term]
+id: UBERON:0003876
+property_value: prefLabel "hippocampal field" xsd:string
+
+[Term]
+id: UBERON:0003881
+property_value: prefLabel "CA1 field of hippocampus" xsd:string
+
+[Term]
+id: UBERON:0003882
+property_value: prefLabel "CA2 field of hippocampus" xsd:string
+
+[Term]
+id: UBERON:0003883
+property_value: prefLabel "CA3 field of hippocampus" xsd:string
+
+[Term]
+id: UBERON:0003884
+property_value: prefLabel "CA4 field of hippocampus" xsd:string
+
+[Term]
+id: UBERON:0003886
+property_value: prefLabel "future coelemic cavity lumen" xsd:string
+
+[Term]
+id: UBERON:0003887
+property_value: prefLabel "intraembryonic coelom" xsd:string
+
+[Term]
+id: UBERON:0003902
+property_value: prefLabel "retinal neural layer" xsd:string
+
+[Term]
+id: UBERON:0003914
+property_value: prefLabel "epithelial tube" xsd:string
+
+[Term]
+id: UBERON:0003920
+property_value: prefLabel "venous blood vessel" xsd:string
+
+[Term]
+id: UBERON:0003929
+property_value: prefLabel "digestive tract epithelium" xsd:string
+
+[Term]
+id: UBERON:0003931
+property_value: prefLabel "diencephalic white matter" xsd:string
+
+[Term]
+id: UBERON:0003939
+property_value: prefLabel "transverse gyrus of Heschl" xsd:string
+
+[Term]
+id: UBERON:0003941
+property_value: prefLabel "cerebellum anterior vermis" xsd:string
+
+[Term]
+id: UBERON:0003947
+property_value: prefLabel "brain ventricle/choroid plexus" xsd:string
+
+[Term]
+id: UBERON:0003961
+property_value: prefLabel "cingulum of brain" xsd:string
+
+[Term]
+id: UBERON:0003980
+property_value: prefLabel "cerebellum fissure" xsd:string
+
+[Term]
+id: UBERON:0004002
+property_value: prefLabel "posterior lobe of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0004003
+property_value: prefLabel "cerebellum hemisphere lobule" xsd:string
+
+[Term]
+id: UBERON:0004004
+property_value: prefLabel "cerebellum lobule" xsd:string
+
+[Term]
+id: UBERON:0004006
+property_value: prefLabel "cerebellum intermediate zone" xsd:string
+
+[Term]
+id: UBERON:0004008
+property_value: prefLabel "cerebellar plate" xsd:string
+
+[Term]
+id: UBERON:0004009
+property_value: prefLabel "cerebellum posterior vermis" xsd:string
+
+[Term]
+id: UBERON:0004016
+property_value: prefLabel "dermatome" xsd:string
+
+[Term]
+id: UBERON:0004022
+property_value: prefLabel "germinal neuroepithelium" xsd:string
+
+[Term]
+id: UBERON:0004035
+property_value: prefLabel "cortical subplate" xsd:string
+
+[Term]
+id: UBERON:0004040
+property_value: prefLabel "cortical intermediate zone" xsd:string
+
+[Term]
+id: UBERON:0004060
+property_value: prefLabel "neural tube ventricular layer" xsd:string
+
+[Term]
+id: UBERON:0004061
+property_value: prefLabel "neural tube mantle layer" xsd:string
+
+[Term]
+id: UBERON:0004062
+property_value: prefLabel "neural tube marginal layer" xsd:string
+
+[Term]
+id: UBERON:0004064
+property_value: prefLabel "neural tube basal plate" xsd:string
+
+[Term]
+id: UBERON:0004070
+property_value: prefLabel "cerebellum vermis lobule" xsd:string
+
+[Term]
+id: UBERON:0004073
+property_value: prefLabel "cerebellum interpositus nucleus" xsd:string
+
+[Term]
+id: UBERON:0004076
+property_value: prefLabel "cerebellum vermis lobule III" xsd:string
+
+[Term]
+id: UBERON:0004077
+property_value: prefLabel "cerebellum vermis lobule IV" xsd:string
+
+[Term]
+id: UBERON:0004078
+property_value: prefLabel "cerebellum vermis lobule IX" xsd:string
+
+[Term]
+id: UBERON:0004079
+property_value: prefLabel "cerebellum vermis lobule V" xsd:string
+
+[Term]
+id: UBERON:0004080
+property_value: prefLabel "cerebellum vermis lobule VI" xsd:string
+
+[Term]
+id: UBERON:0004081
+property_value: prefLabel "cerebellum vermis lobule VII" xsd:string
+
+[Term]
+id: UBERON:0004083
+property_value: prefLabel "cerebellum vermis lobule X" xsd:string
+
+[Term]
+id: UBERON:0004086
+property_value: prefLabel "brain ventricle" xsd:string
+
+[Term]
+id: UBERON:0004088
+property_value: prefLabel "orbital region" xsd:string
+
+[Term]
+id: UBERON:0004111
+property_value: prefLabel "anatomical conduit" xsd:string
+
+[Term]
+id: UBERON:0004119
+property_value: prefLabel "endoderm-derived structure" xsd:string
+
+[Term]
+id: UBERON:0004120
+property_value: prefLabel "mesoderm-derived structure" xsd:string
+
+[Term]
+id: UBERON:0004121
+property_value: prefLabel "ectoderm-derived structure" xsd:string
+
+[Term]
+id: UBERON:0004128
+property_value: prefLabel "optic vesicle" xsd:string
+
+[Term]
+id: UBERON:0004132
+property_value: prefLabel "trigeminal sensory nucleus" xsd:string
+
+[Term]
+id: UBERON:0004133
+property_value: prefLabel "salivatory nucleus" xsd:string
+
+[Term]
+id: UBERON:0004139
+property_value: prefLabel "cardiogenic plate" xsd:string
+
+[Term]
+id: UBERON:0004140
+property_value: prefLabel "primary heart field" xsd:string
+
+[Term]
+id: UBERON:0004141
+property_value: prefLabel "heart tube" xsd:string
+
+[Term]
+id: UBERON:0004151
+property_value: prefLabel "cardiac chamber" xsd:string
+
+[Term]
+id: UBERON:0004167
+property_value: prefLabel "orbitofrontal cortex" xsd:string
+
+[Term]
+id: UBERON:0004277
+property_value: prefLabel "eye muscle" xsd:string
+
+[Term]
+id: UBERON:0004288
+property_value: prefLabel "skeleton" xsd:string
+
+[Term]
+id: UBERON:0004290
+property_value: prefLabel "dermomyotome" xsd:string
+
+[Term]
+id: UBERON:0004291
+property_value: prefLabel "heart rudiment" xsd:string
+
+[Term]
+id: UBERON:0004348
+property_value: prefLabel "optic eminence" xsd:string
+
+[Term]
+id: UBERON:0004362
+property_value: prefLabel "pharyngeal arch 1" xsd:string
+
+[Term]
+id: UBERON:0004370
+property_value: prefLabel "anterior limiting lamina of cornea" xsd:string
+
+[Term]
+id: UBERON:0004456
+property_value: prefLabel "entire sense organ system" xsd:string
+
+[Term]
+id: UBERON:0004461
+property_value: prefLabel "skeletal musculature of head" xsd:string
+
+[Term]
+id: UBERON:0004473
+property_value: prefLabel "musculature of face" xsd:string
+
+[Term]
+id: UBERON:0004535
+property_value: prefLabel "cardiovascular system" xsd:string
+
+[Term]
+id: UBERON:0004537
+property_value: prefLabel "blood vasculature" xsd:string
+
+[Term]
+id: UBERON:0004545
+property_value: prefLabel "external capsule of telencephalon" xsd:string
+
+[Term]
+id: UBERON:0004572
+property_value: prefLabel "arterial system" xsd:string
+
+[Term]
+id: UBERON:0004582
+property_value: prefLabel "venous system" xsd:string
+
+[Term]
+id: UBERON:0004637
+property_value: prefLabel "otic capsule" xsd:string
+
+[Term]
+id: UBERON:0004638
+property_value: prefLabel "blood vessel endothelium" xsd:string
+
+[Term]
+id: UBERON:0004671
+property_value: prefLabel "gyrus rectus" xsd:string
+
+[Term]
+id: UBERON:0004677
+property_value: prefLabel "spinal cord gray commissure" xsd:string
+
+[Term]
+id: UBERON:0004680
+property_value: prefLabel "body of fornix" xsd:string
+
+[Term]
+id: UBERON:0004681
+property_value: prefLabel "vestibular system" xsd:string
+
+[Term]
+id: UBERON:0004682
+property_value: prefLabel "corona radiata of neuraxis" xsd:string
+
+[Term]
+id: UBERON:0004683
+property_value: prefLabel "parasubiculum" xsd:string
+
+[Term]
+id: UBERON:0004684
+property_value: prefLabel "raphe nuclei" xsd:string
+
+[Term]
+id: UBERON:0004703
+property_value: prefLabel "dorsal thalamus" xsd:string
+
+[Term]
+id: UBERON:0004716
+property_value: prefLabel "conceptus" xsd:string
+
+[Term]
+id: UBERON:0004720
+property_value: prefLabel "cerebellar vermis" xsd:string
+
+[Term]
+id: UBERON:0004725
+property_value: prefLabel "piriform cortex" xsd:string
+
+[Term]
+id: UBERON:0004727
+property_value: prefLabel "cochlear nerve" xsd:string
+
+[Term]
+id: UBERON:0004731
+property_value: prefLabel "neuromere" xsd:string
+
+[Term]
+id: UBERON:0004732
+property_value: prefLabel "segmental subdivision of nervous system" xsd:string
+
+[Term]
+id: UBERON:0004733
+property_value: prefLabel "segmental subdivision of hindbrain" xsd:string
+
+[Term]
+id: UBERON:0004734
+property_value: prefLabel "gastrula" xsd:string
+
+[Term]
+id: UBERON:0004742
+property_value: prefLabel "dentary" xsd:string
+
+[Term]
+id: UBERON:0004755
+property_value: prefLabel "skeletal tissue" xsd:string
+
+[Term]
+id: UBERON:0004756
+property_value: prefLabel "dermal skeletal element" xsd:string
+
+[Term]
+id: UBERON:0004761
+property_value: prefLabel "cartilaginous neurocranium" xsd:string
+
+[Term]
+id: UBERON:0004765
+property_value: prefLabel "skeletal element" xsd:string
+
+[Term]
+id: UBERON:0004768
+property_value: prefLabel "bone of lower jaw" xsd:string
+
+[Term]
+id: UBERON:0004770
+property_value: prefLabel "articular system" xsd:string
+
+[Term]
+id: UBERON:0004785
+property_value: prefLabel "respiratory system mucosa" xsd:string
+
+[Term]
+id: UBERON:0004802
+property_value: prefLabel "respiratory tract epithelium" xsd:string
+
+[Term]
+id: UBERON:0004807
+property_value: prefLabel "respiratory system epithelium" xsd:string
+
+[Term]
+id: UBERON:0004814
+property_value: prefLabel "upper respiratory tract epithelium" xsd:string
+
+[Term]
+id: UBERON:0004852
+property_value: prefLabel "cardiovascular system endothelium" xsd:string
+
+[Term]
+id: UBERON:0004872
+property_value: prefLabel "splanchnic layer of lateral plate mesoderm" xsd:string
+
+[Term]
+id: UBERON:0004880
+property_value: prefLabel "chordamesoderm" xsd:string
+
+[Term]
+id: UBERON:0004905
+property_value: prefLabel "articulation" xsd:string
+
+[Term]
+id: UBERON:0004921
+property_value: prefLabel "subdivision of digestive tract" xsd:string
+
+[Term]
+id: UBERON:0004923
+property_value: prefLabel "organ component layer" xsd:string
+
+[Term]
+id: UBERON:0005061
+property_value: prefLabel "neural groove" xsd:string
+
+[Term]
+id: UBERON:0005062
+property_value: prefLabel "neural fold" xsd:string
+
+[Term]
+id: UBERON:0005068
+property_value: prefLabel "neural rod" xsd:string
+
+[Term]
+id: UBERON:0005085
+property_value: prefLabel "ectodermal placode" xsd:string
+
+[Term]
+id: UBERON:0005090
+property_value: prefLabel "muscle structure" xsd:string
+
+[Term]
+id: UBERON:0005157
+property_value: prefLabel "epithelial fold" xsd:string
+
+[Term]
+id: UBERON:0005162
+property_value: prefLabel "multi cell part structure" xsd:string
+
+[Term]
+id: UBERON:0005174
+property_value: prefLabel "dorsal region element" xsd:string
+
+[Term]
+id: UBERON:0005177
+property_value: prefLabel "trunk region element" xsd:string
+
+[Term]
+id: UBERON:0005178
+property_value: prefLabel "thoracic cavity element" xsd:string
+
+[Term]
+id: UBERON:0005181
+property_value: prefLabel "thoracic segment organ" xsd:string
+
+[Term]
+id: UBERON:0005239
+property_value: prefLabel "basal plate metencephalon" xsd:string
+
+[Term]
+id: UBERON:0005253
+property_value: prefLabel "head mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0005256
+property_value: prefLabel "trunk mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0005281
+property_value: prefLabel "ventricular system of central nervous system" xsd:string
+
+[Term]
+id: UBERON:0005282
+property_value: prefLabel "ventricular system of brain" xsd:string
+
+[Term]
+id: UBERON:0005283
+property_value: prefLabel "tela choroidea" xsd:string
+
+[Term]
+id: UBERON:0005290
+property_value: prefLabel "myelencephalon" xsd:string
+
+[Term]
+id: UBERON:0005291
+property_value: prefLabel "embryonic tissue" xsd:string
+
+[Term]
+id: UBERON:0005293
+property_value: prefLabel "cerebellum lobe" xsd:string
+
+[Term]
+id: UBERON:0005340
+property_value: prefLabel "dorsal telencephalic commissure" xsd:string
+
+[Term]
+id: UBERON:0005341
+property_value: prefLabel "ventral commissure" xsd:string
+
+[Term]
+id: UBERON:0005343
+property_value: prefLabel "cortical plate" xsd:string
+
+[Term]
+id: UBERON:0005346
+property_value: prefLabel "cerebellum vermis lobule VIIB" xsd:string
+
+[Term]
+id: UBERON:0005348
+property_value: prefLabel "ansiform lobule" xsd:string
+
+[Term]
+id: UBERON:0005349
+property_value: prefLabel "paramedian lobule" xsd:string
+
+[Term]
+id: UBERON:0005358
+property_value: prefLabel "ventricle of nervous system" xsd:string
+
+[Term]
+id: UBERON:0005366
+property_value: prefLabel "olfactory lobe" xsd:string
+
+[Term]
+id: UBERON:0005382
+property_value: prefLabel "dorsal striatum" xsd:string
+
+[Term]
+id: UBERON:0005383
+property_value: prefLabel "caudate-putamen" xsd:string
+
+[Term]
+id: UBERON:0005384
+property_value: prefLabel "nasal cavity epithelium" xsd:string
+
+[Term]
+id: UBERON:0005386
+property_value: prefLabel "olfactory segment of nasal mucosa" xsd:string
+
+[Term]
+id: UBERON:0005388
+property_value: prefLabel "photoreceptor array" xsd:string
+
+[Term]
+id: UBERON:0005389
+property_value: prefLabel "transparent eye structure" xsd:string
+
+[Term]
+id: UBERON:0005390
+property_value: prefLabel "cortical layer I" xsd:string
+
+[Term]
+id: UBERON:0005391
+property_value: prefLabel "cortical layer II" xsd:string
+
+[Term]
+id: UBERON:0005392
+property_value: prefLabel "cortical layer III" xsd:string
+
+[Term]
+id: UBERON:0005393
+property_value: prefLabel "cortical layer IV" xsd:string
+
+[Term]
+id: UBERON:0005394
+property_value: prefLabel "cortical layer V" xsd:string
+
+[Term]
+id: UBERON:0005395
+property_value: prefLabel "cortical layer VI" xsd:string
+
+[Term]
+id: UBERON:0005401
+property_value: prefLabel "cerebral hemisphere gray matter" xsd:string
+
+[Term]
+id: UBERON:0005403
+property_value: prefLabel "ventral striatum" xsd:string
+
+[Term]
+id: UBERON:0005408
+property_value: prefLabel "circumventricular organ" xsd:string
+
+[Term]
+id: UBERON:0005423
+property_value: prefLabel "developing anatomical structure" xsd:string
+
+[Term]
+id: UBERON:0005425
+property_value: prefLabel "presumptive neural retina" xsd:string
+
+[Term]
+id: UBERON:0005426
+property_value: prefLabel "lens vesicle" xsd:string
+
+[Term]
+id: UBERON:0005427
+property_value: prefLabel "corneal primordium" xsd:string
+
+[Term]
+id: UBERON:0005434
+property_value: prefLabel "cervical region" xsd:string
+
+[Term]
+id: UBERON:0005478
+property_value: prefLabel "sulcus limitans of neural tube" xsd:string
+
+[Term]
+id: UBERON:0005496
+property_value: prefLabel "neural tube lateral wall" xsd:string
+
+[Term]
+id: UBERON:0005497
+property_value: prefLabel "non-neural ectoderm" xsd:string
+
+[Term]
+id: UBERON:0005498
+property_value: prefLabel "primitive heart tube" xsd:string
+
+[Term]
+id: UBERON:0005499
+property_value: prefLabel "rhombomere 1" xsd:string
+
+[Term]
+id: UBERON:0005502
+property_value: prefLabel "rhombomere roof plate" xsd:string
+
+[Term]
+id: UBERON:0005568
+property_value: prefLabel "rhombomere 1 roof plate" xsd:string
+
+[Term]
+id: UBERON:0005594
+property_value: prefLabel "head somite" xsd:string
+
+[Term]
+id: UBERON:0005629
+property_value: prefLabel "vascular plexus" xsd:string
+
+[Term]
+id: UBERON:0005725
+property_value: prefLabel "olfactory system" xsd:string
+
+[Term]
+id: UBERON:0005726
+property_value: prefLabel "chemosensory system" xsd:string
+
+[Term]
+id: UBERON:0005764
+property_value: prefLabel "acellular membrane" xsd:string
+
+[Term]
+id: UBERON:0005769
+property_value: prefLabel "basement membrane of epithelium" xsd:string
+
+[Term]
+id: UBERON:0005821
+property_value: prefLabel "gracile fasciculus" xsd:string
+
+[Term]
+id: UBERON:0005832
+property_value: prefLabel "cuneate fasciculus" xsd:string
+
+[Term]
+id: UBERON:0005838
+property_value: prefLabel "fasciculus of brain" xsd:string
+
+[Term]
+id: UBERON:0005844
+property_value: prefLabel "spinal cord segment" xsd:string
+
+[Term]
+id: UBERON:0005856
+property_value: prefLabel "developing mesenchymal condensation" xsd:string
+
+[Term]
+id: UBERON:0005865
+property_value: prefLabel "pre-muscle condensation" xsd:string
+
+[Term]
+id: UBERON:0005867
+property_value: prefLabel "mandibular prominence" xsd:string
+
+[Term]
+id: UBERON:0005882
+property_value: prefLabel "neural tube alar plate" xsd:string
+
+[Term]
+id: UBERON:0005884
+property_value: prefLabel "hyoid arch skeleton" xsd:string
+
+[Term]
+id: UBERON:0005911
+property_value: prefLabel "endo-epithelium" xsd:string
+
+[Term]
+id: UBERON:0005913
+property_value: prefLabel "zone of bone organ" xsd:string
+
+[Term]
+id: UBERON:0005944
+property_value: prefLabel "axial skeleton plus cranial skeleton" xsd:string
+
+[Term]
+id: UBERON:0005970
+property_value: prefLabel "brain commissure" xsd:string
+
+[Term]
+id: UBERON:0005976
+property_value: prefLabel "ansiform lobule crus I" xsd:string
+
+[Term]
+id: UBERON:0005977
+property_value: prefLabel "ansiform lobule crus II" xsd:string
+
+[Term]
+id: UBERON:0006086
+property_value: prefLabel "stria medullaris" xsd:string
+
+[Term]
+id: UBERON:0006087
+property_value: prefLabel "internal arcuate fiber bundle" xsd:string
+
+[Term]
+id: UBERON:0006088
+property_value: prefLabel "inferior parietal cortex" xsd:string
+
+[Term]
+id: UBERON:0006092
+property_value: prefLabel "cuneus cortex" xsd:string
+
+[Term]
+id: UBERON:0006093
+property_value: prefLabel "precuneus cortex" xsd:string
+
+[Term]
+id: UBERON:0006094
+property_value: prefLabel "superior parietal cortex" xsd:string
+
+[Term]
+id: UBERON:0006098
+property_value: prefLabel "basal nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0006107
+property_value: prefLabel "basolateral amygdaloid nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0006108
+property_value: prefLabel "corticomedial nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0006115
+property_value: prefLabel "posterior column of fornix" xsd:string
+
+[Term]
+id: UBERON:0006120
+property_value: prefLabel "superior colliculus superficial gray layer" xsd:string
+
+[Term]
+id: UBERON:0006134
+property_value: prefLabel "nerve fiber" xsd:string
+
+[Term]
+id: UBERON:0006135
+property_value: prefLabel "myelinated nerve fiber" xsd:string
+
+[Term]
+id: UBERON:0006215
+property_value: prefLabel "rhombic lip" xsd:string
+
+[Term]
+id: UBERON:0006222
+property_value: prefLabel "future diencephalon" xsd:string
+
+[Term]
+id: UBERON:0006230
+property_value: prefLabel "extrinsic ocular pre-muscle mass" xsd:string
+
+[Term]
+id: UBERON:0006238
+property_value: prefLabel "future brain" xsd:string
+
+[Term]
+id: UBERON:0006240
+property_value: prefLabel "future forebrain" xsd:string
+
+[Term]
+id: UBERON:0006241
+property_value: prefLabel "future spinal cord" xsd:string
+
+[Term]
+id: UBERON:0006260
+property_value: prefLabel "lingual swellings" xsd:string
+
+[Term]
+id: UBERON:0006267
+property_value: prefLabel "notochordal plate" xsd:string
+
+[Term]
+id: UBERON:0006268
+property_value: prefLabel "notochordal process" xsd:string
+
+[Term]
+id: UBERON:0006273
+property_value: prefLabel "otic pit" xsd:string
+
+[Term]
+id: UBERON:0006284
+property_value: prefLabel "early prosencephalic vesicle" xsd:string
+
+[Term]
+id: UBERON:0006314
+property_value: prefLabel "bodily fluid" xsd:string
+
+[Term]
+id: UBERON:0006321
+property_value: prefLabel "superior oblique extraocular muscle" xsd:string
+
+[Term]
+id: UBERON:0006331
+property_value: prefLabel "brainstem nucleus" xsd:string
+
+[Term]
+id: UBERON:0006334
+property_value: prefLabel "posterior lateral line" xsd:string
+
+[Term]
+id: UBERON:0006514
+property_value: prefLabel "pallidum" xsd:string
+
+[Term]
+id: UBERON:0006531
+property_value: prefLabel "oculomotor muscle" xsd:string
+
+[Term]
+id: UBERON:0006532
+property_value: prefLabel "oblique extraocular muscle" xsd:string
+
+[Term]
+id: UBERON:0006562
+property_value: prefLabel "pharynx" xsd:string
+
+[Term]
+id: UBERON:0006568
+property_value: prefLabel "hypothalamic nucleus" xsd:string
+
+[Term]
+id: UBERON:0006569
+property_value: prefLabel "diencephalic nucleus" xsd:string
+
+[Term]
+id: UBERON:0006585
+property_value: prefLabel "vestibular organ" xsd:string
+
+[Term]
+id: UBERON:0006595
+property_value: prefLabel "presumptive endoderm" xsd:string
+
+[Term]
+id: UBERON:0006596
+property_value: prefLabel "presumptive blood" xsd:string
+
+[Term]
+id: UBERON:0006598
+property_value: prefLabel "presumptive structure" xsd:string
+
+[Term]
+id: UBERON:0006601
+property_value: prefLabel "presumptive ectoderm" xsd:string
+
+[Term]
+id: UBERON:0006603
+property_value: prefLabel "presumptive mesoderm" xsd:string
+
+[Term]
+id: UBERON:0006606
+property_value: prefLabel "mandibular symphysis" xsd:string
+
+[Term]
+id: UBERON:0006694
+property_value: prefLabel "cerebellum vasculature" xsd:string
+
+[Term]
+id: UBERON:0006695
+property_value: prefLabel "mammillary axonal complex" xsd:string
+
+[Term]
+id: UBERON:0006696
+property_value: prefLabel "mammillothalamic axonal tract" xsd:string
+
+[Term]
+id: UBERON:0006698
+property_value: prefLabel "mammillotegmental axonal tract" xsd:string
+
+[Term]
+id: UBERON:0006756
+property_value: prefLabel "median lingual swelling" xsd:string
+
+[Term]
+id: UBERON:0006757
+property_value: prefLabel "lateral lingual swelling" xsd:string
+
+[Term]
+id: UBERON:0006777
+property_value: prefLabel "tectal plate" xsd:string
+
+[Term]
+id: UBERON:0006779
+property_value: prefLabel "superficial white layer of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006782
+property_value: prefLabel "stratum lemnisci of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006783
+property_value: prefLabel "layer of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006785
+property_value: prefLabel "gray matter layer of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006786
+property_value: prefLabel "white matter of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006787
+property_value: prefLabel "middle white layer of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006788
+property_value: prefLabel "middle gray layer of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006789
+property_value: prefLabel "deep gray layer of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006790
+property_value: prefLabel "deep white layer of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006791
+property_value: prefLabel "superficial layer of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006792
+property_value: prefLabel "intermediate layer of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006793
+property_value: prefLabel "deep layer of superior colliculus" xsd:string
+
+[Term]
+id: UBERON:0006794
+property_value: prefLabel "visual processing part of nervous system" xsd:string
+
+[Term]
+id: UBERON:0006799
+property_value: prefLabel "glandular epithelium" xsd:string
+
+[Term]
+id: UBERON:0006813
+property_value: prefLabel "nasal skeleton" xsd:string
+
+[Term]
+id: UBERON:0006840
+property_value: prefLabel "nucleus of lateral lemniscus" xsd:string
+
+[Term]
+id: UBERON:0006846
+property_value: prefLabel "surface groove" xsd:string
+
+[Term]
+id: UBERON:0006876
+property_value: prefLabel "vasculature of organ" xsd:string
+
+[Term]
+id: UBERON:0006904
+property_value: prefLabel "head mesenchyme from mesoderm" xsd:string
+
+[Term]
+id: UBERON:0006905
+property_value: prefLabel "mandibular process mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0006914
+property_value: prefLabel "squamous epithelium" xsd:string
+
+[Term]
+id: UBERON:0006934
+property_value: prefLabel "sensory epithelium" xsd:string
+
+[Term]
+id: UBERON:0006964
+property_value: prefLabel "pars distalis of adenohypophysis" xsd:string
+
+[Term]
+id: UBERON:0006965
+property_value: prefLabel "vascular cord" xsd:string
+
+[Term]
+id: UBERON:0006984
+property_value: prefLabel "anatomical surface" xsd:string
+
+[Term]
+id: UBERON:0007005
+property_value: prefLabel "cardiogenic splanchnic mesoderm" xsd:string
+
+[Term]
+id: UBERON:0007010
+property_value: prefLabel "cleaving embryo" xsd:string
+
+[Term]
+id: UBERON:0007026
+property_value: prefLabel "presumptive gut" xsd:string
+
+[Term]
+id: UBERON:0007037
+property_value: prefLabel "mechanosensory system" xsd:string
+
+[Term]
+id: UBERON:0007098
+property_value: prefLabel "mandibular neural crest" xsd:string
+
+[Term]
+id: UBERON:0007100
+property_value: prefLabel "primary circulatory organ" xsd:string
+
+[Term]
+id: UBERON:0007135
+property_value: prefLabel "neural keel" xsd:string
+
+[Term]
+id: UBERON:0007193
+property_value: prefLabel "orbital gyrus" xsd:string
+
+[Term]
+id: UBERON:0007213
+property_value: prefLabel "mesenchyme derived from head neural crest" xsd:string
+
+[Term]
+id: UBERON:0007227
+property_value: prefLabel "superior vestibular nucleus" xsd:string
+
+[Term]
+id: UBERON:0007228
+property_value: prefLabel "vestibular nucleus" xsd:string
+
+[Term]
+id: UBERON:0007230
+property_value: prefLabel "lateral vestibular nucleus" xsd:string
+
+[Term]
+id: UBERON:0007237
+property_value: prefLabel "1st arch mandibular component" xsd:string
+
+[Term]
+id: UBERON:0007244
+property_value: prefLabel "inferior olivary nucleus" xsd:string
+
+[Term]
+id: UBERON:0007245
+property_value: prefLabel "nuclear complex of neuraxis" xsd:string
+
+[Term]
+id: UBERON:0007247
+property_value: prefLabel "nucleus of superior olivary complex" xsd:string
+
+[Term]
+id: UBERON:0007249
+property_value: prefLabel "dorsal accessory inferior olivary nucleus" xsd:string
+
+[Term]
+id: UBERON:0007251
+property_value: prefLabel "preoptic nucleus" xsd:string
+
+[Term]
+id: UBERON:0007277
+property_value: prefLabel "presumptive hindbrain" xsd:string
+
+[Term]
+id: UBERON:0007281
+property_value: prefLabel "presumptive midbrain hindbrain boundary" xsd:string
+
+[Term]
+id: UBERON:0007282
+property_value: prefLabel "presumptive segmental plate" xsd:string
+
+[Term]
+id: UBERON:0007284
+property_value: prefLabel "presumptive neural plate" xsd:string
+
+[Term]
+id: UBERON:0007285
+property_value: prefLabel "presumptive paraxial mesoderm" xsd:string
+
+[Term]
+id: UBERON:0007289
+property_value: prefLabel "presumptive rhombomere 1" xsd:string
+
+[Term]
+id: UBERON:0007376
+property_value: prefLabel "outer epithelium" xsd:string
+
+[Term]
+id: UBERON:0007383
+property_value: prefLabel "enveloping layer of ectoderm" xsd:string
+
+[Term]
+id: UBERON:0007412
+property_value: prefLabel "midbrain raphe nuclei" xsd:string
+
+[Term]
+id: UBERON:0007413
+property_value: prefLabel "nucleus of pontine reticular formation" xsd:string
+
+[Term]
+id: UBERON:0007414
+property_value: prefLabel "nucleus of midbrain tegmentum" xsd:string
+
+[Term]
+id: UBERON:0007415
+property_value: prefLabel "nucleus of midbrain reticular formation" xsd:string
+
+[Term]
+id: UBERON:0007416
+property_value: prefLabel "cerebellar peduncle" xsd:string
+
+[Term]
+id: UBERON:0007417
+property_value: prefLabel "peduncle of neuraxis" xsd:string
+
+[Term]
+id: UBERON:0007418
+property_value: prefLabel "neural decussation" xsd:string
+
+[Term]
+id: UBERON:0007425
+property_value: prefLabel "decussation of diencephalon" xsd:string
+
+[Term]
+id: UBERON:0007499
+property_value: prefLabel "epithelial sac" xsd:string
+
+[Term]
+id: UBERON:0007500
+property_value: prefLabel "epithelial tube open at both ends" xsd:string
+
+[Term]
+id: UBERON:0007503
+property_value: prefLabel "epithelial vesicle" xsd:string
+
+[Term]
+id: UBERON:0007524
+property_value: prefLabel "dense mesenchyme tissue" xsd:string
+
+[Term]
+id: UBERON:0007530
+property_value: prefLabel "migrating mesenchyme population" xsd:string
+
+[Term]
+id: UBERON:0007592
+property_value: prefLabel "ciliated columnar epithelium" xsd:string
+
+[Term]
+id: UBERON:0007601
+property_value: prefLabel "ciliated epithelium" xsd:string
+
+[Term]
+id: UBERON:0007625
+property_value: prefLabel "pigment epithelium of eye" xsd:string
+
+[Term]
+id: UBERON:0007626
+property_value: prefLabel "subparaventricular zone" xsd:string
+
+[Term]
+id: UBERON:0007628
+property_value: prefLabel "lateral septal complex" xsd:string
+
+[Term]
+id: UBERON:0007629
+property_value: prefLabel "medial septal complex" xsd:string
+
+[Term]
+id: UBERON:0007633
+property_value: prefLabel "nucleus of trapezoid body" xsd:string
+
+[Term]
+id: UBERON:0007634
+property_value: prefLabel "parabrachial nucleus" xsd:string
+
+[Term]
+id: UBERON:0007635
+property_value: prefLabel "nucleus of medulla oblongata" xsd:string
+
+[Term]
+id: UBERON:0007639
+property_value: prefLabel "hippocampus alveus" xsd:string
+
+[Term]
+id: UBERON:0007641
+property_value: prefLabel "trigeminal nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0007645
+property_value: prefLabel "future meninx" xsd:string
+
+[Term]
+id: UBERON:0007646
+property_value: prefLabel "endomeninx" xsd:string
+
+[Term]
+id: UBERON:0007651
+property_value: prefLabel "anatomical junction" xsd:string
+
+[Term]
+id: UBERON:0007688
+property_value: prefLabel "anlage" xsd:string
+
+[Term]
+id: UBERON:0007690
+property_value: prefLabel "early pharyngeal endoderm" xsd:string
+
+[Term]
+id: UBERON:0007692
+property_value: prefLabel "nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0007702
+property_value: prefLabel "tract of brain" xsd:string
+
+[Term]
+id: UBERON:0007710
+property_value: prefLabel "intermediate nucleus of lateral lemniscus" xsd:string
+
+[Term]
+id: UBERON:0007763
+property_value: prefLabel "cerebellum vermis culmen" xsd:string
+
+[Term]
+id: UBERON:0007767
+property_value: prefLabel "dorsal premammillary nucleus" xsd:string
+
+[Term]
+id: UBERON:0007768
+property_value: prefLabel "ventral premammillary nucleus" xsd:string
+
+[Term]
+id: UBERON:0007769
+property_value: prefLabel "medial preoptic region" xsd:string
+
+[Term]
+id: UBERON:0007779
+property_value: prefLabel "transudate" xsd:string
+
+[Term]
+id: UBERON:0007798
+property_value: prefLabel "vascular system" xsd:string
+
+[Term]
+id: UBERON:0007811
+property_value: prefLabel "craniocervical region" xsd:string
+
+[Term]
+id: UBERON:0007842
+property_value: prefLabel "membrane bone" xsd:string
+
+[Term]
+id: UBERON:0007845
+property_value: prefLabel "regular connective tissue" xsd:string
+
+[Term]
+id: UBERON:0007846
+property_value: prefLabel "dense regular connective tissue" xsd:string
+
+[Term]
+id: UBERON:0007914
+property_value: prefLabel "bone of craniocervical region" xsd:string
+
+[Term]
+id: UBERON:0008001
+property_value: prefLabel "irregular bone" xsd:string
+
+[Term]
+id: UBERON:0008193
+property_value: prefLabel "pneumatized bone" xsd:string
+
+[Term]
+id: UBERON:0008229
+property_value: prefLabel "craniocervical region musculature" xsd:string
+
+[Term]
+id: UBERON:0008334
+property_value: prefLabel "subarachnoid sulcus" xsd:string
+
+[Term]
+id: UBERON:0008814
+property_value: prefLabel "pharyngeal arch system" xsd:string
+
+[Term]
+id: UBERON:0008816
+property_value: prefLabel "embryonic head" xsd:string
+
+[Term]
+id: UBERON:0008884
+property_value: prefLabel "left putamen" xsd:string
+
+[Term]
+id: UBERON:0008885
+property_value: prefLabel "right putamen" xsd:string
+
+[Term]
+id: UBERON:0008895
+property_value: prefLabel "splanchnocranium" xsd:string
+
+[Term]
+id: UBERON:0008907
+property_value: prefLabel "dermal bone" xsd:string
+
+[Term]
+id: UBERON:0008947
+property_value: prefLabel "respiratory primordium" xsd:string
+
+[Term]
+id: UBERON:0008967
+property_value: prefLabel "centrum semiovale" xsd:string
+
+[Term]
+id: UBERON:0008993
+property_value: prefLabel "habenular nucleus" xsd:string
+
+[Term]
+id: UBERON:0008995
+property_value: prefLabel "nucleus of cerebellar nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0009050
+property_value: prefLabel "nucleus of solitary tract" xsd:string
+
+[Term]
+id: UBERON:0009122
+property_value: prefLabel "adenohypophyseal placode" xsd:string
+
+[Term]
+id: UBERON:0009128
+property_value: prefLabel "lateral line placode" xsd:string
+
+[Term]
+id: UBERON:0009142
+property_value: prefLabel "entire embryonic mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0009145
+property_value: prefLabel "pharyngeal region of foregut" xsd:string
+
+[Term]
+id: UBERON:0009471
+property_value: prefLabel "dorsum of tongue" xsd:string
+
+[Term]
+id: UBERON:0009494
+property_value: prefLabel "pharyngeal arch mesenchymal region" xsd:string
+
+[Term]
+id: UBERON:0009569
+property_value: prefLabel "subdivision of trunk" xsd:string
+
+[Term]
+id: UBERON:0009581
+property_value: prefLabel "midbrain mantle layer" xsd:string
+
+[Term]
+id: UBERON:0009584
+property_value: prefLabel "1st arch mandibular mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0009615
+property_value: prefLabel "midbrain hindbrain boundary neural plate" xsd:string
+
+[Term]
+id: UBERON:0009616
+property_value: prefLabel "presumptive midbrain" xsd:string
+
+[Term]
+id: UBERON:0009617
+property_value: prefLabel "head paraxial mesoderm" xsd:string
+
+[Term]
+id: UBERON:0009618
+property_value: prefLabel "trunk paraxial mesoderm" xsd:string
+
+[Term]
+id: UBERON:0009641
+property_value: prefLabel "ansa lenticularis" xsd:string
+
+[Term]
+id: UBERON:0009643
+property_value: prefLabel "central tegmental tract" xsd:string
+
+[Term]
+id: UBERON:0009661
+property_value: prefLabel "midbrain nucleus" xsd:string
+
+[Term]
+id: UBERON:0009662
+property_value: prefLabel "hindbrain nucleus" xsd:string
+
+[Term]
+id: UBERON:0009663
+property_value: prefLabel "telencephalic nucleus" xsd:string
+
+[Term]
+id: UBERON:0009676
+property_value: prefLabel "early telencephalic vesicle" xsd:string
+
+[Term]
+id: UBERON:0009722
+property_value: prefLabel "entire pharyngeal arch endoderm" xsd:string
+
+[Term]
+id: UBERON:0009775
+property_value: prefLabel "lateral medullary reticular complex" xsd:string
+
+[Term]
+id: UBERON:0009856
+property_value: prefLabel "sac" xsd:string
+
+[Term]
+id: UBERON:0009881
+property_value: prefLabel "anterior lateral plate mesoderm" xsd:string
+
+[Term]
+id: UBERON:0009891
+property_value: prefLabel "facial mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0009899
+property_value: prefLabel "pole of cerebral hemisphere" xsd:string
+
+[Term]
+id: UBERON:0009920
+property_value: prefLabel "optic neural crest" xsd:string
+
+[Term]
+id: UBERON:0009955
+property_value: prefLabel "neurogenic placode" xsd:string
+
+[Term]
+id: UBERON:0010000
+property_value: prefLabel "multicellular anatomical structure" xsd:string
+
+[Term]
+id: UBERON:0010009
+property_value: prefLabel "aggregate regional part of brain" xsd:string
+
+[Term]
+id: UBERON:0010010
+property_value: prefLabel "basal nucleus of telencephalon" xsd:string
+
+[Term]
+id: UBERON:0010011
+property_value: prefLabel "collection of basal ganglia" xsd:string
+
+[Term]
+id: UBERON:0010042
+property_value: prefLabel "1st arch mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0010046
+property_value: prefLabel "entire pharyngeal arch associated mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0010056
+property_value: prefLabel "future tongue" xsd:string
+
+[Term]
+id: UBERON:0010059
+property_value: prefLabel "hypoglossal cord" xsd:string
+
+[Term]
+id: UBERON:0010064
+property_value: prefLabel "open anatomical space" xsd:string
+
+[Term]
+id: UBERON:0010083
+property_value: prefLabel "future dermis" xsd:string
+
+[Term]
+id: UBERON:0010092
+property_value: prefLabel "future metencephalon" xsd:string
+
+[Term]
+id: UBERON:0010096
+property_value: prefLabel "future myelencephalon" xsd:string
+
+[Term]
+id: UBERON:0010123
+property_value: prefLabel "future facial nucleus" xsd:string
+
+[Term]
+id: UBERON:0010124
+property_value: prefLabel "future inferior salivatory nucleus" xsd:string
+
+[Term]
+id: UBERON:0010125
+property_value: prefLabel "future superior salivatory nucleus" xsd:string
+
+[Term]
+id: UBERON:0010126
+property_value: prefLabel "future nucleus ambiguus" xsd:string
+
+[Term]
+id: UBERON:0010127
+property_value: prefLabel "future dorsal motor nucleus of vagus" xsd:string
+
+[Term]
+id: UBERON:0010133
+property_value: prefLabel "neuroendocrine gland" xsd:string
+
+[Term]
+id: UBERON:0010134
+property_value: prefLabel "secretory circumventricular organ" xsd:string
+
+[Term]
+id: UBERON:0010135
+property_value: prefLabel "sensory circumventricular organ" xsd:string
+
+[Term]
+id: UBERON:0010188
+property_value: prefLabel "protuberance" xsd:string
+
+[Term]
+id: UBERON:0010199
+property_value: prefLabel "bona-fide anatomical boundary" xsd:string
+
+[Term]
+id: UBERON:0010202
+property_value: prefLabel "lateral line" xsd:string
+
+[Term]
+id: UBERON:0010225
+property_value: prefLabel "thalamic complex" xsd:string
+
+[Term]
+id: UBERON:0010230
+property_value: prefLabel "eyeball of camera-type eye" xsd:string
+
+[Term]
+id: UBERON:0010252
+property_value: prefLabel "1st arch mandibular mesenchyme from neural crest" xsd:string
+
+[Term]
+id: UBERON:0010258
+property_value: prefLabel "mesenchyme from rhombencephalic neural crest" xsd:string
+
+[Term]
+id: UBERON:0010259
+property_value: prefLabel "1st arch mesenchyme from neural crest" xsd:string
+
+[Term]
+id: UBERON:0010262
+property_value: prefLabel "operculum of brain" xsd:string
+
+[Term]
+id: UBERON:0010272
+property_value: prefLabel "hyoid apparatus" xsd:string
+
+[Term]
+id: UBERON:0010285
+property_value: prefLabel "midbrain basal plate" xsd:string
+
+[Term]
+id: UBERON:0010286
+property_value: prefLabel "midbrain neural tube" xsd:string
+
+[Term]
+id: UBERON:0010312
+property_value: prefLabel "immature eye" xsd:string
+
+[Term]
+id: UBERON:0010313
+property_value: prefLabel "neural crest-derived structure" xsd:string
+
+[Term]
+id: UBERON:0010314
+property_value: prefLabel "structure with developmental contribution from neural crest" xsd:string
+
+[Term]
+id: UBERON:0010316
+property_value: prefLabel "germ layer / neural crest" xsd:string
+
+[Term]
+id: UBERON:0010323
+property_value: prefLabel "cranial skeletal system" xsd:string
+
+[Term]
+id: UBERON:0010336
+property_value: prefLabel "mandibular process mesenchyme from neural crest" xsd:string
+
+[Term]
+id: UBERON:0010359
+property_value: prefLabel "pharyngeal arch mesenchyme from neural crest" xsd:string
+
+[Term]
+id: UBERON:0010363
+property_value: prefLabel "endochondral element" xsd:string
+
+[Term]
+id: UBERON:0010364
+property_value: prefLabel "dermal skeleton" xsd:string
+
+[Term]
+id: UBERON:0010371
+property_value: prefLabel "ecto-epithelium" xsd:string
+
+[Term]
+id: UBERON:0010403
+property_value: prefLabel "brain marginal zone" xsd:string
+
+[Term]
+id: UBERON:0010409
+property_value: prefLabel "ocular surface region" xsd:string
+
+[Term]
+id: UBERON:0010427
+property_value: prefLabel "ciliary processes" xsd:string
+
+[Term]
+id: UBERON:0010498
+property_value: prefLabel "pseudostratified columnar epithelium" xsd:string
+
+[Term]
+id: UBERON:0010499
+property_value: prefLabel "pseudostratified ciliated columnar epithelium" xsd:string
+
+[Term]
+id: UBERON:0010523
+property_value: prefLabel "microcirculatory vessel" xsd:string
+
+[Term]
+id: UBERON:0010527
+property_value: prefLabel "cavity of bone organ" xsd:string
+
+[Term]
+id: UBERON:0010528
+property_value: prefLabel "pneumatic cavity of bone" xsd:string
+
+[Term]
+id: UBERON:0010743
+property_value: prefLabel "meningeal cluster" xsd:string
+
+[Term]
+id: UBERON:0010912
+property_value: prefLabel "subdivision of skeleton" xsd:string
+
+[Term]
+id: UBERON:0010959
+property_value: prefLabel "craniocervical muscle" xsd:string
+
+[Term]
+id: UBERON:0011134
+property_value: prefLabel "nonsynovial joint" xsd:string
+
+[Term]
+id: UBERON:0011137
+property_value: prefLabel "axial skeletal system" xsd:string
+
+[Term]
+id: UBERON:0011138
+property_value: prefLabel "postcranial axial skeletal system" xsd:string
+
+[Term]
+id: UBERON:0011156
+property_value: prefLabel "facial skeleton" xsd:string
+
+[Term]
+id: UBERON:0011158
+property_value: prefLabel "primary subdivision of skull" xsd:string
+
+[Term]
+id: UBERON:0011159
+property_value: prefLabel "primary subdivision of cranial skeletal system" xsd:string
+
+[Term]
+id: UBERON:0011214
+property_value: prefLabel "nucleus of midbrain tectum" xsd:string
+
+[Term]
+id: UBERON:0011215
+property_value: prefLabel "central nervous system cell part cluster" xsd:string
+
+[Term]
+id: UBERON:0011216
+property_value: prefLabel "organ system subdivision" xsd:string
+
+[Term]
+id: UBERON:0011222
+property_value: prefLabel "intra-ocular muscle" xsd:string
+
+[Term]
+id: UBERON:0011272
+property_value: prefLabel "embryonic skin basal layer" xsd:string
+
+[Term]
+id: UBERON:0011299
+property_value: prefLabel "white matter of telencephalon" xsd:string
+
+[Term]
+id: UBERON:0011300
+property_value: prefLabel "gray matter of telencephalon" xsd:string
+
+[Term]
+id: UBERON:0011332
+property_value: prefLabel "extrinsic tongue pre-muscle mass" xsd:string
+
+[Term]
+id: UBERON:0011357
+property_value: prefLabel "Reissner's fiber" xsd:string
+
+[Term]
+id: UBERON:0011585
+property_value: prefLabel "cell condensation" xsd:string
+
+[Term]
+id: UBERON:0011590
+property_value: prefLabel "commissure of diencephalon" xsd:string
+
+[Term]
+id: UBERON:0011591
+property_value: prefLabel "tract of diencephalon" xsd:string
+
+[Term]
+id: UBERON:0011595
+property_value: prefLabel "jaw region" xsd:string
+
+[Term]
+id: UBERON:0011648
+property_value: prefLabel "jaw muscle" xsd:string
+
+[Term]
+id: UBERON:0011676
+property_value: prefLabel "subdivision of organism along main body axis" xsd:string
+
+[Term]
+id: UBERON:0011695
+property_value: prefLabel "embryonic cardiovascular system" xsd:string
+
+[Term]
+id: UBERON:0011775
+property_value: prefLabel "vagus nerve nucleus" xsd:string
+
+[Term]
+id: UBERON:0011778
+property_value: prefLabel "motor nucleus of vagal nerve" xsd:string
+
+[Term]
+id: UBERON:0011779
+property_value: prefLabel "nerve of head region" xsd:string
+
+[Term]
+id: UBERON:0011814
+property_value: prefLabel "non-neurogenic ectodermal placode" xsd:string
+
+[Term]
+id: UBERON:0011821
+property_value: prefLabel "irregular connective tissue" xsd:string
+
+[Term]
+id: UBERON:0011822
+property_value: prefLabel "dense irregular connective tissue" xsd:string
+
+[Term]
+id: UBERON:0011823
+property_value: prefLabel "dense connective tissue" xsd:string
+
+[Term]
+id: UBERON:0011825
+property_value: prefLabel "loose connective tissue" xsd:string
+
+[Term]
+id: UBERON:0011860
+property_value: prefLabel "collection of collagen fibrils" xsd:string
+
+[Term]
+id: UBERON:0011892
+property_value: prefLabel "anterior uvea" xsd:string
+
+[Term]
+id: UBERON:0011899
+property_value: prefLabel "epimysium" xsd:string
+
+[Term]
+id: UBERON:0011997
+property_value: prefLabel "coelom" xsd:string
+
+[Term]
+id: UBERON:0012180
+property_value: prefLabel "head or neck skin" xsd:string
+
+[Term]
+id: UBERON:0012274
+property_value: prefLabel "columnar epithelium" xsd:string
+
+[Term]
+id: UBERON:0012275
+property_value: prefLabel "meso-epithelium" xsd:string
+
+[Term]
+id: UBERON:0012314
+property_value: prefLabel "embryonic facial prominence" xsd:string
+
+[Term]
+id: UBERON:0012360
+property_value: prefLabel "bone of jaw" xsd:string
+
+[Term]
+id: UBERON:0012430
+property_value: prefLabel "tunica fibrosa of eyeball" xsd:string
+
+[Term]
+id: UBERON:0013118
+property_value: prefLabel "sulcus of brain" xsd:string
+
+[Term]
+id: UBERON:0013147
+property_value: prefLabel "early mesencephalic vesicle" xsd:string
+
+[Term]
+id: UBERON:0013148
+property_value: prefLabel "early midbrain vesicle" xsd:string
+
+[Term]
+id: UBERON:0013149
+property_value: prefLabel "hindbrain vesicle" xsd:string
+
+[Term]
+id: UBERON:0013150
+property_value: prefLabel "future brain vesicle" xsd:string
+
+[Term]
+id: UBERON:0013199
+property_value: prefLabel "stria of neuraxis" xsd:string
+
+[Term]
+id: UBERON:0013514
+property_value: prefLabel "space surrounding organism" xsd:string
+
+[Term]
+id: UBERON:0013522
+property_value: prefLabel "subdivision of tube" xsd:string
+
+[Term]
+id: UBERON:0013529
+property_value: prefLabel "Brodmann area" xsd:string
+
+[Term]
+id: UBERON:0013559
+property_value: prefLabel "Brodmann (1909) area 28" xsd:string
+
+[Term]
+id: UBERON:0013686
+property_value: prefLabel "anatomical conduit space" xsd:string
+
+[Term]
+id: UBERON:0013700
+property_value: prefLabel "axial musculature" xsd:string
+
+[Term]
+id: UBERON:0013701
+property_value: prefLabel "main body axis" xsd:string
+
+[Term]
+id: UBERON:0013702
+property_value: prefLabel "body proper" xsd:string
+
+[Term]
+id: UBERON:0013733
+property_value: prefLabel "caudal linear nucleus" xsd:string
+
+[Term]
+id: UBERON:0013734
+property_value: prefLabel "rostral linear nucleus" xsd:string
+
+[Term]
+id: UBERON:0013736
+property_value: prefLabel "interfascicular linear nucleus" xsd:string
+
+[Term]
+id: UBERON:0013737
+property_value: prefLabel "paranigral nucleus" xsd:string
+
+[Term]
+id: UBERON:0013738
+property_value: prefLabel "parabrachial pigmental nucleus" xsd:string
+
+[Term]
+id: UBERON:0013754
+property_value: prefLabel "integumentary system layer" xsd:string
+
+[Term]
+id: UBERON:0013756
+property_value: prefLabel "venous blood" xsd:string
+
+[Term]
+id: UBERON:0013765
+property_value: prefLabel "digestive system element" xsd:string
+
+[Term]
+id: UBERON:0014371
+property_value: prefLabel "future telencephalon" xsd:string
+
+[Term]
+id: UBERON:0014387
+property_value: prefLabel "mesenchyme derived from neural crest" xsd:string
+
+[Term]
+id: UBERON:0014450
+property_value: prefLabel "pretectal nucleus" xsd:string
+
+[Term]
+id: UBERON:0014466
+property_value: prefLabel "subarachnoid fissure" xsd:string
+
+[Term]
+id: UBERON:0014468
+property_value: prefLabel "ansoparamedian fissure of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0014471
+property_value: prefLabel "primary fissure of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0014473
+property_value: prefLabel "precentral fissure of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0014477
+property_value: prefLabel "thoracic skeleton" xsd:string
+
+[Term]
+id: UBERON:0014521
+property_value: prefLabel "anterodorsal nucleus of medial geniculate body" xsd:string
+
+[Term]
+id: UBERON:0014528
+property_value: prefLabel "extreme capsule" xsd:string
+
+[Term]
+id: UBERON:0014529
+property_value: prefLabel "lenticular fasciculus" xsd:string
+
+[Term]
+id: UBERON:0014530
+property_value: prefLabel "white matter lamina of neuraxis" xsd:string
+
+[Term]
+id: UBERON:0014531
+property_value: prefLabel "white matter lamina of diencephalon" xsd:string
+
+[Term]
+id: UBERON:0014532
+property_value: prefLabel "white matter lamina of cerebral hemisphere" xsd:string
+
+[Term]
+id: UBERON:0014533
+property_value: prefLabel "medullary lamina of thalamus" xsd:string
+
+[Term]
+id: UBERON:0014534
+property_value: prefLabel "external medullary lamina of thalamus" xsd:string
+
+[Term]
+id: UBERON:0014544
+property_value: prefLabel "frontomarginal sulcus" xsd:string
+
+[Term]
+id: UBERON:0014595
+property_value: prefLabel "paraventricular nucleus of the hypothalamus descending division - medial parvocellular part, ventral zone" xsd:string
+
+[Term]
+id: UBERON:0014596
+property_value: prefLabel "paraventricular nucleus of the hypothalamus descending division - dorsal parvocellular part" xsd:string
+
+[Term]
+id: UBERON:0014597
+property_value: prefLabel "paraventricular nucleus of the hypothalamus descending division - lateral parvocellular part" xsd:string
+
+[Term]
+id: UBERON:0014598
+property_value: prefLabel "paraventricular nucleus of the hypothalamus descending division - forniceal part" xsd:string
+
+[Term]
+id: UBERON:0014599
+property_value: prefLabel "paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part" xsd:string
+
+[Term]
+id: UBERON:0014600
+property_value: prefLabel "paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part" xsd:string
+
+[Term]
+id: UBERON:0014601
+property_value: prefLabel "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part" xsd:string
+
+[Term]
+id: UBERON:0014602
+property_value: prefLabel "paraventricular nucleus of the hypothalamus descending division" xsd:string
+
+[Term]
+id: UBERON:0014603
+property_value: prefLabel "paraventricular nucleus of the hypothalamus magnocellular division" xsd:string
+
+[Term]
+id: UBERON:0014604
+property_value: prefLabel "paraventricular nucleus of the hypothalamus parvocellular division" xsd:string
+
+[Term]
+id: UBERON:0014608
+property_value: prefLabel "inferior occipital gyrus" xsd:string
+
+[Term]
+id: UBERON:0014618
+property_value: prefLabel "middle frontal sulcus" xsd:string
+
+[Term]
+id: UBERON:0014639
+property_value: prefLabel "frontal sulcus" xsd:string
+
+[Term]
+id: UBERON:0014640
+property_value: prefLabel "occipital gyrus" xsd:string
+
+[Term]
+id: UBERON:0014642
+property_value: prefLabel "vestibulocerebellum" xsd:string
+
+[Term]
+id: UBERON:0014643
+property_value: prefLabel "spinocerebellum" xsd:string
+
+[Term]
+id: UBERON:0014647
+property_value: prefLabel "hemisphere part of cerebellar anterior lobe" xsd:string
+
+[Term]
+id: UBERON:0014648
+property_value: prefLabel "hemisphere part of cerebellar posterior lobe" xsd:string
+
+[Term]
+id: UBERON:0014649
+property_value: prefLabel "white matter of medulla oblongata" xsd:string
+
+[Term]
+id: UBERON:0014687
+property_value: prefLabel "temporal sulcus" xsd:string
+
+[Term]
+id: UBERON:0014689
+property_value: prefLabel "middle temporal sulcus" xsd:string
+
+[Term]
+id: UBERON:0014761
+property_value: prefLabel "spinal trigeminal tract" xsd:string
+
+[Term]
+id: UBERON:0014796
+property_value: prefLabel "common tendinous ring" xsd:string
+
+[Term]
+id: UBERON:0014891
+property_value: prefLabel "brainstem white matter" xsd:string
+
+[Term]
+id: UBERON:0014892
+property_value: prefLabel "skeletal muscle organ" xsd:string
+
+[Term]
+id: UBERON:0014903
+property_value: prefLabel "primordial vasculature" xsd:string
+
+[Term]
+id: UBERON:0014935
+property_value: prefLabel "cerebral cortex marginal layer" xsd:string
+
+[Term]
+id: UBERON:0014950
+property_value: prefLabel "layer of developing cerebral cortex" xsd:string
+
+[Term]
+id: UBERON:0015203
+property_value: prefLabel "non-connected functional system" xsd:string
+
+[Term]
+id: UBERON:0015204
+property_value: prefLabel "glandular system" xsd:string
+
+[Term]
+id: UBERON:0015212
+property_value: prefLabel "lateral structure" xsd:string
+
+[Term]
+id: UBERON:0015228
+property_value: prefLabel "circulatory organ" xsd:string
+
+[Term]
+id: UBERON:0015233
+property_value: prefLabel "nucleus of dorsal thalamus" xsd:string
+
+[Term]
+id: UBERON:0015234
+property_value: prefLabel "nucleus of ventral thalamus" xsd:string
+
+[Term]
+id: UBERON:0015238
+property_value: prefLabel "pineal complex" xsd:string
+
+[Term]
+id: UBERON:0015410
+property_value: prefLabel "heart plus pericardium" xsd:string
+
+[Term]
+id: UBERON:0015510
+property_value: prefLabel "body of corpus callosum" xsd:string
+
+[Term]
+id: UBERON:0015593
+property_value: prefLabel "frontal gyrus" xsd:string
+
+[Term]
+id: UBERON:0015599
+property_value: prefLabel "genu of corpus callosum" xsd:string
+
+[Term]
+id: UBERON:0015703
+property_value: prefLabel "rostrum of corpus callosum" xsd:string
+
+[Term]
+id: UBERON:0015708
+property_value: prefLabel "splenium of the corpus callosum" xsd:string
+
+[Term]
+id: UBERON:0015787
+property_value: prefLabel "upper respiratory conduit" xsd:string
+
+[Term]
+id: UBERON:0015788
+property_value: prefLabel "olfactory apparatus chamber" xsd:string
+
+[Term]
+id: UBERON:0015789
+property_value: prefLabel "cranial or facial muscle" xsd:string
+
+[Term]
+id: UBERON:0015793
+property_value: prefLabel "induseum griseum" xsd:string
+
+[Term]
+id: UBERON:0015808
+property_value: prefLabel "eye epithelium" xsd:string
+
+[Term]
+id: UBERON:0015833
+property_value: prefLabel "foregut epithelium" xsd:string
+
+[Term]
+id: UBERON:0016490
+property_value: prefLabel "auditory system" xsd:string
+
+[Term]
+id: UBERON:0016525
+property_value: prefLabel "frontal lobe" xsd:string
+
+[Term]
+id: UBERON:0016526
+property_value: prefLabel "lobe of cerebral hemisphere" xsd:string
+
+[Term]
+id: UBERON:0016527
+property_value: prefLabel "white matter of cerebral lobe" xsd:string
+
+[Term]
+id: UBERON:0016529
+property_value: prefLabel "cortex of cerebral lobe" xsd:string
+
+[Term]
+id: UBERON:0016536
+property_value: prefLabel "white matter of limbic lobe" xsd:string
+
+[Term]
+id: UBERON:0016548
+property_value: prefLabel "central nervous system gray matter layer" xsd:string
+
+[Term]
+id: UBERON:0016549
+property_value: prefLabel "central nervous system white matter layer" xsd:string
+
+[Term]
+id: UBERON:0016554
+property_value: prefLabel "white matter of midbrain" xsd:string
+
+[Term]
+id: UBERON:0016555
+property_value: prefLabel "stria of telencephalon" xsd:string
+
+[Term]
+id: UBERON:0016566
+property_value: prefLabel "pit" xsd:string
+
+[Term]
+id: UBERON:0016570
+property_value: prefLabel "lamina of gray matter of spinal cord" xsd:string
+
+[Term]
+id: UBERON:0016633
+property_value: prefLabel "parvocellular reticular nucleus" xsd:string
+
+[Term]
+id: UBERON:0016635
+property_value: prefLabel "paragigantocellular nucleus" xsd:string
+
+[Term]
+id: UBERON:0016824
+property_value: prefLabel "lateral paragigantocellular nucleus" xsd:string
+
+[Term]
+id: UBERON:0016825
+property_value: prefLabel "dorsal paragigantocellular nucleus" xsd:string
+
+[Term]
+id: UBERON:0016832
+property_value: prefLabel "paratrigeminal nucleus" xsd:string
+
+[Term]
+id: UBERON:0016848
+property_value: prefLabel "retroambiguus nucleus" xsd:string
+
+[Term]
+id: UBERON:0016879
+property_value: prefLabel "future central nervous system" xsd:string
+
+[Term]
+id: UBERON:0016880
+property_value: prefLabel "future nervous system" xsd:string
+
+[Term]
+id: UBERON:0016887
+property_value: prefLabel "entire extraembryonic component" xsd:string
+
+[Term]
+id: UBERON:0016888
+property_value: prefLabel "transitional anatomical structure" xsd:string
+
+[Term]
+id: UBERON:0017650
+property_value: prefLabel "developing mesenchymal structure" xsd:string
+
+[Term]
+id: UBERON:0018237
+property_value: prefLabel "dorsal column-medial lemniscus pathway" xsd:string
+
+[Term]
+id: UBERON:0018238
+property_value: prefLabel "dorsal column nucleus" xsd:string
+
+[Term]
+id: UBERON:0018254
+property_value: prefLabel "skeletal musculature" xsd:string
+
+[Term]
+id: UBERON:0019207
+property_value: prefLabel "chorioretinal region" xsd:string
+
+[Term]
+id: UBERON:0019258
+property_value: prefLabel "white matter of hindbrain" xsd:string
+
+[Term]
+id: UBERON:0019261
+property_value: prefLabel "white matter of forebrain" xsd:string
+
+[Term]
+id: UBERON:0019262
+property_value: prefLabel "white matter of myelencephalon" xsd:string
+
+[Term]
+id: UBERON:0019263
+property_value: prefLabel "gray matter of hindbrain" xsd:string
+
+[Term]
+id: UBERON:0019264
+property_value: prefLabel "gray matter of forebrain" xsd:string
+
+[Term]
+id: UBERON:0019267
+property_value: prefLabel "gray matter of midbrain" xsd:string
+
+[Term]
+id: UBERON:0019269
+property_value: prefLabel "gray matter of diencephalon" xsd:string
+
+[Term]
+id: UBERON:0019275
+property_value: prefLabel "uncinate fasciculus of the forebrain" xsd:string
+
+[Term]
+id: UBERON:0019278
+property_value: prefLabel "inferior rostral gyrus" xsd:string
+
+[Term]
+id: UBERON:0019279
+property_value: prefLabel "superior rostral gyrus" xsd:string
+
+[Term]
+id: UBERON:0019280
+property_value: prefLabel "rostral gyrus" xsd:string
+
+[Term]
+id: UBERON:0019283
+property_value: prefLabel "lateral longitudinal stria" xsd:string
+
+[Term]
+id: UBERON:0019291
+property_value: prefLabel "white matter of metencephalon" xsd:string
+
+[Term]
+id: UBERON:0019292
+property_value: prefLabel "white matter of pons" xsd:string
+
+[Term]
+id: UBERON:0019293
+property_value: prefLabel "white matter of pontine tegmentum" xsd:string
+
+[Term]
+id: UBERON:0019294
+property_value: prefLabel "commissure of telencephalon" xsd:string
+
+[Term]
+id: UBERON:0019295
+property_value: prefLabel "caudal intralaminar nuclear group" xsd:string
+
+[Term]
+id: UBERON:0019303
+property_value: prefLabel "occipital sulcus" xsd:string
+
+[Term]
+id: UBERON:0019304
+property_value: prefLabel "sensory organ epithelium" xsd:string
+
+[Term]
+id: UBERON:0019306
+property_value: prefLabel "nose epithelium" xsd:string
+
+[Term]
+id: UBERON:0019312
+property_value: prefLabel "ventrolateral nucleus of solitary tract" xsd:string
+
+[Term]
+id: UBERON:0019314
+property_value: prefLabel "epifascicular nucleus" xsd:string
+
+[Term]
+id: UBERON:0020358
+property_value: prefLabel "accessory XI nerve nucleus" xsd:string
+
+[Term]
+id: UBERON:0022234
+property_value: prefLabel "medial longitudinal stria" xsd:string
+
+[Term]
+id: UBERON:0022235
+property_value: prefLabel "peduncle of diencephalon" xsd:string
+
+[Term]
+id: UBERON:0022236
+property_value: prefLabel "peduncle of thalamus" xsd:string
+
+[Term]
+id: UBERON:0022237
+property_value: prefLabel "anterior thalamic peduncle" xsd:string
+
+[Term]
+id: UBERON:0022242
+property_value: prefLabel "inferior thalamic peduncle" xsd:string
+
+[Term]
+id: UBERON:0022244
+property_value: prefLabel "anterior orbital gyrus" xsd:string
+
+[Term]
+id: UBERON:0022246
+property_value: prefLabel "superior longitudinal fasciculus" xsd:string
+
+[Term]
+id: UBERON:0022247
+property_value: prefLabel "forebrain ipsilateral fiber tracts" xsd:string
+
+[Term]
+id: UBERON:0022248
+property_value: prefLabel "cerebral nerve fasciculus" xsd:string
+
+[Term]
+id: UBERON:0022250
+property_value: prefLabel "subcallosal fasciculus" xsd:string
+
+[Term]
+id: UBERON:0022252
+property_value: prefLabel "precentral sulcus" xsd:string
+
+[Term]
+id: UBERON:0022254
+property_value: prefLabel "ventral thalamic fasciculus" xsd:string
+
+[Term]
+id: UBERON:0022256
+property_value: prefLabel "subthalamic fasciculus" xsd:string
+
+[Term]
+id: UBERON:0022258
+property_value: prefLabel "endolemniscal nucleus" xsd:string
+
+[Term]
+id: UBERON:0022259
+property_value: prefLabel "white matter radiation" xsd:string
+
+[Term]
+id: UBERON:0022260
+property_value: prefLabel "radiation of cerebral hemisphere" xsd:string
+
+[Term]
+id: UBERON:0022262
+property_value: prefLabel "auditory radiation" xsd:string
+
+[Term]
+id: UBERON:0022264
+property_value: prefLabel "optic radiation" xsd:string
+
+[Term]
+id: UBERON:0022268
+property_value: prefLabel "planum temporale" xsd:string
+
+[Term]
+id: UBERON:0022271
+property_value: prefLabel "corticopontine fibers" xsd:string
+
+[Term]
+id: UBERON:0022272
+property_value: prefLabel "corticobulbar tract" xsd:string
+
+[Term]
+id: UBERON:0022288
+property_value: prefLabel "surface of eyeball" xsd:string
+
+[Term]
+id: UBERON:0022303
+property_value: prefLabel "nervous system cell part layer" xsd:string
+
+[Term]
+id: UBERON:0022421
+property_value: prefLabel "pontocerebellar tract" xsd:string
+
+[Term]
+id: UBERON:0022423
+property_value: prefLabel "sagulum nucleus" xsd:string
+
+[Term]
+id: UBERON:0022434
+property_value: prefLabel "primary superior olive" xsd:string
+
+[Term]
+id: UBERON:0022783
+property_value: prefLabel "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part medial zone" xsd:string
+
+[Term]
+id: UBERON:0022791
+property_value: prefLabel "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone" xsd:string
+
+[Term]
+id: UBERON:0023094
+property_value: prefLabel "posterodorsal nucleus of medial geniculate body" xsd:string
+
+[Term]
+id: UBERON:0023390
+property_value: prefLabel "medial subnucleus of solitary tract" xsd:string
+
+[Term]
+id: UBERON:0023861
+property_value: prefLabel "planum polare" xsd:string
+
+[Term]
+id: UBERON:0023879
+property_value: prefLabel "neural system" xsd:string
+
+[Term]
+id: UBERON:0025261
+property_value: prefLabel "thalamic fiber tract" xsd:string
+
+[Term]
+id: UBERON:0025525
+property_value: prefLabel "motor system" xsd:string
+
+[Term]
+id: UBERON:0025677
+property_value: prefLabel "paravermis parts of the cerebellar cortex" xsd:string
+
+[Term]
+id: UBERON:0026725
+property_value: prefLabel "angular sulcus" xsd:string
+
+[Term]
+id: UBERON:0027285
+property_value: prefLabel "paravermis lobule area" xsd:string
+
+[Term]
+id: UBERON:0027331
+property_value: prefLabel "flocculonodular lobe, hemisphere portion" xsd:string
+
+[Term]
+id: UBERON:0027768
+property_value: prefLabel "suprachiasmatic nucleus dorsomedial part" xsd:string
+
+[Term]
+id: UBERON:0027771
+property_value: prefLabel "suprachiasmatic nucleus ventrolateral part" xsd:string
+
+[Term]
+id: UBERON:0028918
+property_value: prefLabel "paravermic lobule II" xsd:string
+
+[Term]
+id: UBERON:0028919
+property_value: prefLabel "paravermic lobule III" xsd:string
+
+[Term]
+id: UBERON:0028920
+property_value: prefLabel "paravermic lobule IV" xsd:string
+
+[Term]
+id: UBERON:0028921
+property_value: prefLabel "paravermic lobule IX" xsd:string
+
+[Term]
+id: UBERON:0028922
+property_value: prefLabel "paravermic lobule V" xsd:string
+
+[Term]
+id: UBERON:0028923
+property_value: prefLabel "paravermic lobule VI" xsd:string
+
+[Term]
+id: UBERON:0034673
+property_value: prefLabel "amygdalohippocampal area" xsd:string
+
+[Term]
+id: UBERON:0034674
+property_value: prefLabel "sulcus of limbic lobe" xsd:string
+
+[Term]
+id: UBERON:0034705
+property_value: prefLabel "developing neuroepithelium" xsd:string
+
+[Term]
+id: UBERON:0034706
+property_value: prefLabel "proliferating neuroepithelium" xsd:string
+
+[Term]
+id: UBERON:0034707
+property_value: prefLabel "differentiating neuroepithelium" xsd:string
+
+[Term]
+id: UBERON:0034711
+property_value: prefLabel "cortical preplate" xsd:string
+
+[Term]
+id: UBERON:0034713
+property_value: prefLabel "cranial neuron projection bundle" xsd:string
+
+[Term]
+id: UBERON:0034730
+property_value: prefLabel "olfactory tract linking bulb to ipsilateral dorsal telencephalon" xsd:string
+
+[Term]
+id: UBERON:0034734
+property_value: prefLabel "medial olfactory stria" xsd:string
+
+[Term]
+id: UBERON:0034743
+property_value: prefLabel "inferior longitudinal fasciculus" xsd:string
+
+[Term]
+id: UBERON:0034754
+property_value: prefLabel "occipitofrontal fasciculus" xsd:string
+
+[Term]
+id: UBERON:0034768
+property_value: prefLabel "morphological feature" xsd:string
+
+[Term]
+id: UBERON:0034873
+property_value: prefLabel "bodily gas" xsd:string
+
+[Term]
+id: UBERON:0034874
+property_value: prefLabel "air in respiratory system" xsd:string
+
+[Term]
+id: UBERON:0034875
+property_value: prefLabel "future pituitary gland" xsd:string
+
+[Term]
+id: UBERON:0034878
+property_value: prefLabel "prechordal mesoderm" xsd:string
+
+[Term]
+id: UBERON:0034921
+property_value: prefLabel "multi organ part structure" xsd:string
+
+[Term]
+id: UBERON:0034923
+property_value: prefLabel "disconnected anatomical group" xsd:string
+
+[Term]
+id: UBERON:0034925
+property_value: prefLabel "anatomical collection" xsd:string
+
+[Term]
+id: UBERON:0034931
+property_value: prefLabel "perforant path" xsd:string
+
+[Term]
+id: UBERON:0034944
+property_value: prefLabel "zone of organ" xsd:string
+
+[Term]
+id: UBERON:0034947
+property_value: prefLabel "gas in respiratory system" xsd:string
+
+[Term]
+id: UBERON:0034993
+property_value: prefLabel "basal ventral medial nucleus of thalamus" xsd:string
+
+[Term]
+id: UBERON:0034995
+property_value: prefLabel "jaw mesenchyme" xsd:string
+
+[Term]
+id: UBERON:0035011
+property_value: prefLabel "central gray substance" xsd:string
+
+[Term]
+id: UBERON:0035014
+property_value: prefLabel "functional part of brain" xsd:string
+
+[Term]
+id: UBERON:0035027
+property_value: prefLabel "amygdalohippocampal area, magnocellular division" xsd:string
+
+[Term]
+id: UBERON:0035028
+property_value: prefLabel "amygdalohippocampal area, parvocellular division" xsd:string
+
+[Term]
+id: UBERON:0035639
+property_value: prefLabel "ocular adnexa" xsd:string
+
+[Term]
+id: UBERON:0035642
+property_value: prefLabel "laryngeal nerve" xsd:string
+
+[Term]
+id: UBERON:0035804
+property_value: prefLabel "future mouth" xsd:string
+
+[Term]
+id: UBERON:0035922
+property_value: prefLabel "intraculminate fissure of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0035924
+property_value: prefLabel "radiation of corpus callosum" xsd:string
+
+[Term]
+id: UBERON:0035925
+property_value: prefLabel "central sulcus of insula" xsd:string
+
+[Term]
+id: UBERON:0035926
+property_value: prefLabel "preculminate fissure of cerebellum" xsd:string
+
+[Term]
+id: UBERON:0035927
+property_value: prefLabel "sulcus of parietal lobe" xsd:string
+
+[Term]
+id: UBERON:0035928
+property_value: prefLabel "dorsolateral part of supraoptic nucleus" xsd:string
+
+[Term]
+id: UBERON:0035930
+property_value: prefLabel "retro-olivary nucleus" xsd:string
+
+[Term]
+id: UBERON:0035931
+property_value: prefLabel "sagittal stratum" xsd:string
+
+[Term]
+id: UBERON:0035932
+property_value: prefLabel "anterior segment of paracentral lobule" xsd:string
+
+[Term]
+id: UBERON:0035933
+property_value: prefLabel "paracentral lobule" xsd:string
+
+[Term]
+id: UBERON:0035934
+property_value: prefLabel "posterior segment of paracentral lobule" xsd:string
+
+[Term]
+id: UBERON:0035935
+property_value: prefLabel "Meyer's loop of optic radiation" xsd:string
+
+[Term]
+id: UBERON:0035937
+property_value: prefLabel "arcuate fasciculus" xsd:string
+
+[Term]
+id: UBERON:0035938
+property_value: prefLabel "amiculum of inferior olive" xsd:string
+
+[Term]
+id: UBERON:0035939
+property_value: prefLabel "amiculum" xsd:string
+
+[Term]
+id: UBERON:0035940
+property_value: prefLabel "central medullary reticular nuclear complex" xsd:string
+
+[Term]
+id: UBERON:0036012
+property_value: prefLabel "nucleus of the brachium of the inferior colliculus" xsd:string
+
+[Term]
+id: UBERON:0036043
+property_value: prefLabel "paravermic lobule X" xsd:string
+
+[Term]
+id: UBERON:0036044
+property_value: prefLabel "cerebellum vermis lobule VIIAf" xsd:string
+
+[Term]
+id: UBERON:0036065
+property_value: prefLabel "cerebellum vermis lobule VIIAt" xsd:string
+
+[Term]
+id: UBERON:0036146
+property_value: prefLabel "cardiopharyngeal field" xsd:string
+
+[Term]
+id: UBERON:0036215
+property_value: prefLabel "anatomical surface region" xsd:string
+
+[Term]
+id: UBERON:0036224
+property_value: prefLabel "corticobulbar and corticospinal tracts" xsd:string
+
+[Term]
+id: UBERON:0036302
+property_value: prefLabel "vasculature of central nervous system plus retina" xsd:string
+
+[Term]
+id: UBERON:0036303
+property_value: prefLabel "vasculature of central nervous system" xsd:string
+
+[Term]
+id: UBERON:1000021
+property_value: prefLabel "skin of face" xsd:string
+
+[Term]
+id: UBERON:2001431
+property_value: prefLabel "primitive olfactory epithelium" xsd:string
+
+[Term]
+id: UBERON:2007013
+property_value: prefLabel "preplacodal ectoderm" xsd:string
+
+[Term]
+id: UBERON:3000961
+property_value: prefLabel "external integument structure" xsd:string
+
+[Term]
+id: UBERON:8410081
+property_value: prefLabel "blood microvessel" xsd:string
+
+[Term]
+id: UBERON:8440004
+property_value: prefLabel "laminar subdivision of the cortex" xsd:string
+
+[Term]
+id: UBERON:8440005
+property_value: prefLabel "rostral periventricular region of the third ventricle" xsd:string
+
+[Term]
+id: UBERON:8440012
+property_value: prefLabel "cerebral nuclei" xsd:string
+
+[Term]
+id: UBERON:8440015
+property_value: prefLabel "noradrenergic cell groups" xsd:string
+
+[Term]
+id: UBERON:8600004
+property_value: prefLabel "visceral muscle tissue" xsd:string
 
 [Typedef]
 id: dc-contributor

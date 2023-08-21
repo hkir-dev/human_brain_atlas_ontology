@@ -13510,6 +13510,14 @@ relationship: only_in_taxon NCBITaxon:9606
 relationship: part_of NCBITaxon:9606
 property_value: prefLabel "HBA entity" xsd:string
 
+[Term]
+id: NCBITaxon:10090
+property_value: prefLabel "Mus musculus" xsd:string
+
+[Term]
+id: NCBITaxon:9606
+property_value: prefLabel "Homo sapiens" xsd:string
+
 [Typedef]
 id: dc-contributor
 name: contributor

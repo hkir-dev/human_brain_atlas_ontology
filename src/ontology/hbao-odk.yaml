@@ -29,7 +29,7 @@ import_group:
     - <http://www.genenames.org/cgi-bin/gene_symbol_report*>
   products:
     - id: uberon
-      mirror_from: http://purl.obolibrary.org/obo/uberon/subsets/human-view.owl
+#      mirror_from: http://purl.obolibrary.org/obo/uberon/subsets/human-view.owl
       use_base: TRUE
     - id: ncbitaxon
       mirror_from: http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl

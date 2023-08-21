@@ -16,7 +16,7 @@ These are the current imports in HBAO
 
 | Import | URL | Type |
 | ------ | --- | ---- |
-| uberon | http://purl.obolibrary.org/obo/uberon/subsets/human-view.owl | None |
+| uberon | http://purl.obolibrary.org/obo/uberon.owl | None |
 | ncbitaxon | http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl | None |
 
 ## Components
