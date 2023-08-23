@@ -2,6 +2,6 @@
   "@context": {
     "UBERON": "http://purl.obolibrary.org/obo/UBERON_",
     "OboInOwl": "http://www.geneontology.org/formats/oboInOwl#",
-    "HBA": "https://purl.brain-bican.org/ontology/mbao/HBA_"
+    "HBA": "https://purl.brain-bican.org/ontology/hbao/HBA_"
   }
 }
