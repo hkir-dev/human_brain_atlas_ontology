@@ -67885,10 +67885,9 @@
                 <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <oboInOwl:hasDbXref>http://atlas.brain-map.org/atlas?atlas=265297125#structure=ENTITY</oboInOwl:hasDbXref>
         <oboInOwl:id>HBA:ENTITY</oboInOwl:id>
         <rdfs:label>HBA entity</rdfs:label>
-        <skos:prefLabel>HBA entity  ( human )</skos:prefLabel>
+        <skos:prefLabel>HBA entity</skos:prefLabel>
     </owl:Class>
 </rdf:RDF>
 

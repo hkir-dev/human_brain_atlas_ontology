@@ -15345,10 +15345,9 @@ property_value: prefLabel "choroid plexus of the fourth ventricle  ( human )" xs
 [Term]
 id: HBA:ENTITY
 name: HBA entity
-xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=ENTITY
 relationship: only_in_taxon NCBITaxon:9606
 relationship: part_of NCBITaxon:9606
-property_value: prefLabel "HBA entity  ( human )" xsd:string
+property_value: prefLabel "HBA entity" xsd:string
 
 [Term]
 id: NCBITaxon:10090

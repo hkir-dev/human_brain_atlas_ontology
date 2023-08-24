@@ -4905,4 +4905,4 @@ https://purl.brain-bican.org/ontology/hbao/HBA_9707	http://atlas.brain-map.org/a
 https://purl.brain-bican.org/ontology/hbao/HBA_9708	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9708	choroid plexus of the lateral ventricle  ( human )
 https://purl.brain-bican.org/ontology/hbao/HBA_9709	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9709	choroid plexus of the third ventricle  ( human )
 https://purl.brain-bican.org/ontology/hbao/HBA_9710	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9710	choroid plexus of the fourth ventricle  ( human )
-https://purl.brain-bican.org/ontology/hbao/HBA_ENTITY	http://atlas.brain-map.org/atlas?atlas=265297125#structure=ENTITY	HBA entity  ( human )
+https://purl.brain-bican.org/ontology/hbao/HBA_ENTITY		HBA entity

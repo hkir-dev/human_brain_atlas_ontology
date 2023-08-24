@@ -57938,12 +57938,9 @@
       "lbl" : "HBA entity",
       "type" : "CLASS",
       "meta" : {
-        "xrefs" : [ {
-          "val" : "http://atlas.brain-map.org/atlas?atlas=265297125#structure=ENTITY"
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "HBA entity  ( human )"
+          "val" : "HBA entity"
         } ]
       }
     } ],
