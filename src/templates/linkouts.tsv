@@ -1,19 +1,14 @@
 ID	xref	prefLabel
 ID	A OboInOwl:hasDbXref	A skos:prefLabel
 http://purl.obolibrary.org/obo/NCBITaxon_1		root
-http://purl.obolibrary.org/obo/NCBITaxon_10066		Muridae
-http://purl.obolibrary.org/obo/NCBITaxon_10088		Mus <genus>
-http://purl.obolibrary.org/obo/NCBITaxon_10090		Mus musculus
 http://purl.obolibrary.org/obo/NCBITaxon_117570		Teleostomi
 http://purl.obolibrary.org/obo/NCBITaxon_117571		Euteleostomi
 http://purl.obolibrary.org/obo/NCBITaxon_131567		cellular organisms
 http://purl.obolibrary.org/obo/NCBITaxon_1338369		Dipnotetrapodomorpha
 http://purl.obolibrary.org/obo/NCBITaxon_1437010		Boreoeutheria
-http://purl.obolibrary.org/obo/NCBITaxon_1963758		Myomorpha
 http://purl.obolibrary.org/obo/NCBITaxon_207598		Homininae
 http://purl.obolibrary.org/obo/NCBITaxon_2759		Eukaryota
 http://purl.obolibrary.org/obo/NCBITaxon_314146		Euarchontoglires
-http://purl.obolibrary.org/obo/NCBITaxon_314147		Glires
 http://purl.obolibrary.org/obo/NCBITaxon_314293		Simiiformes
 http://purl.obolibrary.org/obo/NCBITaxon_314295		Hominoidea
 http://purl.obolibrary.org/obo/NCBITaxon_32523		Tetrapoda
@@ -23,16 +18,13 @@ http://purl.obolibrary.org/obo/NCBITaxon_33154		Opisthokonta
 http://purl.obolibrary.org/obo/NCBITaxon_33208		Metazoa
 http://purl.obolibrary.org/obo/NCBITaxon_33213		Bilateria
 http://purl.obolibrary.org/obo/NCBITaxon_33511		Deuterostomia
-http://purl.obolibrary.org/obo/NCBITaxon_337687		Muroidea
 http://purl.obolibrary.org/obo/NCBITaxon_376913		Haplorrhini
-http://purl.obolibrary.org/obo/NCBITaxon_39107		Murinae
 http://purl.obolibrary.org/obo/NCBITaxon_40674		Mammalia
 http://purl.obolibrary.org/obo/NCBITaxon_6072		Eumetazoa
 http://purl.obolibrary.org/obo/NCBITaxon_7711		Chordata
 http://purl.obolibrary.org/obo/NCBITaxon_7742		Vertebrata <vertebrates>
 http://purl.obolibrary.org/obo/NCBITaxon_7776		Gnathostomata <vertebrates>
 http://purl.obolibrary.org/obo/NCBITaxon_8287		Sarcopterygii
-http://purl.obolibrary.org/obo/NCBITaxon_862507		Mus <subgenus>
 http://purl.obolibrary.org/obo/NCBITaxon_89593		Craniata <chordates>
 http://purl.obolibrary.org/obo/NCBITaxon_9347		Eutheria
 http://purl.obolibrary.org/obo/NCBITaxon_9443		Primates
@@ -40,7 +32,6 @@ http://purl.obolibrary.org/obo/NCBITaxon_9526		Catarrhini
 http://purl.obolibrary.org/obo/NCBITaxon_9604		Hominidae
 http://purl.obolibrary.org/obo/NCBITaxon_9605		Homo
 http://purl.obolibrary.org/obo/NCBITaxon_9606		Homo sapiens
-http://purl.obolibrary.org/obo/NCBITaxon_9989		Rodentia
 http://purl.obolibrary.org/obo/UBERON_0000000		processual entity
 http://purl.obolibrary.org/obo/UBERON_0000003		naris
 http://purl.obolibrary.org/obo/UBERON_0000004		nose
@@ -794,7 +785,6 @@ http://purl.obolibrary.org/obo/UBERON_0002530		gland
 http://purl.obolibrary.org/obo/UBERON_0002532		epiblast (generic)
 http://purl.obolibrary.org/obo/UBERON_0002533		post-anal tail bud
 http://purl.obolibrary.org/obo/UBERON_0002539		pharyngeal arch
-http://purl.obolibrary.org/obo/UBERON_0002540		lateral line system
 http://purl.obolibrary.org/obo/UBERON_0002546		cranial placode
 http://purl.obolibrary.org/obo/UBERON_0002550		anterior hypothalamic region
 http://purl.obolibrary.org/obo/UBERON_0002551		interstitial nucleus of Cajal
@@ -1006,7 +996,6 @@ http://purl.obolibrary.org/obo/UBERON_0002934		ventral oculomotor nucleus
 http://purl.obolibrary.org/obo/UBERON_0002935		magnocellular part of ventral anterior nucleus
 http://purl.obolibrary.org/obo/UBERON_0002936		magnocellular part of red nucleus
 http://purl.obolibrary.org/obo/UBERON_0002938		parvocellular part of red nucleus
-http://purl.obolibrary.org/obo/UBERON_0002939		ventral posteroinferior nucleus
 http://purl.obolibrary.org/obo/UBERON_0002940		anterior column of fornix
 http://purl.obolibrary.org/obo/UBERON_0002942		ventral posterolateral nucleus
 http://purl.obolibrary.org/obo/UBERON_0002943		lingual gyrus
@@ -1038,7 +1027,6 @@ http://purl.obolibrary.org/obo/UBERON_0002983		lateral posterior nucleus of thal
 http://purl.obolibrary.org/obo/UBERON_0002984		lateral dorsal nucleus
 http://purl.obolibrary.org/obo/UBERON_0002985		ventral nucleus of medial geniculate body
 http://purl.obolibrary.org/obo/UBERON_0002992		paratenial nucleus
-http://purl.obolibrary.org/obo/UBERON_0002995		substantia nigra pars lateralis
 http://purl.obolibrary.org/obo/UBERON_0002996		nucleus of optic tract
 http://purl.obolibrary.org/obo/UBERON_0002998		inferior frontal gyrus
 http://purl.obolibrary.org/obo/UBERON_0002999		oral pontine reticular nucleus
@@ -1707,12 +1695,6 @@ http://purl.obolibrary.org/obo/UBERON_0005384		nasal cavity epithelium
 http://purl.obolibrary.org/obo/UBERON_0005386		olfactory segment of nasal mucosa
 http://purl.obolibrary.org/obo/UBERON_0005388		photoreceptor array
 http://purl.obolibrary.org/obo/UBERON_0005389		transparent eye structure
-http://purl.obolibrary.org/obo/UBERON_0005390		cortical layer I
-http://purl.obolibrary.org/obo/UBERON_0005391		cortical layer II
-http://purl.obolibrary.org/obo/UBERON_0005392		cortical layer III
-http://purl.obolibrary.org/obo/UBERON_0005393		cortical layer IV
-http://purl.obolibrary.org/obo/UBERON_0005394		cortical layer V
-http://purl.obolibrary.org/obo/UBERON_0005395		cortical layer VI
 http://purl.obolibrary.org/obo/UBERON_0005396		carotid artery segment
 http://purl.obolibrary.org/obo/UBERON_0005397		brain arachnoid mater
 http://purl.obolibrary.org/obo/UBERON_0005398		female reproductive gland
@@ -1893,7 +1875,6 @@ http://purl.obolibrary.org/obo/UBERON_0006312		ocular refractive media
 http://purl.obolibrary.org/obo/UBERON_0006314		bodily fluid
 http://purl.obolibrary.org/obo/UBERON_0006321		superior oblique extraocular muscle
 http://purl.obolibrary.org/obo/UBERON_0006331		brainstem nucleus
-http://purl.obolibrary.org/obo/UBERON_0006334		posterior lateral line
 http://purl.obolibrary.org/obo/UBERON_0006347		communicating artery
 http://purl.obolibrary.org/obo/UBERON_0006514		pallidum
 http://purl.obolibrary.org/obo/UBERON_0006518		right lung lobe
@@ -1973,14 +1954,12 @@ http://purl.obolibrary.org/obo/UBERON_0006931		stomach glandular region mucosa
 http://purl.obolibrary.org/obo/UBERON_0006932		vestibular epithelium
 http://purl.obolibrary.org/obo/UBERON_0006934		sensory epithelium
 http://purl.obolibrary.org/obo/UBERON_0006937		inner ear epithelium
-http://purl.obolibrary.org/obo/UBERON_0006964		pars distalis of adenohypophysis
 http://purl.obolibrary.org/obo/UBERON_0006965		vascular cord
 http://purl.obolibrary.org/obo/UBERON_0006966		coronary capillary
 http://purl.obolibrary.org/obo/UBERON_0006984		anatomical surface
 http://purl.obolibrary.org/obo/UBERON_0007005		cardiogenic splanchnic mesoderm
 http://purl.obolibrary.org/obo/UBERON_0007010		cleaving embryo
 http://purl.obolibrary.org/obo/UBERON_0007026		presumptive gut
-http://purl.obolibrary.org/obo/UBERON_0007037		mechanosensory system
 http://purl.obolibrary.org/obo/UBERON_0007098		mandibular neural crest
 http://purl.obolibrary.org/obo/UBERON_0007099		hyoid neural crest
 http://purl.obolibrary.org/obo/UBERON_0007100		primary circulatory organ
@@ -2161,7 +2140,6 @@ http://purl.obolibrary.org/obo/UBERON_0009122		adenohypophyseal placode
 http://purl.obolibrary.org/obo/UBERON_0009124		geniculate placode
 http://purl.obolibrary.org/obo/UBERON_0009125		petrosal placode
 http://purl.obolibrary.org/obo/UBERON_0009127		epibranchial ganglion
-http://purl.obolibrary.org/obo/UBERON_0009128		lateral line placode
 http://purl.obolibrary.org/obo/UBERON_0009129		right atrium endocardium
 http://purl.obolibrary.org/obo/UBERON_0009133		pleuroperitoneal membrane
 http://purl.obolibrary.org/obo/UBERON_0009141		craniocervical region vein
@@ -2295,7 +2273,6 @@ http://purl.obolibrary.org/obo/UBERON_0010191		aortic system
 http://purl.obolibrary.org/obo/UBERON_0010192		genital artery
 http://purl.obolibrary.org/obo/UBERON_0010194		hepatic portal system
 http://purl.obolibrary.org/obo/UBERON_0010199		bona-fide anatomical boundary
-http://purl.obolibrary.org/obo/UBERON_0010202		lateral line
 http://purl.obolibrary.org/obo/UBERON_0010204		tail vasculature
 http://purl.obolibrary.org/obo/UBERON_0010212		laryngeal apparatus
 http://purl.obolibrary.org/obo/UBERON_0010213		laryngeal pre-cartilage condensation
@@ -2355,7 +2332,6 @@ http://purl.obolibrary.org/obo/UBERON_0010377		mesenchyme from somatopleure
 http://purl.obolibrary.org/obo/UBERON_0010378		mesenchyme from splanchnopleure
 http://purl.obolibrary.org/obo/UBERON_0010399		spleen trabecular artery
 http://purl.obolibrary.org/obo/UBERON_0010400		spleen trabecular vein
-http://purl.obolibrary.org/obo/UBERON_0010403		brain marginal zone
 http://purl.obolibrary.org/obo/UBERON_0010409		ocular surface region
 http://purl.obolibrary.org/obo/UBERON_0010425		internal naris
 http://purl.obolibrary.org/obo/UBERON_0010427		ciliary processes
@@ -2508,6 +2484,7 @@ http://purl.obolibrary.org/obo/UBERON_0012650		gastroduodenal junction
 http://purl.obolibrary.org/obo/UBERON_0012651		mucosa of gastroduodenal junction
 http://purl.obolibrary.org/obo/UBERON_0013118		sulcus of brain
 http://purl.obolibrary.org/obo/UBERON_0013126		vein of abdomen
+http://purl.obolibrary.org/obo/UBERON_0013127		pulmonary venous system
 http://purl.obolibrary.org/obo/UBERON_0013136		vein of lip
 http://purl.obolibrary.org/obo/UBERON_0013140		systemic vein
 http://purl.obolibrary.org/obo/UBERON_0013147		early mesencephalic vesicle
@@ -2640,11 +2617,10 @@ http://purl.obolibrary.org/obo/UBERON_0014796		common tendinous ring
 http://purl.obolibrary.org/obo/UBERON_0014889		left hemisphere of cerebellum
 http://purl.obolibrary.org/obo/UBERON_0014890		right hemisphere of cerebellum
 http://purl.obolibrary.org/obo/UBERON_0014891		brainstem white matter
-http://purl.obolibrary.org/obo/UBERON_0014892		skeletal muscle organ
+http://purl.obolibrary.org/obo/UBERON_0014892		skeletal muscle organ, vertebrate
 http://purl.obolibrary.org/obo/UBERON_0014903		primordial vasculature
 http://purl.obolibrary.org/obo/UBERON_0014907		intersomitic vessel
 http://purl.obolibrary.org/obo/UBERON_0014930		perivascular space
-http://purl.obolibrary.org/obo/UBERON_0014935		cerebral cortex marginal layer
 http://purl.obolibrary.org/obo/UBERON_0014950		layer of developing cerebral cortex
 http://purl.obolibrary.org/obo/UBERON_0015007		cervical vertebra endochondral element
 http://purl.obolibrary.org/obo/UBERON_0015008		thoracic vertebra endochondral element
@@ -3054,18 +3030,19 @@ http://purl.obolibrary.org/obo/UBERON_8410081		blood microvessel
 http://purl.obolibrary.org/obo/UBERON_8440004		laminar subdivision of the cortex
 http://purl.obolibrary.org/obo/UBERON_8440005		rostral periventricular region of the third ventricle
 http://purl.obolibrary.org/obo/UBERON_8440011		cortical visual area
-http://purl.obolibrary.org/obo/UBERON_8440012		cerebral nuclei
 http://purl.obolibrary.org/obo/UBERON_8440015		noradrenergic cell groups
 http://purl.obolibrary.org/obo/UBERON_8450002		excretory system
 http://purl.obolibrary.org/obo/UBERON_8480001		capillary of brain
 http://purl.obolibrary.org/obo/UBERON_8480002		thoracic aorta smooth muscle tissue
 http://purl.obolibrary.org/obo/UBERON_8480025		skin of clavicle region
 http://purl.obolibrary.org/obo/UBERON_8480029		skin of external genitalia
+http://purl.obolibrary.org/obo/UBERON_8480074		skin of gonad
 http://purl.obolibrary.org/obo/UBERON_8600004		visceral muscle tissue
 http://purl.obolibrary.org/obo/UBERON_8600006		visceral striated muscle tissue
 http://purl.obolibrary.org/obo/UBERON_8600012		submucosal gland acinus
 http://purl.obolibrary.org/obo/UBERON_8600017		bronchopulmonary segment
-https://purl.brain-bican.org/ontology/abao/ABA_ENTITY		ABA entity
+http://purl.obolibrary.org/obo/UBERON_8600018		neuroendocrine system
+http://purl.obolibrary.org/obo/UBERON_8600024		pulmonary venule
 https://purl.brain-bican.org/ontology/hbao/HBA_10142	http://atlas.brain-map.org/atlas?atlas=265297125#structure=10142	piriform cortex  ( human )
 https://purl.brain-bican.org/ontology/hbao/HBA_10143	http://atlas.brain-map.org/atlas?atlas=265297125#structure=10143	piriform cortex, left  ( human )
 https://purl.brain-bican.org/ontology/hbao/HBA_10144	http://atlas.brain-map.org/atlas?atlas=265297125#structure=10144	piriform cortex, right  ( human )
@@ -4905,4 +4882,3 @@ https://purl.brain-bican.org/ontology/hbao/HBA_9707	http://atlas.brain-map.org/a
 https://purl.brain-bican.org/ontology/hbao/HBA_9708	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9708	choroid plexus of the lateral ventricle  ( human )
 https://purl.brain-bican.org/ontology/hbao/HBA_9709	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9709	choroid plexus of the third ventricle  ( human )
 https://purl.brain-bican.org/ontology/hbao/HBA_9710	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9710	choroid plexus of the fourth ventricle  ( human )
-https://purl.brain-bican.org/ontology/hbao/HBA_ENTITY		HBA entity
