@@ -15,7 +15,7 @@ More information can be found at https://brain-bican.github.io/human_brain_atlas
 
 The latest version of the ontology can always be found at:
 
-https://purl.brain-bican.org/ontology/hbao.owl
+https://purl.brain-bican.org/ontology/hbao/hbao.owl
 
 (note this will not show up until the request has been approved by obofoundry.org)
 
