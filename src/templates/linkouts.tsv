@@ -254,7 +254,7 @@ http://purl.obolibrary.org/obo/UBERON_0001064		ventral pancreatic duct
 http://purl.obolibrary.org/obo/UBERON_0001068		skin of back
 http://purl.obolibrary.org/obo/UBERON_0001070		external carotid artery
 http://purl.obolibrary.org/obo/UBERON_0001071		superficial cervical artery
-http://purl.obolibrary.org/obo/UBERON_0001072		posterior vena cava
+http://purl.obolibrary.org/obo/UBERON_0001072		inferior vena cava
 http://purl.obolibrary.org/obo/UBERON_0001073		ileocecal junction
 http://purl.obolibrary.org/obo/UBERON_0001074		pericardial cavity
 http://purl.obolibrary.org/obo/UBERON_0001081		endocardium of ventricle
@@ -661,6 +661,7 @@ http://purl.obolibrary.org/obo/UBERON_0002203		vasculature of eye
 http://purl.obolibrary.org/obo/UBERON_0002204		musculoskeletal system
 http://purl.obolibrary.org/obo/UBERON_0002206		mammillary body
 http://purl.obolibrary.org/obo/UBERON_0002209		fibrous joint
+http://purl.obolibrary.org/obo/UBERON_0002211		nerve root
 http://purl.obolibrary.org/obo/UBERON_0002213		cartilaginous joint
 http://purl.obolibrary.org/obo/UBERON_0002216		symphysis
 http://purl.obolibrary.org/obo/UBERON_0002217		synovial joint
@@ -829,6 +830,7 @@ http://purl.obolibrary.org/obo/UBERON_0002614		medial part of ventral lateral nu
 http://purl.obolibrary.org/obo/UBERON_0002615		ventral tegmental decussation
 http://purl.obolibrary.org/obo/UBERON_0002616		regional part of brain
 http://purl.obolibrary.org/obo/UBERON_0002617		pars postrema of ventral lateral nucleus
+http://purl.obolibrary.org/obo/UBERON_0002618		root of trochlear nerve
 http://purl.obolibrary.org/obo/UBERON_0002620		tuber cinereum
 http://purl.obolibrary.org/obo/UBERON_0002622		preoptic periventricular nucleus
 http://purl.obolibrary.org/obo/UBERON_0002624		orbital part of inferior frontal gyrus
@@ -856,6 +858,7 @@ http://purl.obolibrary.org/obo/UBERON_0002664		lateral part of medial mammillary
 http://purl.obolibrary.org/obo/UBERON_0002665		supracallosal gyrus
 http://purl.obolibrary.org/obo/UBERON_0002666		mesencephalic tract of trigeminal nerve
 http://purl.obolibrary.org/obo/UBERON_0002667		lateral septal nucleus
+http://purl.obolibrary.org/obo/UBERON_0002668		oculomotor nerve root
 http://purl.obolibrary.org/obo/UBERON_0002673		vestibular nuclear complex
 http://purl.obolibrary.org/obo/UBERON_0002679		anterodorsal nucleus of thalamus
 http://purl.obolibrary.org/obo/UBERON_0002681		anteromedial nucleus of thalamus
@@ -894,6 +897,7 @@ http://purl.obolibrary.org/obo/UBERON_0002722		trochlear nucleus
 http://purl.obolibrary.org/obo/UBERON_0002726		cervical spinal cord
 http://purl.obolibrary.org/obo/UBERON_0002727		medial medullary lamina of globus pallidus
 http://purl.obolibrary.org/obo/UBERON_0002728		entorhinal cortex
+http://purl.obolibrary.org/obo/UBERON_0002731		vestibulocochlear nerve root
 http://purl.obolibrary.org/obo/UBERON_0002732		longitudinal pontine fibers
 http://purl.obolibrary.org/obo/UBERON_0002733		intralaminar nuclear group
 http://purl.obolibrary.org/obo/UBERON_0002734		superior temporal sulcus
@@ -920,6 +924,7 @@ http://purl.obolibrary.org/obo/UBERON_0002776		ventral nuclear group
 http://purl.obolibrary.org/obo/UBERON_0002778		ventral pallidum
 http://purl.obolibrary.org/obo/UBERON_0002779		lateral superior olivary nucleus
 http://purl.obolibrary.org/obo/UBERON_0002782		medial superior olivary nucleus
+http://purl.obolibrary.org/obo/UBERON_0002786		root of abducens nerve
 http://purl.obolibrary.org/obo/UBERON_0002787		decussation of trochlear nerve
 http://purl.obolibrary.org/obo/UBERON_0002788		anterior nuclear group
 http://purl.obolibrary.org/obo/UBERON_0002794		medial longitudinal fasciculus of pons
@@ -996,6 +1001,7 @@ http://purl.obolibrary.org/obo/UBERON_0002934		ventral oculomotor nucleus
 http://purl.obolibrary.org/obo/UBERON_0002935		magnocellular part of ventral anterior nucleus
 http://purl.obolibrary.org/obo/UBERON_0002936		magnocellular part of red nucleus
 http://purl.obolibrary.org/obo/UBERON_0002938		parvocellular part of red nucleus
+http://purl.obolibrary.org/obo/UBERON_0002939		ventral posteroinferior nucleus
 http://purl.obolibrary.org/obo/UBERON_0002940		anterior column of fornix
 http://purl.obolibrary.org/obo/UBERON_0002942		ventral posterolateral nucleus
 http://purl.obolibrary.org/obo/UBERON_0002943		lingual gyrus
@@ -1491,6 +1497,9 @@ http://purl.obolibrary.org/obo/UBERON_0004667		interventricular septum muscular 
 http://purl.obolibrary.org/obo/UBERON_0004668		fourth ventricle aperture
 http://purl.obolibrary.org/obo/UBERON_0004670		ependyma
 http://purl.obolibrary.org/obo/UBERON_0004671		gyrus rectus
+http://purl.obolibrary.org/obo/UBERON_0004673		trigeminal nerve root
+http://purl.obolibrary.org/obo/UBERON_0004674		facial nerve root
+http://purl.obolibrary.org/obo/UBERON_0004675		hypoglossal nerve root
 http://purl.obolibrary.org/obo/UBERON_0004677		spinal cord gray commissure
 http://purl.obolibrary.org/obo/UBERON_0004679		dentate gyrus molecular layer
 http://purl.obolibrary.org/obo/UBERON_0004680		body of fornix
@@ -1643,7 +1652,6 @@ http://purl.obolibrary.org/obo/UBERON_0005178		thoracic cavity element
 http://purl.obolibrary.org/obo/UBERON_0005181		thoracic segment organ
 http://purl.obolibrary.org/obo/UBERON_0005194		thoracic vein
 http://purl.obolibrary.org/obo/UBERON_0005204		larynx submucosa gland
-http://purl.obolibrary.org/obo/UBERON_0005216		optic eminence surface ectoderm
 http://purl.obolibrary.org/obo/UBERON_0005217		midbrain subarachnoid space
 http://purl.obolibrary.org/obo/UBERON_0005218		diencephalon subarachnoid space
 http://purl.obolibrary.org/obo/UBERON_0005219		hindbrain subarachnoid space
@@ -1932,6 +1940,7 @@ http://purl.obolibrary.org/obo/UBERON_0006813		nasal skeleton
 http://purl.obolibrary.org/obo/UBERON_0006815		areolar connective tissue
 http://purl.obolibrary.org/obo/UBERON_0006834		uterus or analog
 http://purl.obolibrary.org/obo/UBERON_0006840		nucleus of lateral lemniscus
+http://purl.obolibrary.org/obo/UBERON_0006843		root of cranial nerve
 http://purl.obolibrary.org/obo/UBERON_0006846		surface groove
 http://purl.obolibrary.org/obo/UBERON_0006847		cerebellar commissure
 http://purl.obolibrary.org/obo/UBERON_0006866		terminal part of digestive tract
@@ -1960,6 +1969,7 @@ http://purl.obolibrary.org/obo/UBERON_0006984		anatomical surface
 http://purl.obolibrary.org/obo/UBERON_0007005		cardiogenic splanchnic mesoderm
 http://purl.obolibrary.org/obo/UBERON_0007010		cleaving embryo
 http://purl.obolibrary.org/obo/UBERON_0007026		presumptive gut
+http://purl.obolibrary.org/obo/UBERON_0007037		mechanosensory system
 http://purl.obolibrary.org/obo/UBERON_0007098		mandibular neural crest
 http://purl.obolibrary.org/obo/UBERON_0007099		hyoid neural crest
 http://purl.obolibrary.org/obo/UBERON_0007100		primary circulatory organ
@@ -2191,6 +2201,9 @@ http://purl.obolibrary.org/obo/UBERON_0009616		presumptive midbrain
 http://purl.obolibrary.org/obo/UBERON_0009617		head paraxial mesoderm
 http://purl.obolibrary.org/obo/UBERON_0009618		trunk paraxial mesoderm
 http://purl.obolibrary.org/obo/UBERON_0009621		tail somite
+http://purl.obolibrary.org/obo/UBERON_0009623		spinal nerve root
+http://purl.obolibrary.org/obo/UBERON_0009630		root of thoracic nerve
+http://purl.obolibrary.org/obo/UBERON_0009632		root of cervical nerve
 http://purl.obolibrary.org/obo/UBERON_0009638		orbitosphenoid ossification center
 http://purl.obolibrary.org/obo/UBERON_0009641		ansa lenticularis
 http://purl.obolibrary.org/obo/UBERON_0009643		central tegmental tract
@@ -2225,6 +2238,7 @@ http://purl.obolibrary.org/obo/UBERON_0009891		facial mesenchyme
 http://purl.obolibrary.org/obo/UBERON_0009897		right auditory cortex
 http://purl.obolibrary.org/obo/UBERON_0009898		left auditory cortex
 http://purl.obolibrary.org/obo/UBERON_0009899		pole of cerebral hemisphere
+http://purl.obolibrary.org/obo/UBERON_0009906		root of optic nerve
 http://purl.obolibrary.org/obo/UBERON_0009911		lobule
 http://purl.obolibrary.org/obo/UBERON_0009912		anatomical lobe
 http://purl.obolibrary.org/obo/UBERON_0009920		optic neural crest
@@ -2373,6 +2387,7 @@ http://purl.obolibrary.org/obo/UBERON_0011185		gastrointestinal sphincter
 http://purl.obolibrary.org/obo/UBERON_0011189		lamina propria of large intestine
 http://purl.obolibrary.org/obo/UBERON_0011198		muscle layer of large intestine
 http://purl.obolibrary.org/obo/UBERON_0011201		muscle layer of small intestine
+http://purl.obolibrary.org/obo/UBERON_0011213		root of vagus nerve
 http://purl.obolibrary.org/obo/UBERON_0011214		nucleus of midbrain tectum
 http://purl.obolibrary.org/obo/UBERON_0011215		central nervous system cell part cluster
 http://purl.obolibrary.org/obo/UBERON_0011216		organ system subdivision
@@ -2499,6 +2514,7 @@ http://purl.obolibrary.org/obo/UBERON_0013160		epithalamus ventricular layer
 http://purl.obolibrary.org/obo/UBERON_0013161		left lateral ventricle
 http://purl.obolibrary.org/obo/UBERON_0013162		right lateral ventricle
 http://purl.obolibrary.org/obo/UBERON_0013199		stria of neuraxis
+http://purl.obolibrary.org/obo/UBERON_0013212		anal sac gland secretion
 http://purl.obolibrary.org/obo/UBERON_0013232		serous acinus
 http://purl.obolibrary.org/obo/UBERON_0013411		cranial cavity
 http://purl.obolibrary.org/obo/UBERON_0013479		lung endothelium
@@ -2585,6 +2601,7 @@ http://purl.obolibrary.org/obo/UBERON_0014604		paraventricular nucleus of the hy
 http://purl.obolibrary.org/obo/UBERON_0014608		inferior occipital gyrus
 http://purl.obolibrary.org/obo/UBERON_0014613		cervical spinal cord gray matter
 http://purl.obolibrary.org/obo/UBERON_0014614		cervical spinal cord white matter
+http://purl.obolibrary.org/obo/UBERON_0014615		accessory nerve root
 http://purl.obolibrary.org/obo/UBERON_0014618		middle frontal sulcus
 http://purl.obolibrary.org/obo/UBERON_0014636		thoracic spinal cord gray matter
 http://purl.obolibrary.org/obo/UBERON_0014637		thoracic spinal cord white matter
@@ -2762,6 +2779,8 @@ http://purl.obolibrary.org/obo/UBERON_0019303		occipital sulcus
 http://purl.obolibrary.org/obo/UBERON_0019304		sensory organ epithelium
 http://purl.obolibrary.org/obo/UBERON_0019306		nose epithelium
 http://purl.obolibrary.org/obo/UBERON_0019307		epithelium of external nose
+http://purl.obolibrary.org/obo/UBERON_0019310		glossopharyngeal nerve root
+http://purl.obolibrary.org/obo/UBERON_0019311		root of olfactory nerve
 http://purl.obolibrary.org/obo/UBERON_0019312		ventrolateral nucleus of solitary tract
 http://purl.obolibrary.org/obo/UBERON_0019314		epifascicular nucleus
 http://purl.obolibrary.org/obo/UBERON_0019319		exocrine gland of integumental system
@@ -3030,6 +3049,7 @@ http://purl.obolibrary.org/obo/UBERON_8410081		blood microvessel
 http://purl.obolibrary.org/obo/UBERON_8440004		laminar subdivision of the cortex
 http://purl.obolibrary.org/obo/UBERON_8440005		rostral periventricular region of the third ventricle
 http://purl.obolibrary.org/obo/UBERON_8440011		cortical visual area
+http://purl.obolibrary.org/obo/UBERON_8440012		cerebral nuclei
 http://purl.obolibrary.org/obo/UBERON_8440015		noradrenergic cell groups
 http://purl.obolibrary.org/obo/UBERON_8450002		excretory system
 http://purl.obolibrary.org/obo/UBERON_8480001		capillary of brain

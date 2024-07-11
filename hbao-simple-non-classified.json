@@ -10,9 +10,9 @@
         "val" : "Human Brain Atlas Ontology"
       }, {
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
-        "val" : "2023-12-22"
+        "val" : "2024-07-11"
       } ],
-      "version" : "https://purl.brain-bican.org/ontology/hbao/releases/2023-12-22/hbao-simple-non-classified.json"
+      "version" : "https://purl.brain-bican.org/ontology/hbao/releases/2024-07-11/hbao-simple-non-classified.json"
     },
     "nodes" : [ {
       "id" : "http://purl.obolibrary.org/obo/NCBITaxon_1",
@@ -2052,7 +2052,7 @@
       "meta" : {
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "posterior vena cava"
+          "val" : "inferior vena cava"
         } ]
       }
     }, {
@@ -5304,6 +5304,14 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002211",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "nerve root"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0002213",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -6648,6 +6656,14 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002618",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "root of trochlear nerve"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0002620",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -6861,6 +6877,14 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "lateral septal nucleus"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002668",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "oculomotor nerve root"
         } ]
       }
     }, {
@@ -7168,6 +7192,14 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002731",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "vestibulocochlear nerve root"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0002732",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -7373,6 +7405,14 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "medial superior olivary nucleus"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002786",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "root of abducens nerve"
         } ]
       }
     }, {
@@ -7981,6 +8021,14 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "parvocellular part of red nucleus"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002939",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "ventral posteroinferior nucleus"
         } ]
       }
     }, {
@@ -11944,6 +11992,30 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0004673",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "trigeminal nerve root"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0004674",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "facial nerve root"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0004675",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "hypoglossal nerve root"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0004677",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -13157,14 +13229,6 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "larynx submucosa gland"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0005216",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "optic eminence surface ectoderm"
         } ]
       }
     }, {
@@ -15472,6 +15536,14 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0006843",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "root of cranial nerve"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0006846",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -15693,6 +15765,14 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "presumptive gut"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0007037",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "mechanosensory system"
         } ]
       }
     }, {
@@ -17544,6 +17624,30 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0009623",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "spinal nerve root"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0009630",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "root of thoracic nerve"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0009632",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "root of cervical nerve"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0009638",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -17813,6 +17917,14 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "pole of cerebral hemisphere"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0009906",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "root of optic nerve"
         } ]
       }
     }, {
@@ -19000,6 +19112,14 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0011213",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "root of vagus nerve"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0011214",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -20008,6 +20128,14 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0013212",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "anal sac gland secretion"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0013232",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -20693,6 +20821,14 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "cervical spinal cord white matter"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0014615",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "accessory nerve root"
         } ]
       }
     }, {
@@ -22109,6 +22245,22 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "epithelium of external nose"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0019310",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "glossopharyngeal nerve root"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0019311",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "root of olfactory nerve"
         } ]
       }
     }, {
@@ -24253,6 +24405,14 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "cortical visual area"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_8440012",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "cerebral nuclei"
         } ]
       }
     }, {
@@ -35655,6 +35815,9 @@
           "val" : "http://atlas.brain-map.org/atlas?atlas=265297125#structure=4275"
         } ],
         "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000589",
+          "val" : "cerebral nuclei (human)"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "cerebral nuclei  ( human )"
         } ]
@@ -37991,6 +38154,9 @@
           "val" : "http://atlas.brain-map.org/atlas?atlas=265297125#structure=4426"
         } ],
         "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000589",
+          "val" : "ventral posteroinferior nucleus (human)"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "ventral posterior inferior nucleus of the thalamus, left  ( human )"
         } ]
@@ -47328,6 +47494,9 @@
           "val" : "http://atlas.brain-map.org/atlas?atlas=265297125#structure=9218"
         } ],
         "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000589",
+          "val" : "white matter (human)"
+        }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "white matter  ( human )"
         } ]
@@ -48736,7 +48905,7 @@
         } ],
         "basicPropertyValues" : [ {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000589",
-          "val" : "cranial nerve (human)"
+          "val" : "root of cranial nerve (human)"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "cranial nerves  ( human )"
@@ -49134,7 +49303,7 @@
         } ],
         "basicPropertyValues" : [ {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000589",
-          "val" : "trigeminal nerve (human)"
+          "val" : "trigeminal nerve root (human)"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "trigeminal nerve  ( human )"
@@ -49338,7 +49507,7 @@
         } ],
         "basicPropertyValues" : [ {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000589",
-          "val" : "glossopharyngeal nerve (human)"
+          "val" : "glossopharyngeal nerve root (human)"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "glossopharyngeal nerve  ( human )"
@@ -49389,7 +49558,7 @@
         } ],
         "basicPropertyValues" : [ {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000589",
-          "val" : "vagus nerve (human)"
+          "val" : "root of vagus nerve (human)"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "vagus nerve  ( human )"
@@ -49440,7 +49609,7 @@
         } ],
         "basicPropertyValues" : [ {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000589",
-          "val" : "accessory XI nerve (human)"
+          "val" : "accessory nerve root (human)"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "accessory nerve  ( human )"
@@ -49491,7 +49660,7 @@
         } ],
         "basicPropertyValues" : [ {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000589",
-          "val" : "hypoglossal nerve (human)"
+          "val" : "hypoglossal nerve root (human)"
         }, {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "hypoglossal nerve  ( human )"
@@ -58857,6 +59026,10 @@
     }, {
       "sub" : "https://purl.brain-bican.org/ontology/hbao/HBA_4275",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
+      "obj" : "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+    }, {
+      "sub" : "https://purl.brain-bican.org/ontology/hbao/HBA_4275",
+      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "https://purl.brain-bican.org/ontology/hbao/HBA_4007"
     }, {
       "sub" : "https://purl.brain-bican.org/ontology/hbao/HBA_4276",
@@ -59594,6 +59767,10 @@
       "sub" : "https://purl.brain-bican.org/ontology/hbao/HBA_4425",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "https://purl.brain-bican.org/ontology/hbao/HBA_4417"
+    }, {
+      "sub" : "https://purl.brain-bican.org/ontology/hbao/HBA_4426",
+      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
+      "obj" : "http://purl.obolibrary.org/obo/NCBITaxon_9606"
     }, {
       "sub" : "https://purl.brain-bican.org/ontology/hbao/HBA_4426",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
@@ -62458,6 +62635,10 @@
       "sub" : "https://purl.brain-bican.org/ontology/hbao/HBA_9214",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "https://purl.brain-bican.org/ontology/hbao/HBA_9211"
+    }, {
+      "sub" : "https://purl.brain-bican.org/ontology/hbao/HBA_9218",
+      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
+      "obj" : "http://purl.obolibrary.org/obo/NCBITaxon_9606"
     }, {
       "sub" : "https://purl.brain-bican.org/ontology/hbao/HBA_9218",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",

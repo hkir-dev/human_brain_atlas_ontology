@@ -11,10 +11,10 @@
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="https://purl.brain-bican.org/ontology/hbao/hbao-simple-non-classified.owl">
-        <owl:versionIRI rdf:resource="https://purl.brain-bican.org/ontology/hbao/releases/2023-12-22/hbao-simple-non-classified.owl"/>
+        <owl:versionIRI rdf:resource="https://purl.brain-bican.org/ontology/hbao/releases/2024-07-11/hbao-simple-non-classified.owl"/>
         <terms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <terms:title>Human Brain Atlas Ontology</terms:title>
-        <owl:versionInfo>2023-12-22</owl:versionInfo>
+        <owl:versionInfo>2024-07-11</owl:versionInfo>
     </owl:Ontology>
     
 
@@ -12064,9 +12064,16 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
                 <owl:someValuesFrom rdf:resource="https://purl.brain-bican.org/ontology/hbao/HBA_4007"/>
             </owl:Restriction>
         </rdfs:subClassOf>
+        <obo:IAO_0000589>cerebral nuclei (human)</obo:IAO_0000589>
         <oboInOwl:hasDbXref>http://atlas.brain-map.org/atlas?atlas=265297125#structure=4275</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym>CxN</oboInOwl:hasExactSynonym>
         <skos:prefLabel>cerebral nuclei  ( human )</skos:prefLabel>
@@ -14592,9 +14599,16 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
                 <owl:someValuesFrom rdf:resource="https://purl.brain-bican.org/ontology/hbao/HBA_4417"/>
             </owl:Restriction>
         </rdfs:subClassOf>
+        <obo:IAO_0000589>ventral posteroinferior nucleus (human)</obo:IAO_0000589>
         <oboInOwl:hasDbXref>http://atlas.brain-map.org/atlas?atlas=265297125#structure=4426</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym>VPI</oboInOwl:hasExactSynonym>
         <skos:prefLabel>ventral posterior inferior nucleus of the thalamus, left  ( human )</skos:prefLabel>
@@ -24581,9 +24595,16 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_9606"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
                 <owl:someValuesFrom rdf:resource="https://purl.brain-bican.org/ontology/hbao/HBA_4005"/>
             </owl:Restriction>
         </rdfs:subClassOf>
+        <obo:IAO_0000589>white matter (human)</obo:IAO_0000589>
         <oboInOwl:hasDbXref>http://atlas.brain-map.org/atlas?atlas=265297125#structure=9218</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym>WM</oboInOwl:hasExactSynonym>
         <skos:prefLabel>white matter  ( human )</skos:prefLabel>
@@ -26145,7 +26166,7 @@
                 <owl:someValuesFrom rdf:resource="https://purl.brain-bican.org/ontology/hbao/HBA_9298"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <obo:IAO_0000589>cranial nerve (human)</obo:IAO_0000589>
+        <obo:IAO_0000589>root of cranial nerve (human)</obo:IAO_0000589>
         <oboInOwl:hasDbXref>http://atlas.brain-map.org/atlas?atlas=265297125#structure=9299</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym>CN</oboInOwl:hasExactSynonym>
         <skos:prefLabel>cranial nerves  ( human )</skos:prefLabel>
@@ -26583,7 +26604,7 @@
                 <owl:someValuesFrom rdf:resource="https://purl.brain-bican.org/ontology/hbao/HBA_9299"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <obo:IAO_0000589>trigeminal nerve (human)</obo:IAO_0000589>
+        <obo:IAO_0000589>trigeminal nerve root (human)</obo:IAO_0000589>
         <oboInOwl:hasDbXref>http://atlas.brain-map.org/atlas?atlas=265297125#structure=9322</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym>5n</oboInOwl:hasExactSynonym>
         <skos:prefLabel>trigeminal nerve  ( human )</skos:prefLabel>
@@ -26803,7 +26824,7 @@
                 <owl:someValuesFrom rdf:resource="https://purl.brain-bican.org/ontology/hbao/HBA_9299"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <obo:IAO_0000589>glossopharyngeal nerve (human)</obo:IAO_0000589>
+        <obo:IAO_0000589>glossopharyngeal nerve root (human)</obo:IAO_0000589>
         <oboInOwl:hasDbXref>http://atlas.brain-map.org/atlas?atlas=265297125#structure=9334</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym>9n</oboInOwl:hasExactSynonym>
         <skos:prefLabel>glossopharyngeal nerve  ( human )</skos:prefLabel>
@@ -26858,7 +26879,7 @@
                 <owl:someValuesFrom rdf:resource="https://purl.brain-bican.org/ontology/hbao/HBA_9299"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <obo:IAO_0000589>vagus nerve (human)</obo:IAO_0000589>
+        <obo:IAO_0000589>root of vagus nerve (human)</obo:IAO_0000589>
         <oboInOwl:hasDbXref>http://atlas.brain-map.org/atlas?atlas=265297125#structure=9337</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym>10n</oboInOwl:hasExactSynonym>
         <skos:prefLabel>vagus nerve  ( human )</skos:prefLabel>
@@ -26913,7 +26934,7 @@
                 <owl:someValuesFrom rdf:resource="https://purl.brain-bican.org/ontology/hbao/HBA_9299"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <obo:IAO_0000589>accessory XI nerve (human)</obo:IAO_0000589>
+        <obo:IAO_0000589>accessory nerve root (human)</obo:IAO_0000589>
         <oboInOwl:hasDbXref>http://atlas.brain-map.org/atlas?atlas=265297125#structure=9340</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym>11nf</oboInOwl:hasExactSynonym>
         <skos:prefLabel>accessory nerve  ( human )</skos:prefLabel>
@@ -26968,7 +26989,7 @@
                 <owl:someValuesFrom rdf:resource="https://purl.brain-bican.org/ontology/hbao/HBA_9299"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <obo:IAO_0000589>hypoglossal nerve (human)</obo:IAO_0000589>
+        <obo:IAO_0000589>hypoglossal nerve root (human)</obo:IAO_0000589>
         <oboInOwl:hasDbXref>http://atlas.brain-map.org/atlas?atlas=265297125#structure=9343</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym>12n</oboInOwl:hasExactSynonym>
         <skos:prefLabel>hypoglossal nerve  ( human )</skos:prefLabel>
@@ -34262,7 +34283,7 @@
         <skos:prefLabel>superficial cervical artery</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001072">
-        <skos:prefLabel>posterior vena cava</skos:prefLabel>
+        <skos:prefLabel>inferior vena cava</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001073">
         <skos:prefLabel>ileocecal junction</skos:prefLabel>
@@ -35482,6 +35503,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002209">
         <skos:prefLabel>fibrous joint</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002211">
+        <skos:prefLabel>nerve root</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002213">
         <skos:prefLabel>cartilaginous joint</skos:prefLabel>
     </rdf:Description>
@@ -35986,6 +36010,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002617">
         <skos:prefLabel>pars postrema of ventral lateral nucleus</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002618">
+        <skos:prefLabel>root of trochlear nerve</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002620">
         <skos:prefLabel>tuber cinereum</skos:prefLabel>
     </rdf:Description>
@@ -36066,6 +36093,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002667">
         <skos:prefLabel>lateral septal nucleus</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002668">
+        <skos:prefLabel>oculomotor nerve root</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002673">
         <skos:prefLabel>vestibular nuclear complex</skos:prefLabel>
@@ -36181,6 +36211,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002728">
         <skos:prefLabel>entorhinal cortex</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002731">
+        <skos:prefLabel>vestibulocochlear nerve root</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002732">
         <skos:prefLabel>longitudinal pontine fibers</skos:prefLabel>
     </rdf:Description>
@@ -36258,6 +36291,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002782">
         <skos:prefLabel>medial superior olivary nucleus</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002786">
+        <skos:prefLabel>root of abducens nerve</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002787">
         <skos:prefLabel>decussation of trochlear nerve</skos:prefLabel>
@@ -36486,6 +36522,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002938">
         <skos:prefLabel>parvocellular part of red nucleus</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002939">
+        <skos:prefLabel>ventral posteroinferior nucleus</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002940">
         <skos:prefLabel>anterior column of fornix</skos:prefLabel>
@@ -37972,6 +38011,15 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004671">
         <skos:prefLabel>gyrus rectus</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004673">
+        <skos:prefLabel>trigeminal nerve root</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004674">
+        <skos:prefLabel>facial nerve root</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004675">
+        <skos:prefLabel>hypoglossal nerve root</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004677">
         <skos:prefLabel>spinal cord gray commissure</skos:prefLabel>
     </rdf:Description>
@@ -38427,9 +38475,6 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005204">
         <skos:prefLabel>larynx submucosa gland</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005216">
-        <skos:prefLabel>optic eminence surface ectoderm</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005217">
         <skos:prefLabel>midbrain subarachnoid space</skos:prefLabel>
@@ -39295,6 +39340,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0006840">
         <skos:prefLabel>nucleus of lateral lemniscus</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0006843">
+        <skos:prefLabel>root of cranial nerve</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0006846">
         <skos:prefLabel>surface groove</skos:prefLabel>
     </rdf:Description>
@@ -39378,6 +39426,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007026">
         <skos:prefLabel>presumptive gut</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007037">
+        <skos:prefLabel>mechanosensory system</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007098">
         <skos:prefLabel>mandibular neural crest</skos:prefLabel>
@@ -40072,6 +40123,15 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009621">
         <skos:prefLabel>tail somite</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009623">
+        <skos:prefLabel>spinal nerve root</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009630">
+        <skos:prefLabel>root of thoracic nerve</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009632">
+        <skos:prefLabel>root of cervical nerve</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009638">
         <skos:prefLabel>orbitosphenoid ossification center</skos:prefLabel>
     </rdf:Description>
@@ -40173,6 +40233,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009899">
         <skos:prefLabel>pole of cerebral hemisphere</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009906">
+        <skos:prefLabel>root of optic nerve</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009911">
         <skos:prefLabel>lobule</skos:prefLabel>
@@ -40618,6 +40681,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0011201">
         <skos:prefLabel>muscle layer of small intestine</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0011213">
+        <skos:prefLabel>root of vagus nerve</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0011214">
         <skos:prefLabel>nucleus of midbrain tectum</skos:prefLabel>
     </rdf:Description>
@@ -40996,6 +41062,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0013199">
         <skos:prefLabel>stria of neuraxis</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0013212">
+        <skos:prefLabel>anal sac gland secretion</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0013232">
         <skos:prefLabel>serous acinus</skos:prefLabel>
     </rdf:Description>
@@ -41253,6 +41322,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0014614">
         <skos:prefLabel>cervical spinal cord white matter</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0014615">
+        <skos:prefLabel>accessory nerve root</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0014618">
         <skos:prefLabel>middle frontal sulcus</skos:prefLabel>
@@ -41784,6 +41856,12 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0019307">
         <skos:prefLabel>epithelium of external nose</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0019310">
+        <skos:prefLabel>glossopharyngeal nerve root</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0019311">
+        <skos:prefLabel>root of olfactory nerve</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0019312">
         <skos:prefLabel>ventrolateral nucleus of solitary tract</skos:prefLabel>
@@ -42588,6 +42666,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440011">
         <skos:prefLabel>cortical visual area</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440012">
+        <skos:prefLabel>cerebral nuclei</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440015">
         <skos:prefLabel>noradrenergic cell groups</skos:prefLabel>

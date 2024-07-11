@@ -1,10 +1,10 @@
 format-version: 1.2
-data-version: https://purl.brain-bican.org/ontology/hbao/releases/2023-12-22/hbao-base.owl
+data-version: https://purl.brain-bican.org/ontology/hbao/releases/2024-07-11/hbao-base.owl
 ontology: https://purl.brain-bican.org/ontology/hbao/hbao-base.owl
 property_value: http://purl.org/dc/elements/1.1/type IAO:8000001
 property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/by/4.0/
 property_value: http://purl.org/dc/terms/title "Human Brain Atlas Ontology" xsd:string
-property_value: owl:versionInfo "2023-12-22" xsd:string
+property_value: owl:versionInfo "2024-07-11" xsd:string
 
 [Term]
 id: HBA:10142
@@ -6234,7 +6234,12 @@ id: HBA:4275
 name: cerebral nuclei
 synonym: "CxN" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=4275
+is_a: UBERON:8440012
+intersection_of: UBERON:8440012
+intersection_of: BFO:0000050 NCBITaxon:9606
 relationship: BFO:0000050 HBA:4007 ! telencephalon
+relationship: BFO:0000050 NCBITaxon:9606
+property_value: IAO:0000589 "cerebral nuclei (human)" xsd:string
 property_value: prefLabel "cerebral nuclei  ( human )" xsd:string
 
 [Term]
@@ -7570,7 +7575,12 @@ id: HBA:4426
 name: ventral posterior inferior nucleus of the thalamus, left
 synonym: "VPI" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=4426
+is_a: UBERON:0002939
+intersection_of: UBERON:0002939
+intersection_of: BFO:0000050 NCBITaxon:9606
 relationship: BFO:0000050 HBA:4417 ! lateral group of nuclei, left, ventral division
+relationship: BFO:0000050 NCBITaxon:9606
+property_value: IAO:0000589 "ventral posteroinferior nucleus (human)" xsd:string
 property_value: prefLabel "ventral posterior inferior nucleus of the thalamus, left  ( human )" xsd:string
 
 [Term]
@@ -12809,7 +12819,12 @@ id: HBA:9218
 name: white matter
 synonym: "WM" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9218
+is_a: UBERON:0002316
+intersection_of: UBERON:0002316
+intersection_of: BFO:0000050 NCBITaxon:9606
 relationship: BFO:0000050 HBA:4005 ! brain
+relationship: BFO:0000050 NCBITaxon:9606
+property_value: IAO:0000589 "white matter (human)" xsd:string
 property_value: prefLabel "white matter  ( human )" xsd:string
 
 [Term]
@@ -13642,12 +13657,12 @@ id: HBA:9299
 name: cranial nerves
 synonym: "CN" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9299
-is_a: UBERON:0001785
-intersection_of: UBERON:0001785
+is_a: UBERON:0006843
+intersection_of: UBERON:0006843
 intersection_of: BFO:0000050 NCBITaxon:9606
 relationship: BFO:0000050 HBA:9298 ! myelencephalic white matter
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "cranial nerve (human)" xsd:string
+property_value: IAO:0000589 "root of cranial nerve (human)" xsd:string
 property_value: prefLabel "cranial nerves  ( human )" xsd:string
 
 [Term]
@@ -13876,12 +13891,12 @@ id: HBA:9322
 name: trigeminal nerve
 synonym: "5n" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9322
-is_a: UBERON:0001645
-intersection_of: UBERON:0001645
+is_a: UBERON:0004673
+intersection_of: UBERON:0004673
 intersection_of: BFO:0000050 NCBITaxon:9606
 relationship: BFO:0000050 HBA:9299 ! cranial nerves
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "trigeminal nerve (human)" xsd:string
+property_value: IAO:0000589 "trigeminal nerve root (human)" xsd:string
 property_value: prefLabel "trigeminal nerve  ( human )" xsd:string
 
 [Term]
@@ -13992,12 +14007,12 @@ id: HBA:9334
 name: glossopharyngeal nerve
 synonym: "9n" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9334
-is_a: UBERON:0001649
-intersection_of: UBERON:0001649
+is_a: UBERON:0019310
+intersection_of: UBERON:0019310
 intersection_of: BFO:0000050 NCBITaxon:9606
 relationship: BFO:0000050 HBA:9299 ! cranial nerves
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "glossopharyngeal nerve (human)" xsd:string
+property_value: IAO:0000589 "glossopharyngeal nerve root (human)" xsd:string
 property_value: prefLabel "glossopharyngeal nerve  ( human )" xsd:string
 
 [Term]
@@ -14021,12 +14036,12 @@ id: HBA:9337
 name: vagus nerve
 synonym: "10n" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9337
-is_a: UBERON:0001759
-intersection_of: UBERON:0001759
+is_a: UBERON:0011213
+intersection_of: UBERON:0011213
 intersection_of: BFO:0000050 NCBITaxon:9606
 relationship: BFO:0000050 HBA:9299 ! cranial nerves
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "vagus nerve (human)" xsd:string
+property_value: IAO:0000589 "root of vagus nerve (human)" xsd:string
 property_value: prefLabel "vagus nerve  ( human )" xsd:string
 
 [Term]
@@ -14050,12 +14065,12 @@ id: HBA:9340
 name: accessory nerve
 synonym: "11nf" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9340
-is_a: UBERON:0002019
-intersection_of: UBERON:0002019
+is_a: UBERON:0014615
+intersection_of: UBERON:0014615
 intersection_of: BFO:0000050 NCBITaxon:9606
 relationship: BFO:0000050 HBA:9299 ! cranial nerves
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "accessory XI nerve (human)" xsd:string
+property_value: IAO:0000589 "accessory nerve root (human)" xsd:string
 property_value: prefLabel "accessory nerve  ( human )" xsd:string
 
 [Term]
@@ -14079,12 +14094,12 @@ id: HBA:9343
 name: hypoglossal nerve
 synonym: "12n" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9343
-is_a: UBERON:0001650
-intersection_of: UBERON:0001650
+is_a: UBERON:0004675
+intersection_of: UBERON:0004675
 intersection_of: BFO:0000050 NCBITaxon:9606
 relationship: BFO:0000050 HBA:9299 ! cranial nerves
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "hypoglossal nerve (human)" xsd:string
+property_value: IAO:0000589 "hypoglossal nerve root (human)" xsd:string
 property_value: prefLabel "hypoglossal nerve  ( human )" xsd:string
 
 [Term]
@@ -18564,7 +18579,7 @@ property_value: prefLabel "superficial cervical artery" xsd:string
 
 [Term]
 id: UBERON:0001072
-property_value: prefLabel "posterior vena cava" xsd:string
+property_value: prefLabel "inferior vena cava" xsd:string
 
 [Term]
 id: UBERON:0001073
@@ -20191,6 +20206,10 @@ id: UBERON:0002209
 property_value: prefLabel "fibrous joint" xsd:string
 
 [Term]
+id: UBERON:0002211
+property_value: prefLabel "nerve root" xsd:string
+
+[Term]
 id: UBERON:0002213
 property_value: prefLabel "cartilaginous joint" xsd:string
 
@@ -20863,6 +20882,10 @@ id: UBERON:0002617
 property_value: prefLabel "pars postrema of ventral lateral nucleus" xsd:string
 
 [Term]
+id: UBERON:0002618
+property_value: prefLabel "root of trochlear nerve" xsd:string
+
+[Term]
 id: UBERON:0002620
 property_value: prefLabel "tuber cinereum" xsd:string
 
@@ -20969,6 +20992,10 @@ property_value: prefLabel "mesencephalic tract of trigeminal nerve" xsd:string
 [Term]
 id: UBERON:0002667
 property_value: prefLabel "lateral septal nucleus" xsd:string
+
+[Term]
+id: UBERON:0002668
+property_value: prefLabel "oculomotor nerve root" xsd:string
 
 [Term]
 id: UBERON:0002673
@@ -21123,6 +21150,10 @@ id: UBERON:0002728
 property_value: prefLabel "entorhinal cortex" xsd:string
 
 [Term]
+id: UBERON:0002731
+property_value: prefLabel "vestibulocochlear nerve root" xsd:string
+
+[Term]
 id: UBERON:0002732
 property_value: prefLabel "longitudinal pontine fibers" xsd:string
 
@@ -21225,6 +21256,10 @@ property_value: prefLabel "lateral superior olivary nucleus" xsd:string
 [Term]
 id: UBERON:0002782
 property_value: prefLabel "medial superior olivary nucleus" xsd:string
+
+[Term]
+id: UBERON:0002786
+property_value: prefLabel "root of abducens nerve" xsd:string
 
 [Term]
 id: UBERON:0002787
@@ -21529,6 +21564,10 @@ property_value: prefLabel "magnocellular part of red nucleus" xsd:string
 [Term]
 id: UBERON:0002938
 property_value: prefLabel "parvocellular part of red nucleus" xsd:string
+
+[Term]
+id: UBERON:0002939
+property_value: prefLabel "ventral posteroinferior nucleus" xsd:string
 
 [Term]
 id: UBERON:0002940
@@ -23511,6 +23550,18 @@ id: UBERON:0004671
 property_value: prefLabel "gyrus rectus" xsd:string
 
 [Term]
+id: UBERON:0004673
+property_value: prefLabel "trigeminal nerve root" xsd:string
+
+[Term]
+id: UBERON:0004674
+property_value: prefLabel "facial nerve root" xsd:string
+
+[Term]
+id: UBERON:0004675
+property_value: prefLabel "hypoglossal nerve root" xsd:string
+
+[Term]
 id: UBERON:0004677
 property_value: prefLabel "spinal cord gray commissure" xsd:string
 
@@ -24117,10 +24168,6 @@ property_value: prefLabel "thoracic vein" xsd:string
 [Term]
 id: UBERON:0005204
 property_value: prefLabel "larynx submucosa gland" xsd:string
-
-[Term]
-id: UBERON:0005216
-property_value: prefLabel "optic eminence surface ectoderm" xsd:string
 
 [Term]
 id: UBERON:0005217
@@ -25275,6 +25322,10 @@ id: UBERON:0006840
 property_value: prefLabel "nucleus of lateral lemniscus" xsd:string
 
 [Term]
+id: UBERON:0006843
+property_value: prefLabel "root of cranial nerve" xsd:string
+
+[Term]
 id: UBERON:0006846
 property_value: prefLabel "surface groove" xsd:string
 
@@ -25385,6 +25436,10 @@ property_value: prefLabel "cleaving embryo" xsd:string
 [Term]
 id: UBERON:0007026
 property_value: prefLabel "presumptive gut" xsd:string
+
+[Term]
+id: UBERON:0007037
+property_value: prefLabel "mechanosensory system" xsd:string
 
 [Term]
 id: UBERON:0007098
@@ -26311,6 +26366,18 @@ id: UBERON:0009621
 property_value: prefLabel "tail somite" xsd:string
 
 [Term]
+id: UBERON:0009623
+property_value: prefLabel "spinal nerve root" xsd:string
+
+[Term]
+id: UBERON:0009630
+property_value: prefLabel "root of thoracic nerve" xsd:string
+
+[Term]
+id: UBERON:0009632
+property_value: prefLabel "root of cervical nerve" xsd:string
+
+[Term]
 id: UBERON:0009638
 property_value: prefLabel "orbitosphenoid ossification center" xsd:string
 
@@ -26445,6 +26512,10 @@ property_value: prefLabel "left auditory cortex" xsd:string
 [Term]
 id: UBERON:0009899
 property_value: prefLabel "pole of cerebral hemisphere" xsd:string
+
+[Term]
+id: UBERON:0009906
+property_value: prefLabel "root of optic nerve" xsd:string
 
 [Term]
 id: UBERON:0009911
@@ -27039,6 +27110,10 @@ id: UBERON:0011201
 property_value: prefLabel "muscle layer of small intestine" xsd:string
 
 [Term]
+id: UBERON:0011213
+property_value: prefLabel "root of vagus nerve" xsd:string
+
+[Term]
 id: UBERON:0011214
 property_value: prefLabel "nucleus of midbrain tectum" xsd:string
 
@@ -27543,6 +27618,10 @@ id: UBERON:0013199
 property_value: prefLabel "stria of neuraxis" xsd:string
 
 [Term]
+id: UBERON:0013212
+property_value: prefLabel "anal sac gland secretion" xsd:string
+
+[Term]
 id: UBERON:0013232
 property_value: prefLabel "serous acinus" xsd:string
 
@@ -27885,6 +27964,10 @@ property_value: prefLabel "cervical spinal cord gray matter" xsd:string
 [Term]
 id: UBERON:0014614
 property_value: prefLabel "cervical spinal cord white matter" xsd:string
+
+[Term]
+id: UBERON:0014615
+property_value: prefLabel "accessory nerve root" xsd:string
 
 [Term]
 id: UBERON:0014618
@@ -28593,6 +28676,14 @@ property_value: prefLabel "nose epithelium" xsd:string
 [Term]
 id: UBERON:0019307
 property_value: prefLabel "epithelium of external nose" xsd:string
+
+[Term]
+id: UBERON:0019310
+property_value: prefLabel "glossopharyngeal nerve root" xsd:string
+
+[Term]
+id: UBERON:0019311
+property_value: prefLabel "root of olfactory nerve" xsd:string
 
 [Term]
 id: UBERON:0019312
@@ -29665,6 +29756,10 @@ property_value: prefLabel "rostral periventricular region of the third ventricle
 [Term]
 id: UBERON:8440011
 property_value: prefLabel "cortical visual area" xsd:string
+
+[Term]
+id: UBERON:8440012
+property_value: prefLabel "cerebral nuclei" xsd:string
 
 [Term]
 id: UBERON:8440015
