@@ -1,9 +1,9 @@
 format-version: 1.2
-data-version: https://purl.brain-bican.org/ontology/hbao/releases/2023-12-22/hbao-simple-non-classified.owl
+data-version: https://purl.brain-bican.org/ontology/hbao/releases/2024-07-11/hbao-simple-non-classified.owl
 ontology: https://purl.brain-bican.org/ontology/hbao/hbao-simple-non-classified.owl
 property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/by/4.0/
 property_value: http://purl.org/dc/terms/title "Human Brain Atlas Ontology" xsd:string
-property_value: owl:versionInfo "2023-12-22" xsd:string
+property_value: owl:versionInfo "2024-07-11" xsd:string
 
 [Term]
 id: HBA:10142
@@ -5056,6 +5056,8 @@ id: HBA:4275
 synonym: "CxN" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=4275
 relationship: BFO:0000050 HBA:4007
+relationship: BFO:0000050 NCBITaxon:9606
+property_value: IAO:0000589 "cerebral nuclei (human)" xsd:string
 property_value: prefLabel "cerebral nuclei  ( human )" xsd:string
 
 [Term]
@@ -6111,6 +6113,8 @@ id: HBA:4426
 synonym: "VPI" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=4426
 relationship: BFO:0000050 HBA:4417
+relationship: BFO:0000050 NCBITaxon:9606
+property_value: IAO:0000589 "ventral posteroinferior nucleus (human)" xsd:string
 property_value: prefLabel "ventral posterior inferior nucleus of the thalamus, left  ( human )" xsd:string
 
 [Term]
@@ -10308,6 +10312,8 @@ id: HBA:9218
 synonym: "WM" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9218
 relationship: BFO:0000050 HBA:4005
+relationship: BFO:0000050 NCBITaxon:9606
+property_value: IAO:0000589 "white matter (human)" xsd:string
 property_value: prefLabel "white matter  ( human )" xsd:string
 
 [Term]
@@ -10950,7 +10956,7 @@ synonym: "CN" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9299
 relationship: BFO:0000050 HBA:9298
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "cranial nerve (human)" xsd:string
+property_value: IAO:0000589 "root of cranial nerve (human)" xsd:string
 property_value: prefLabel "cranial nerves  ( human )" xsd:string
 
 [Term]
@@ -11131,7 +11137,7 @@ synonym: "5n" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9322
 relationship: BFO:0000050 HBA:9299
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "trigeminal nerve (human)" xsd:string
+property_value: IAO:0000589 "trigeminal nerve root (human)" xsd:string
 property_value: prefLabel "trigeminal nerve  ( human )" xsd:string
 
 [Term]
@@ -11223,7 +11229,7 @@ synonym: "9n" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9334
 relationship: BFO:0000050 HBA:9299
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "glossopharyngeal nerve (human)" xsd:string
+property_value: IAO:0000589 "glossopharyngeal nerve root (human)" xsd:string
 property_value: prefLabel "glossopharyngeal nerve  ( human )" xsd:string
 
 [Term]
@@ -11246,7 +11252,7 @@ synonym: "10n" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9337
 relationship: BFO:0000050 HBA:9299
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "vagus nerve (human)" xsd:string
+property_value: IAO:0000589 "root of vagus nerve (human)" xsd:string
 property_value: prefLabel "vagus nerve  ( human )" xsd:string
 
 [Term]
@@ -11269,7 +11275,7 @@ synonym: "11nf" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9340
 relationship: BFO:0000050 HBA:9299
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "accessory XI nerve (human)" xsd:string
+property_value: IAO:0000589 "accessory nerve root (human)" xsd:string
 property_value: prefLabel "accessory nerve  ( human )" xsd:string
 
 [Term]
@@ -11292,7 +11298,7 @@ synonym: "12n" EXACT []
 xref: http://atlas.brain-map.org/atlas?atlas=265297125#structure=9343
 relationship: BFO:0000050 HBA:9299
 relationship: BFO:0000050 NCBITaxon:9606
-property_value: IAO:0000589 "hypoglossal nerve (human)" xsd:string
+property_value: IAO:0000589 "hypoglossal nerve root (human)" xsd:string
 property_value: prefLabel "hypoglossal nerve  ( human )" xsd:string
 
 [Term]

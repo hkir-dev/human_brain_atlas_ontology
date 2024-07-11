@@ -1,20 +1,7 @@
 format-version: 1.2
-data-version: https://purl.brain-bican.org/ontology/hbao/releases/2023-12-22/hbao-simple.owl
+data-version: https://purl.brain-bican.org/ontology/hbao/releases/2024-07-11/hbao-simple.owl
 ontology: https://purl.brain-bican.org/ontology/hbao/hbao-simple.owl
-property_value: dcterms-license https://creativecommons.org/licenses/by/4.0/
+property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/by/4.0/
 property_value: http://purl.org/dc/terms/title "Human Brain Atlas Ontology" xsd:string
-property_value: owl:versionInfo "2023-12-22" xsd:string
-
-[Typedef]
-id: dcterms-license
-name: license
-namespace: uberon
-xref: http://purl.org/dc/terms/license
-is_metadata_tag: true
-
-[Typedef]
-id: part_of
-name: part of
-namespace: uberon
-xref: BFO:0000050
+property_value: owl:versionInfo "2024-07-11" xsd:string
 
