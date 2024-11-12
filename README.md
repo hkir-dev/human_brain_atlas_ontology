@@ -3,7 +3,7 @@
 
 # Human Brain Atlas Ontology
 
-This repository contains an application ontology built by combining ontologised versions of the Allen Institute Human Brain Atlas (HBA) StructureGraph mapped to Uberon.   It can be searched and browsed on the [ontology lookup service](https://www.ebi.ac.uk/ols4/ontologies/hba).
+This repository contains an application ontology built by combining ontologised versions of the Allen Institute Human Brain Atlas (HBA) StructureGraph mapped to Uberon.   It can be [searched and browsed on the ontology lookup service](https://www.ebi.ac.uk/ols4/ontologies/hba).
 
 Mappings to Uberon are hosted on the Uberon repo: [uberon-bridge-to-aba.owl](https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-aba.owl).
 
