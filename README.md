@@ -7,7 +7,9 @@ This repository contains an application ontology built by combining ontologised 
 
 Mappings to Uberon are hosted on the Uberon repo: [uberon-bridge-to-aba.owl](https://raw.githubusercontent.com/obophenotype/uberon/master/src/ontology/bridge/uberon-bridge-to-aba.owl).
 
-The Allen Structuregraph JSON from which this is built can be found at: https://api.brain-map.org/api/v2/structure_graph_download/10.json. This structuregraph represents the browseable graph of annotations present in the Allen "[Human Brain Guide](https://atlas.brain-map.org/atlas?atlas=265297125)" atlas. Individual terms in this ontology are linked to the corresonding term and brain region on the atlas.
+The Allen Structuregraph JSON from which this is built can be found at: https://api.brain-map.org/api/v2/structure_graph_download/10.json. 
+
+This structuregraph represents the browseable graph of annotations present in the Allen "[Human Brain Guide](https://atlas.brain-map.org/atlas?atlas=265297125)" atlas. Individual terms in this ontology are linked to the corresonding term and brain region on the atlas.
 
 e.g. nucleus accumbens in OLS:
 
